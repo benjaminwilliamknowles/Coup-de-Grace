@@ -1,0 +1,2218 @@
+Media,Model,Treatment,Initial Density,Days of incubation,E. huxleyi per mL
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,0,10
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,0,102
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,0,1015
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,0,10153
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,0,101219
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,0,10
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,0,102
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,0,1015
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,0,10153
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,0,101506
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,0,10
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,0,102
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,0,1015
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,0,10153
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,0,99254
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,0,10
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,0,102
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,0,1015
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,0,10153
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,0,99254
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,0,10
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,0,102
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,0,1015
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,0,10150
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,0,101219
+f/2,Virulent lytic-only,Uninfected,to the first,0,10
+f/2,Virulent lytic-only,Uninfected,to the second,0,102
+f/2,Virulent lytic-only,Uninfected,to the third,0,1015
+f/2,Virulent lytic-only,Uninfected,to the fourth,0,10153
+f/2,Virulent lytic-only,Uninfected,to the fifth,0,101506
+f/2,Virulent lytic-only,Preinfected,to the first,0,10
+f/2,Virulent lytic-only,Preinfected,to the second,0,99
+f/2,Virulent lytic-only,Preinfected,to the third,0,993
+f/2,Virulent lytic-only,Preinfected,to the fourth,0,9925
+f/2,Virulent lytic-only,Preinfected,to the fifth,0,99254
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,0,10
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,0,99
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,0,993
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,0,9925
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,0,99254
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,0,10
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,0,102
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,0,1015
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,0,10153
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,0,101219
+f/2,Temperate with phenomenological induction,Uninfected,to the first,0,10
+f/2,Temperate with phenomenological induction,Uninfected,to the second,0,102
+f/2,Temperate with phenomenological induction,Uninfected,to the third,0,1015
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,0,10153
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,0,101506
+f/2,Temperate with phenomenological induction,Preinfected,to the first,0,10
+f/2,Temperate with phenomenological induction,Preinfected,to the second,0,102
+f/2,Temperate with phenomenological induction,Preinfected,to the third,0,1015
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,0,10153
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,0,99254
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,0,10
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,0,102
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,0,1015
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,0,10153
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,0,99254
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,1,28
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,1,276
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,1,2759
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,1,24956
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,1,67263
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,1,28
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,1,276
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,1,2759
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,1,27519
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,1,268661
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,1,28
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,1,276
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,1,2759
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,1,25282
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,1,60507
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,1,28
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,1,276
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,1,2759
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,1,21700
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,1,60504
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,1,28
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,1,274
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,1,2584
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,1,13744
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,1,67262
+f/2,Virulent lytic-only,Uninfected,to the first,1,28
+f/2,Virulent lytic-only,Uninfected,to the second,1,276
+f/2,Virulent lytic-only,Uninfected,to the third,1,2759
+f/2,Virulent lytic-only,Uninfected,to the fourth,1,27519
+f/2,Virulent lytic-only,Uninfected,to the fifth,1,268661
+f/2,Virulent lytic-only,Preinfected,to the first,1,6
+f/2,Virulent lytic-only,Preinfected,to the second,1,61
+f/2,Virulent lytic-only,Preinfected,to the third,1,605
+f/2,Virulent lytic-only,Preinfected,to the fourth,1,6052
+f/2,Virulent lytic-only,Preinfected,to the fifth,1,60507
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,1,6
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,1,61
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,1,605
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,1,6050
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,1,60504
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,1,28
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,1,276
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,1,2759
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,1,27519
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,1,67262
+f/2,Temperate with phenomenological induction,Uninfected,to the first,1,28
+f/2,Temperate with phenomenological induction,Uninfected,to the second,1,276
+f/2,Temperate with phenomenological induction,Uninfected,to the third,1,2759
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,1,27519
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,1,268661
+f/2,Temperate with phenomenological induction,Preinfected,to the first,1,28
+f/2,Temperate with phenomenological induction,Preinfected,to the second,1,276
+f/2,Temperate with phenomenological induction,Preinfected,to the third,1,2759
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,1,27519
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,1,60507
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,1,28
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,1,276
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,1,2759
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,1,27519
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,1,60504
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,2,75
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,2,750
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,2,7492
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,2,23955
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,2,41001
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,2,75
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,2,750
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,2,7492
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,2,74253
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,2,681778
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,2,75
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,2,750
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,2,7492
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,2,30391
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,2,36883
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,2,75
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,2,750
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,2,7492
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,2,13916
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,2,36881
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,2,75
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,2,738
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,2,6051
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,2,8871
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,2,41001
+f/2,Virulent lytic-only,Uninfected,to the first,2,75
+f/2,Virulent lytic-only,Uninfected,to the second,2,750
+f/2,Virulent lytic-only,Uninfected,to the third,2,7492
+f/2,Virulent lytic-only,Uninfected,to the fourth,2,74253
+f/2,Virulent lytic-only,Uninfected,to the fifth,2,681778
+f/2,Virulent lytic-only,Preinfected,to the first,2,4
+f/2,Virulent lytic-only,Preinfected,to the second,2,37
+f/2,Virulent lytic-only,Preinfected,to the third,2,370
+f/2,Virulent lytic-only,Preinfected,to the fourth,2,3689
+f/2,Virulent lytic-only,Preinfected,to the fifth,2,36883
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,2,4
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,2,37
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,2,369
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,2,3688
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,2,36881
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,2,75
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,2,750
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,2,7492
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,2,74253
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,2,41001
+f/2,Temperate with phenomenological induction,Uninfected,to the first,2,75
+f/2,Temperate with phenomenological induction,Uninfected,to the second,2,750
+f/2,Temperate with phenomenological induction,Uninfected,to the third,2,7492
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,2,74253
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,2,681778
+f/2,Temperate with phenomenological induction,Preinfected,to the first,2,75
+f/2,Temperate with phenomenological induction,Preinfected,to the second,2,750
+f/2,Temperate with phenomenological induction,Preinfected,to the third,2,7492
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,2,74253
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,2,36883
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,2,75
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,2,750
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,2,7492
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,2,74253
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,2,36881
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,3,208
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,3,2082
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,3,20691
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,3,16267
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,3,24621
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,3,208
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,3,2082
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,3,20691
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,3,200016
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,3,1550347
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,3,208
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,3,2082
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,3,20691
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,3,20642
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,3,22148
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,3,208
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,3,2082
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,3,20691
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,3,8756
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,3,22147
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,3,208
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,3,2028
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,3,11166
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,3,5328
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,3,24620
+f/2,Virulent lytic-only,Uninfected,to the first,3,208
+f/2,Virulent lytic-only,Uninfected,to the second,3,2082
+f/2,Virulent lytic-only,Uninfected,to the third,3,20691
+f/2,Virulent lytic-only,Uninfected,to the fourth,3,200016
+f/2,Virulent lytic-only,Uninfected,to the fifth,3,1550347
+f/2,Virulent lytic-only,Preinfected,to the first,3,2
+f/2,Virulent lytic-only,Preinfected,to the second,3,23
+f/2,Virulent lytic-only,Preinfected,to the third,3,223
+f/2,Virulent lytic-only,Preinfected,to the fourth,3,2215
+f/2,Virulent lytic-only,Preinfected,to the fifth,3,22148
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,3,2
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,3,22
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,3,221
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,3,2215
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,3,22147
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,3,208
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,3,2082
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,3,20691
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,3,200006
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,3,24620
+f/2,Temperate with phenomenological induction,Uninfected,to the first,3,208
+f/2,Temperate with phenomenological induction,Uninfected,to the second,3,2082
+f/2,Temperate with phenomenological induction,Uninfected,to the third,3,20691
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,3,200016
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,3,1550347
+f/2,Temperate with phenomenological induction,Preinfected,to the first,3,208
+f/2,Temperate with phenomenological induction,Preinfected,to the second,3,2082
+f/2,Temperate with phenomenological induction,Preinfected,to the third,3,20691
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,3,200013
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,3,22148
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,3,208
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,3,2082
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,3,20691
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,3,199988
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,3,22147
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,4,550
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,4,5509
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,4,52519
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,4,11206
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,4,15008
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,4,550
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,4,5509
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,4,53988
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,4,490112
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,4,2770544
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,4,550
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,4,5509
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,4,52385
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,4,14131
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,4,13500
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,4,550
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,4,5509
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,4,24961
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,4,5575
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,4,13500
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,4,549
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,4,5301
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,4,9812
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,4,3248
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,4,15008
+f/2,Virulent lytic-only,Uninfected,to the first,4,550
+f/2,Virulent lytic-only,Uninfected,to the second,4,5509
+f/2,Virulent lytic-only,Uninfected,to the third,4,53988
+f/2,Virulent lytic-only,Uninfected,to the fourth,4,490112
+f/2,Virulent lytic-only,Uninfected,to the fifth,4,2770544
+f/2,Virulent lytic-only,Preinfected,to the first,4,1
+f/2,Virulent lytic-only,Preinfected,to the second,4,15
+f/2,Virulent lytic-only,Preinfected,to the third,4,138
+f/2,Virulent lytic-only,Preinfected,to the fourth,4,1350
+f/2,Virulent lytic-only,Preinfected,to the fifth,4,13500
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,4,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,4,13
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,4,135
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,4,1350
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,4,13500
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,4,550
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,4,5509
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,4,53988
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,4,162614
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,4,15008
+f/2,Temperate with phenomenological induction,Uninfected,to the first,4,550
+f/2,Temperate with phenomenological induction,Uninfected,to the second,4,5509
+f/2,Temperate with phenomenological induction,Uninfected,to the third,4,53988
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,4,490112
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,4,2770544
+f/2,Temperate with phenomenological induction,Preinfected,to the first,4,550
+f/2,Temperate with phenomenological induction,Preinfected,to the second,4,5509
+f/2,Temperate with phenomenological induction,Preinfected,to the third,4,53988
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,4,194793
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,4,13500
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,4,550
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,4,5509
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,4,53988
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,4,138500
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,4,13500
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,5,1430
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,5,14323
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,5,76565
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,5,7729
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,5,9148
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,5,1430
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,5,14323
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,5,136558
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,5,1091727
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,5,4012308
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,5,1430
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,5,14323
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,5,80487
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,5,9733
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,5,8229
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,5,1430
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,5,14323
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,5,17596
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,5,3544
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,5,8229
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,5,1425
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,5,13344
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,5,6051
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,5,1980
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,5,9148
+f/2,Virulent lytic-only,Uninfected,to the first,5,1430
+f/2,Virulent lytic-only,Uninfected,to the second,5,14323
+f/2,Virulent lytic-only,Uninfected,to the third,5,136558
+f/2,Virulent lytic-only,Uninfected,to the fourth,5,1091727
+f/2,Virulent lytic-only,Uninfected,to the fifth,5,4012308
+f/2,Virulent lytic-only,Preinfected,to the first,5,1
+f/2,Virulent lytic-only,Preinfected,to the second,5,11
+f/2,Virulent lytic-only,Preinfected,to the third,5,86
+f/2,Virulent lytic-only,Preinfected,to the fourth,5,823
+f/2,Virulent lytic-only,Preinfected,to the fifth,5,8229
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,5,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,5,8
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,5,82
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,5,823
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,5,8229
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,5,1430
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,5,14323
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,5,136558
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,5,99124
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,5,9148
+f/2,Temperate with phenomenological induction,Uninfected,to the first,5,1430
+f/2,Temperate with phenomenological induction,Uninfected,to the second,5,14323
+f/2,Temperate with phenomenological induction,Uninfected,to the third,5,136558
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,5,1091727
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,5,4012308
+f/2,Temperate with phenomenological induction,Preinfected,to the first,5,1430
+f/2,Temperate with phenomenological induction,Preinfected,to the second,5,14323
+f/2,Temperate with phenomenological induction,Preinfected,to the third,5,136558
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,5,118739
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,5,8229
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,5,1430
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,5,14323
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,5,136558
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,5,84425
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,5,8229
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,6,3751
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,6,37564
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,6,46388
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,6,5258
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,6,5493
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,6,3751
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,6,37570
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,6,340090
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,6,2149487
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,6,5044575
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,6,3751
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,6,37509
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,6,48883
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,6,6638
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,6,4942
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,6,3751
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,6,36296
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,6,12001
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,6,2218
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,6,4941
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,6,3736
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,6,27235
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,6,3634
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,6,1189
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,6,5493
+f/2,Virulent lytic-only,Uninfected,to the first,6,3751
+f/2,Virulent lytic-only,Uninfected,to the second,6,37570
+f/2,Virulent lytic-only,Uninfected,to the third,6,340090
+f/2,Virulent lytic-only,Uninfected,to the fourth,6,2149487
+f/2,Virulent lytic-only,Uninfected,to the fifth,6,5044575
+f/2,Virulent lytic-only,Preinfected,to the first,6,1
+f/2,Virulent lytic-only,Preinfected,to the second,6,12
+f/2,Virulent lytic-only,Preinfected,to the third,6,56
+f/2,Virulent lytic-only,Preinfected,to the fourth,6,494
+f/2,Virulent lytic-only,Preinfected,to the fifth,6,4942
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,6,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,6,5
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,6,49
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,6,494
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,6,4941
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,6,3751
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,6,37570
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,6,340083
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,6,59523
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,6,5493
+f/2,Temperate with phenomenological induction,Uninfected,to the first,6,3751
+f/2,Temperate with phenomenological induction,Uninfected,to the second,6,37570
+f/2,Temperate with phenomenological induction,Uninfected,to the third,6,340090
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,6,2149487
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,6,5044575
+f/2,Temperate with phenomenological induction,Preinfected,to the first,6,3751
+f/2,Temperate with phenomenological induction,Preinfected,to the second,6,37570
+f/2,Temperate with phenomenological induction,Preinfected,to the third,6,340087
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,6,71301
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,6,4942
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,6,3751
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,6,37570
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,6,339916
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,6,50696
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,6,4941
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,7,9390
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,7,93624
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,7,28576
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,7,3602
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,7,3349
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,7,9390
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,7,93659
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,7,772681
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,7,3454703
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,7,5715251
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,7,9390
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,7,93221
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,7,30159
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,7,4568
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,7,3012
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,7,9390
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,7,66210
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,7,8261
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,7,1406
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,7,3012
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,7,9342
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,7,20695
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,7,2215
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,7,725
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,7,3349
+f/2,Virulent lytic-only,Uninfected,to the first,7,9390
+f/2,Virulent lytic-only,Uninfected,to the second,7,93659
+f/2,Virulent lytic-only,Uninfected,to the third,7,772681
+f/2,Virulent lytic-only,Uninfected,to the fourth,7,3454703
+f/2,Virulent lytic-only,Uninfected,to the fifth,7,5715251
+f/2,Virulent lytic-only,Preinfected,to the first,7,2
+f/2,Virulent lytic-only,Preinfected,to the second,7,20
+f/2,Virulent lytic-only,Preinfected,to the third,7,40
+f/2,Virulent lytic-only,Preinfected,to the fourth,7,301
+f/2,Virulent lytic-only,Preinfected,to the fifth,7,3012
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,7,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,7,3
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,7,30
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,7,301
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,7,3012
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,7,9390
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,7,93659
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,7,346699
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,7,36283
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,7,3349
+f/2,Temperate with phenomenological induction,Uninfected,to the first,7,9390
+f/2,Temperate with phenomenological induction,Uninfected,to the second,7,93659
+f/2,Temperate with phenomenological induction,Uninfected,to the third,7,772681
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,7,3454703
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,7,5715251
+f/2,Temperate with phenomenological induction,Preinfected,to the first,7,9390
+f/2,Temperate with phenomenological induction,Preinfected,to the second,7,93659
+f/2,Temperate with phenomenological induction,Preinfected,to the third,7,384260
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,7,43463
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,7,3012
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,7,9390
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,7,93659
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,7,248883
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,7,30902
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,7,3012
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,8,23061
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,8,208393
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,8,17711
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,8,2453
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,8,2041
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,8,23061
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,8,226734
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,8,1583438
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,8,4648208
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,8,6101301
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,8,23061
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,8,135301
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,8,18735
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,8,3129
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,8,1836
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,8,23061
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,8,42815
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,8,5663
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,8,890
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,8,1836
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,8,22808
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,8,12617
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,8,1350
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,8,442
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,8,2041
+f/2,Virulent lytic-only,Uninfected,to the first,8,23061
+f/2,Virulent lytic-only,Uninfected,to the second,8,226734
+f/2,Virulent lytic-only,Uninfected,to the third,8,1583438
+f/2,Virulent lytic-only,Uninfected,to the fourth,8,4648208
+f/2,Virulent lytic-only,Uninfected,to the fifth,8,6101301
+f/2,Virulent lytic-only,Preinfected,to the first,8,6
+f/2,Virulent lytic-only,Preinfected,to the second,8,42
+f/2,Virulent lytic-only,Preinfected,to the third,8,36
+f/2,Virulent lytic-only,Preinfected,to the fourth,8,184
+f/2,Virulent lytic-only,Preinfected,to the fifth,8,1836
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,8,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,8,2
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,8,18
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,8,184
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,8,1836
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,8,23061
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,8,226734
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,8,211335
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,8,22117
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,8,2041
+f/2,Temperate with phenomenological induction,Uninfected,to the first,8,23061
+f/2,Temperate with phenomenological induction,Uninfected,to the second,8,226734
+f/2,Temperate with phenomenological induction,Uninfected,to the third,8,1583438
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,8,4648208
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,8,6101301
+f/2,Temperate with phenomenological induction,Preinfected,to the first,8,23061
+f/2,Temperate with phenomenological induction,Preinfected,to the second,8,226734
+f/2,Temperate with phenomenological induction,Preinfected,to the third,8,234231
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,8,26493
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,8,1836
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,8,23061
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,8,226734
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,8,151710
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,8,18837
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,8,1836
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,9,56944
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,9,134460
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,9,10921
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,9,1641
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,9,1226
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,9,56944
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,9,537865
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,9,2828370
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,9,5496149
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,9,6308186
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,9,56930
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,9,81305
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,9,11591
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,9,2107
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,9,1103
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,9,56645
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,9,26361
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,9,3815
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,9,555
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,9,1103
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,9,49002
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,9,7576
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,9,811
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,9,265
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,9,1226
+f/2,Virulent lytic-only,Uninfected,to the first,9,56944
+f/2,Virulent lytic-only,Uninfected,to the second,9,537865
+f/2,Virulent lytic-only,Uninfected,to the third,9,2828370
+f/2,Virulent lytic-only,Uninfected,to the fourth,9,5496149
+f/2,Virulent lytic-only,Uninfected,to the fifth,9,6308186
+f/2,Virulent lytic-only,Preinfected,to the first,9,13
+f/2,Virulent lytic-only,Preinfected,to the second,9,98
+f/2,Virulent lytic-only,Preinfected,to the third,9,44
+f/2,Virulent lytic-only,Preinfected,to the fourth,9,110
+f/2,Virulent lytic-only,Preinfected,to the fifth,9,1103
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,9,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,9,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,9,11
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,9,110
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,9,1103
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,9,56944
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,9,537864
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,9,126904
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,9,13281
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,9,1226
+f/2,Temperate with phenomenological induction,Uninfected,to the first,9,56944
+f/2,Temperate with phenomenological induction,Uninfected,to the second,9,537865
+f/2,Temperate with phenomenological induction,Uninfected,to the third,9,2828370
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,9,5496149
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,9,6308186
+f/2,Temperate with phenomenological induction,Preinfected,to the first,9,56944
+f/2,Temperate with phenomenological induction,Preinfected,to the second,9,537865
+f/2,Temperate with phenomenological induction,Preinfected,to the third,9,140653
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,9,15909
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,9,1103
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,9,56944
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,9,537553
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,9,91100
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,9,11311
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,9,1103
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,10,133540
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,10,81966
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,10,6918
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,10,1104
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,10,747
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,10,133540
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,10,1152126
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,10,4139647
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,10,5980180
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,10,6407280
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,10,133494
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,10,49599
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,10,7374
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,10,1427
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,10,672
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,10,119019
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,10,16665
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,10,2584
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,10,350
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,10,672
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,10,36415
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,10,4618
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,10,494
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,10,162
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,10,747
+f/2,Virulent lytic-only,Uninfected,to the first,10,133540
+f/2,Virulent lytic-only,Uninfected,to the second,10,1152126
+f/2,Virulent lytic-only,Uninfected,to the third,10,4139647
+f/2,Virulent lytic-only,Uninfected,to the fourth,10,5980180
+f/2,Virulent lytic-only,Uninfected,to the fifth,10,6407280
+f/2,Virulent lytic-only,Preinfected,to the first,10,31
+f/2,Virulent lytic-only,Preinfected,to the second,10,228
+f/2,Virulent lytic-only,Preinfected,to the third,10,70
+f/2,Virulent lytic-only,Preinfected,to the fourth,10,67
+f/2,Virulent lytic-only,Preinfected,to the fifth,10,672
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,10,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,10,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,10,7
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,10,67
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,10,672
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,10,133540
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,10,633710
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,10,77356
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,10,8095
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,10,747
+f/2,Temperate with phenomenological induction,Uninfected,to the first,10,133540
+f/2,Temperate with phenomenological induction,Uninfected,to the second,10,1152126
+f/2,Temperate with phenomenological induction,Uninfected,to the third,10,4139647
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,10,5980180
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,10,6407280
+f/2,Temperate with phenomenological induction,Preinfected,to the first,10,133540
+f/2,Temperate with phenomenological induction,Preinfected,to the second,10,652556
+f/2,Temperate with phenomenological induction,Preinfected,to the third,10,85737
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,10,9697
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,10,672
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,10,133540
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,10,403945
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,10,55531
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,10,6895
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,10,672
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,11,303029
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,11,49967
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,11,4453
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,11,738
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,11,455
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,11,303031
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,11,2183301
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,11,5173699
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,11,6241789
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,11,6455541
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,11,302917
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,11,30272
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,11,4772
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,11,960
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,11,410
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,11,79612
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,11,10702
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,11,1740
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,11,221
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,11,410
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,11,22198
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,11,2815
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,11,301
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,11,99
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,11,455
+f/2,Virulent lytic-only,Uninfected,to the first,11,303031
+f/2,Virulent lytic-only,Uninfected,to the second,11,2183301
+f/2,Virulent lytic-only,Uninfected,to the third,11,5173699
+f/2,Virulent lytic-only,Uninfected,to the fourth,11,6241789
+f/2,Virulent lytic-only,Uninfected,to the fifth,11,6455541
+f/2,Virulent lytic-only,Preinfected,to the first,11,73
+f/2,Virulent lytic-only,Preinfected,to the second,11,527
+f/2,Virulent lytic-only,Preinfected,to the third,11,125
+f/2,Virulent lytic-only,Preinfected,to the fourth,11,41
+f/2,Virulent lytic-only,Preinfected,to the fifth,11,410
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,11,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,11,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,11,4
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,11,41
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,11,410
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,11,303031
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,11,386287
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,11,47153
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,11,4935
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,11,455
+f/2,Temperate with phenomenological induction,Uninfected,to the first,11,303031
+f/2,Temperate with phenomenological induction,Uninfected,to the second,11,2183301
+f/2,Temperate with phenomenological induction,Uninfected,to the third,11,5173699
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,11,6241789
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,11,6455541
+f/2,Temperate with phenomenological induction,Preinfected,to the first,11,303031
+f/2,Temperate with phenomenological induction,Preinfected,to the second,11,397774
+f/2,Temperate with phenomenological induction,Preinfected,to the third,11,52262
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,11,5911
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,11,410
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,11,303031
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,11,246230
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,11,33850
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,11,4203
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,11,410
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,12,669329
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,12,30009
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,12,2883
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,12,485
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,12,273
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,12,669332
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,12,3541424
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,12,5828137
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,12,6377241
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,12,6479236
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,12,669085
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,12,18217
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,12,3107
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,12,634
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,12,246
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,12,47881
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,12,6911
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,12,1150
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,12,137
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,12,246
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,12,13329
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,12,1690
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,12,181
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,12,59
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,12,273
+f/2,Virulent lytic-only,Uninfected,to the first,12,669332
+f/2,Virulent lytic-only,Uninfected,to the second,12,3541424
+f/2,Virulent lytic-only,Uninfected,to the third,12,5828137
+f/2,Virulent lytic-only,Uninfected,to the fourth,12,6377241
+f/2,Virulent lytic-only,Uninfected,to the fifth,12,6479236
+f/2,Virulent lytic-only,Preinfected,to the first,12,171
+f/2,Virulent lytic-only,Preinfected,to the second,12,1229
+f/2,Virulent lytic-only,Preinfected,to the third,12,241
+f/2,Virulent lytic-only,Preinfected,to the fourth,12,25
+f/2,Virulent lytic-only,Preinfected,to the fifth,12,246
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,12,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,12,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,12,2
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,12,25
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,12,246
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,12,669331
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,12,231960
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,12,28315
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,12,2963
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,12,273
+f/2,Temperate with phenomenological induction,Uninfected,to the first,12,669332
+f/2,Temperate with phenomenological induction,Uninfected,to the second,12,3541424
+f/2,Temperate with phenomenological induction,Uninfected,to the third,12,5828137
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,12,6377241
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,12,6479236
+f/2,Temperate with phenomenological induction,Preinfected,to the first,12,669331
+f/2,Temperate with phenomenological induction,Preinfected,to the second,12,238859
+f/2,Temperate with phenomenological induction,Preinfected,to the third,12,31383
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,12,3550
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,12,246
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,12,668982
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,12,147858
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,12,20326
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,12,2524
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,12,246
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,13,1333408
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,13,18296
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,13,1927
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,13,321
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,13,167
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,13,1333412
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,13,4750166
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,13,6164995
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,13,6440994
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,13,6490102
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,13,1332970
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,13,11142
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,13,2087
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,13,422
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,13,150
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,13,29260
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,13,4606
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,13,766
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,13,86
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,13,150
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,13,8125
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,13,1030
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,13,110
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,13,36
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,13,167
+f/2,Virulent lytic-only,Uninfected,to the first,13,1333412
+f/2,Virulent lytic-only,Uninfected,to the second,13,4750166
+f/2,Virulent lytic-only,Uninfected,to the third,13,6164995
+f/2,Virulent lytic-only,Uninfected,to the fourth,13,6440994
+f/2,Virulent lytic-only,Uninfected,to the fifth,13,6490102
+f/2,Virulent lytic-only,Preinfected,to the first,13,383
+f/2,Virulent lytic-only,Preinfected,to the second,13,2743
+f/2,Virulent lytic-only,Preinfected,to the third,13,463
+f/2,Virulent lytic-only,Preinfected,to the fourth,13,15
+f/2,Virulent lytic-only,Preinfected,to the fifth,13,150
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,13,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,13,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,13,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,13,15
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,13,150
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,13,882466
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,13,141395
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,13,17260
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,13,1806
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,13,167
+f/2,Temperate with phenomenological induction,Uninfected,to the first,13,1333412
+f/2,Temperate with phenomenological induction,Uninfected,to the second,13,4750166
+f/2,Temperate with phenomenological induction,Uninfected,to the third,13,6164995
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,13,6440994
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,13,6490102
+f/2,Temperate with phenomenological induction,Preinfected,to the first,13,862327
+f/2,Temperate with phenomenological induction,Preinfected,to the second,13,145600
+f/2,Temperate with phenomenological induction,Preinfected,to the third,13,19130
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,13,2164
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,13,150
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,13,509799
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,13,90129
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,13,12390
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,13,1538
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,13,150
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,14,2359744
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,14,11157
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,14,1307
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,14,211
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,14,102
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,14,2359750
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,14,5578327
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,14,6336142
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,14,6471784
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,14,6495286
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,14,2359119
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,14,6829
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,14,1421
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,14,279
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,14,91
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,14,17909
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,14,3120
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,14,507
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,14,54
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,14,91
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,14,4953
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,14,628
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,14,67
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,14,22
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,14,102
+f/2,Virulent lytic-only,Uninfected,to the first,14,2359750
+f/2,Virulent lytic-only,Uninfected,to the second,14,5578327
+f/2,Virulent lytic-only,Uninfected,to the third,14,6336142
+f/2,Virulent lytic-only,Uninfected,to the fourth,14,6471784
+f/2,Virulent lytic-only,Uninfected,to the fifth,14,6495286
+f/2,Virulent lytic-only,Preinfected,to the first,14,846
+f/2,Virulent lytic-only,Preinfected,to the second,14,5965
+f/2,Virulent lytic-only,Preinfected,to the third,14,895
+f/2,Virulent lytic-only,Preinfected,to the fourth,14,9
+f/2,Virulent lytic-only,Preinfected,to the fifth,14,91
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,14,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,14,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,14,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,14,9
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,14,91
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,14,537919
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,14,86189
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,14,10521
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,14,1101
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,14,102
+f/2,Temperate with phenomenological induction,Uninfected,to the first,14,2359750
+f/2,Temperate with phenomenological induction,Uninfected,to the second,14,5578327
+f/2,Temperate with phenomenological induction,Uninfected,to the third,14,6336142
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,14,6471784
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,14,6495286
+f/2,Temperate with phenomenological induction,Preinfected,to the first,14,525643
+f/2,Temperate with phenomenological induction,Preinfected,to the second,14,88752
+f/2,Temperate with phenomenological induction,Preinfected,to the third,14,11661
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,14,1319
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,14,91
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,14,310755
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,14,54939
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,14,7553
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,14,938
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,14,91
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,15,3630757
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,15,6703
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,15,886
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,15,137
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,15,61
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,15,3630763
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,15,6054233
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,15,6422711
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,15,6486840
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,15,6497805
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,15,3630090
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,15,4139
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,15,965
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,15,181
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,15,55
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,15,10828
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,15,2112
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,15,330
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,15,34
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,15,55
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,15,2974
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,15,377
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,15,40
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,15,13
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,15,61
+f/2,Virulent lytic-only,Uninfected,to the first,15,3630763
+f/2,Virulent lytic-only,Uninfected,to the second,15,6054233
+f/2,Virulent lytic-only,Uninfected,to the third,15,6422711
+f/2,Virulent lytic-only,Uninfected,to the fourth,15,6486840
+f/2,Virulent lytic-only,Uninfected,to the fifth,15,6497805
+f/2,Virulent lytic-only,Preinfected,to the first,15,1877
+f/2,Virulent lytic-only,Preinfected,to the second,15,12349
+f/2,Virulent lytic-only,Preinfected,to the third,15,1762
+f/2,Virulent lytic-only,Preinfected,to the fourth,15,5
+f/2,Virulent lytic-only,Preinfected,to the fifth,15,55
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,15,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,15,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,15,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,15,5
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,15,55
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,15,323014
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,15,51755
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,15,6318
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,15,661
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,15,61
+f/2,Temperate with phenomenological induction,Uninfected,to the first,15,3630763
+f/2,Temperate with phenomenological induction,Uninfected,to the second,15,6054233
+f/2,Temperate with phenomenological induction,Uninfected,to the third,15,6422711
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,15,6486840
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,15,6497805
+f/2,Temperate with phenomenological induction,Preinfected,to the first,15,315642
+f/2,Temperate with phenomenological induction,Preinfected,to the second,15,53295
+f/2,Temperate with phenomenological induction,Preinfected,to the third,15,7002
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,15,792
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,15,55
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,15,186605
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,15,32990
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,15,4535
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,15,563
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,15,55
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,16,4740869
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,16,4090
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,16,611
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,16,89
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,16,37
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,16,4740875
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,16,6285127
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,16,6462987
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,16,6493730
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,16,6498955
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,16,4740337
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,16,2559
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,16,666
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,16,119
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,16,33
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,16,6671
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,16,1455
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,16,216
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,16,21
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,16,33
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,16,1813
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,16,230
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,16,25
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,16,8
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,16,37
+f/2,Virulent lytic-only,Uninfected,to the first,16,4740875
+f/2,Virulent lytic-only,Uninfected,to the second,16,6285127
+f/2,Virulent lytic-only,Uninfected,to the third,16,6462987
+f/2,Virulent lytic-only,Uninfected,to the fourth,16,6493730
+f/2,Virulent lytic-only,Uninfected,to the fifth,16,6498955
+f/2,Virulent lytic-only,Preinfected,to the first,16,3992
+f/2,Virulent lytic-only,Preinfected,to the second,16,17156
+f/2,Virulent lytic-only,Preinfected,to the third,16,3313
+f/2,Virulent lytic-only,Preinfected,to the fourth,16,3
+f/2,Virulent lytic-only,Preinfected,to the fifth,16,33
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,16,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,16,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,16,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,16,3
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,16,33
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,16,196897
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,16,31548
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,16,3851
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,16,403
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,16,37
+f/2,Temperate with phenomenological induction,Uninfected,to the first,16,4740875
+f/2,Temperate with phenomenological induction,Uninfected,to the second,16,6285127
+f/2,Temperate with phenomenological induction,Uninfected,to the third,16,6462987
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,16,6493730
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,16,6498955
+f/2,Temperate with phenomenological induction,Preinfected,to the first,16,192404
+f/2,Temperate with phenomenological induction,Preinfected,to the second,16,32486
+f/2,Temperate with phenomenological induction,Preinfected,to the third,16,4268
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,16,483
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,16,33
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,16,113747
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,16,20110
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,16,2765
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,16,343
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,16,33
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,17,5520804
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,17,2497
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,17,421
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,17,58
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,17,23
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,17,5520807
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,17,6396715
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,17,6482332
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,17,6497015
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,17,6499503
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,17,5520462
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,17,1594
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,17,459
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,17,78
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,17,20
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,17,4135
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,17,1004
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,17,141
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,17,13
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,17,20
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,17,1105
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,17,140
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,17,15
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,17,5
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,17,23
+f/2,Virulent lytic-only,Uninfected,to the first,17,5520807
+f/2,Virulent lytic-only,Uninfected,to the second,17,6396715
+f/2,Virulent lytic-only,Uninfected,to the third,17,6482332
+f/2,Virulent lytic-only,Uninfected,to the fourth,17,6497015
+f/2,Virulent lytic-only,Uninfected,to the fifth,17,6499503
+f/2,Virulent lytic-only,Preinfected,to the first,17,8329
+f/2,Virulent lytic-only,Preinfected,to the second,17,11530
+f/2,Virulent lytic-only,Preinfected,to the third,17,5667
+f/2,Virulent lytic-only,Preinfected,to the fourth,17,2
+f/2,Virulent lytic-only,Preinfected,to the fifth,17,20
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,17,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,17,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,17,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,17,2
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,17,20
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,17,120021
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,17,19231
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,17,2347
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,17,246
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,17,23
+f/2,Temperate with phenomenological induction,Uninfected,to the first,17,5520807
+f/2,Temperate with phenomenological induction,Uninfected,to the second,17,6396715
+f/2,Temperate with phenomenological induction,Uninfected,to the third,17,6482332
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,17,6497015
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,17,6499503
+f/2,Temperate with phenomenological induction,Preinfected,to the first,17,117282
+f/2,Temperate with phenomenological induction,Preinfected,to the second,17,19803
+f/2,Temperate with phenomenological induction,Preinfected,to the third,17,2602
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,17,294
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,17,20
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,17,69336
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,17,12258
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,17,1685
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,17,209
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,17,20
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,18,5993718
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,18,1503
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,18,286
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,18,37
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,18,14
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,18,5993720
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,18,6451528
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,18,6491767
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,18,6498611
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,18,6499769
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,18,5993531
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,18,991
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,18,312
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,18,50
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,18,12
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,18,2550
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,18,683
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,18,91
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,18,8
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,18,12
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,18,664
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,18,84
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,18,9
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,18,3
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,18,14
+f/2,Virulent lytic-only,Uninfected,to the first,18,5993720
+f/2,Virulent lytic-only,Uninfected,to the second,18,6451528
+f/2,Virulent lytic-only,Uninfected,to the third,18,6491767
+f/2,Virulent lytic-only,Uninfected,to the fourth,18,6498611
+f/2,Virulent lytic-only,Uninfected,to the fifth,18,6499769
+f/2,Virulent lytic-only,Preinfected,to the first,18,17282
+f/2,Virulent lytic-only,Preinfected,to the second,18,6925
+f/2,Virulent lytic-only,Preinfected,to the third,18,7155
+f/2,Virulent lytic-only,Preinfected,to the fourth,18,1
+f/2,Virulent lytic-only,Preinfected,to the fifth,18,12
+f/2,Virulent lytic-only,Preinfected with added viruses,to the first,18,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,18,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,18,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,18,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,18,12
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,18,72071
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,18,11548
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,18,1410
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,18,148
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,18,14
+f/2,Temperate with phenomenological induction,Uninfected,to the first,18,5993720
+f/2,Temperate with phenomenological induction,Uninfected,to the second,18,6451528
+f/2,Temperate with phenomenological induction,Uninfected,to the third,18,6491767
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,18,6498611
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,18,6499769
+f/2,Temperate with phenomenological induction,Preinfected,to the first,18,70427
+f/2,Temperate with phenomenological induction,Preinfected,to the second,18,11891
+f/2,Temperate with phenomenological induction,Preinfected,to the third,18,1562
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,18,177
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,18,12
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,18,41636
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,18,7361
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,18,1012
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,18,126
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,18,12
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,19,6238797
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,19,920
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,19,196
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,19,24
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,19,8
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,19,6238798
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,19,6476841
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,19,6496079
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,19,6499339
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,19,6499890
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,19,6238701
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,19,634
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,19,213
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,19,32
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,19,7
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,19,1616
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,19,468
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,19,59
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,19,5
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,19,7
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,19,404
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,19,51
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,19,5
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,19,2
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,19,8
+f/2,Virulent lytic-only,Uninfected,to the first,19,6238798
+f/2,Virulent lytic-only,Uninfected,to the second,19,6476841
+f/2,Virulent lytic-only,Uninfected,to the third,19,6496079
+f/2,Virulent lytic-only,Uninfected,to the fourth,19,6499339
+f/2,Virulent lytic-only,Uninfected,to the fifth,19,6499890
+f/2,Virulent lytic-only,Preinfected,to the first,19,30480
+f/2,Virulent lytic-only,Preinfected,to the second,19,4221
+f/2,Virulent lytic-only,Preinfected,to the third,19,5354
+f/2,Virulent lytic-only,Preinfected,to the fourth,19,1
+f/2,Virulent lytic-only,Preinfected,to the fifth,19,7
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,19,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,19,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,19,1
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,19,7
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,19,43932
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,19,7039
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,19,859
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,19,90
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,19,8
+f/2,Temperate with phenomenological induction,Uninfected,to the first,19,6238798
+f/2,Temperate with phenomenological induction,Uninfected,to the second,19,6476841
+f/2,Temperate with phenomenological induction,Uninfected,to the third,19,6496079
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,19,6499339
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,19,6499890
+f/2,Temperate with phenomenological induction,Preinfected,to the first,19,42930
+f/2,Temperate with phenomenological induction,Preinfected,to the second,19,7248
+f/2,Temperate with phenomenological induction,Preinfected,to the third,19,952
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,19,108
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,19,7
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,19,25380
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,19,4487
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,19,617
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,19,77
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,19,7
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,20,6366704
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,20,565
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,20,133
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,20,15
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,20,5
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,20,6366705
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,20,6488958
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,20,6498133
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,20,6499685
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,20,6499948
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,20,6366659
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,20,413
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,20,145
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,20,21
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,20,5
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,20,1041
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,20,318
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,20,38
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,20,3
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,20,5
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,20,247
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,20,31
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,20,3
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,20,1
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,20,5
+f/2,Virulent lytic-only,Uninfected,to the first,20,6366705
+f/2,Virulent lytic-only,Uninfected,to the second,20,6488958
+f/2,Virulent lytic-only,Uninfected,to the third,20,6498133
+f/2,Virulent lytic-only,Uninfected,to the fourth,20,6499685
+f/2,Virulent lytic-only,Uninfected,to the fifth,20,6499948
+f/2,Virulent lytic-only,Preinfected,to the first,20,23847
+f/2,Virulent lytic-only,Preinfected,to the second,20,2573
+f/2,Virulent lytic-only,Preinfected,to the third,20,3304
+f/2,Virulent lytic-only,Preinfected,to the fourth,20,0
+f/2,Virulent lytic-only,Preinfected,to the fifth,20,5
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,20,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,20,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,20,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,20,5
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,20,26779
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,20,4291
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,20,524
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,20,55
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,20,5
+f/2,Temperate with phenomenological induction,Uninfected,to the first,20,6366705
+f/2,Temperate with phenomenological induction,Uninfected,to the second,20,6488958
+f/2,Temperate with phenomenological induction,Uninfected,to the third,20,6498133
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,20,6499685
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,20,6499948
+f/2,Temperate with phenomenological induction,Preinfected,to the first,20,26168
+f/2,Temperate with phenomenological induction,Preinfected,to the second,20,4418
+f/2,Temperate with phenomenological induction,Preinfected,to the third,20,581
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,20,66
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,20,5
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,20,15470
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,20,2735
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,20,376
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,20,47
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,20,5
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,21,6434039
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,21,343
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,21,89
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,21,10
+f/2,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,21,3
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the first,21,6434039
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the second,21,6494857
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the third,21,6499131
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fourth,21,6499854
+f/2,Temperate with autophagy-triggered induction,Uninfected,to the fifth,21,6499976
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the first,21,6434021
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the second,21,271
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the third,21,96
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fourth,21,13
+f/2,Temperate with autophagy-triggered induction,Preinfected,to the fifth,21,3
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,21,674
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,21,213
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,21,24
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,21,2
+f/2,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,21,3
+f/2,Virulent lytic-only,10:1 Co-incubation,to the first,21,148
+f/2,Virulent lytic-only,10:1 Co-incubation,to the second,21,19
+f/2,Virulent lytic-only,10:1 Co-incubation,to the third,21,2
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fourth,21,1
+f/2,Virulent lytic-only,10:1 Co-incubation,to the fifth,21,3
+f/2,Virulent lytic-only,Uninfected,to the first,21,6434039
+f/2,Virulent lytic-only,Uninfected,to the second,21,6494857
+f/2,Virulent lytic-only,Uninfected,to the third,21,6499131
+f/2,Virulent lytic-only,Uninfected,to the fourth,21,6499854
+f/2,Virulent lytic-only,Uninfected,to the fifth,21,6499976
+f/2,Virulent lytic-only,Preinfected,to the first,21,14322
+f/2,Virulent lytic-only,Preinfected,to the second,21,1545
+f/2,Virulent lytic-only,Preinfected,to the third,21,1984
+f/2,Virulent lytic-only,Preinfected,to the fourth,21,0
+f/2,Virulent lytic-only,Preinfected,to the fifth,21,3
+f/2,Virulent lytic-only,Preinfected with added viruses,to the second,21,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the third,21,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fourth,21,0
+f/2,Virulent lytic-only,Preinfected with added viruses,to the fifth,21,3
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the first,21,16081
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the second,21,2577
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the third,21,315
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,21,33
+f/2,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,21,3
+f/2,Temperate with phenomenological induction,Uninfected,to the first,21,6434039
+f/2,Temperate with phenomenological induction,Uninfected,to the second,21,6494857
+f/2,Temperate with phenomenological induction,Uninfected,to the third,21,6499131
+f/2,Temperate with phenomenological induction,Uninfected,to the fourth,21,6499854
+f/2,Temperate with phenomenological induction,Uninfected,to the fifth,21,6499976
+f/2,Temperate with phenomenological induction,Preinfected,to the first,21,15714
+f/2,Temperate with phenomenological induction,Preinfected,to the second,21,2653
+f/2,Temperate with phenomenological induction,Preinfected,to the third,21,349
+f/2,Temperate with phenomenological induction,Preinfected,to the fourth,21,39
+f/2,Temperate with phenomenological induction,Preinfected,to the fifth,21,3
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the first,21,9290
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the second,21,1642
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the third,21,226
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,21,28
+f/2,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,21,3
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,0,10
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,0,101
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,0,1011
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,0,10110
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,0,100857
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,0,10
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,0,101
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,0,1011
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,0,10110
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,0,101088
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,0,10
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,0,101
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,0,1011
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,0,10110
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,0,99254
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,0,10
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,0,101
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,0,1011
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,0,10110
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,0,99254
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,0,10
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,0,101
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,0,1011
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,0,10107
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,0,100857
+SW,Virulent lytic-only,Uninfected,to the first,0,10
+SW,Virulent lytic-only,Uninfected,to the second,0,101
+SW,Virulent lytic-only,Uninfected,to the third,0,1011
+SW,Virulent lytic-only,Uninfected,to the fourth,0,10110
+SW,Virulent lytic-only,Uninfected,to the fifth,0,101088
+SW,Virulent lytic-only,Preinfected,to the first,0,10
+SW,Virulent lytic-only,Preinfected,to the second,0,99
+SW,Virulent lytic-only,Preinfected,to the third,0,993
+SW,Virulent lytic-only,Preinfected,to the fourth,0,9925
+SW,Virulent lytic-only,Preinfected,to the fifth,0,99254
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,0,10
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,0,99
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,0,993
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,0,9925
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,0,99254
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,0,10
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,0,101
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,0,1011
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,0,10110
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,0,100857
+SW,Temperate with phenomenological induction,Uninfected,to the first,0,10
+SW,Temperate with phenomenological induction,Uninfected,to the second,0,101
+SW,Temperate with phenomenological induction,Uninfected,to the third,0,1011
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,0,10110
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,0,101088
+SW,Temperate with phenomenological induction,Preinfected,to the first,0,10
+SW,Temperate with phenomenological induction,Preinfected,to the second,0,101
+SW,Temperate with phenomenological induction,Preinfected,to the third,0,1011
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,0,10110
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,0,99254
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,0,10
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,0,101
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,0,1011
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,0,10110
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,0,99254
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,1,21
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,1,208
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,1,2066
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,1,20461
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,1,65963
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,1,21
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,1,208
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,1,2067
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,1,20524
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,1,203440
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,1,21
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,1,207
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,1,2060
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,1,20462
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,1,60506
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,1,21
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,1,206
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,1,2052
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,1,20379
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,1,60504
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,1,21
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,1,207
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,1,1957
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,1,11702
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,1,65962
+SW,Virulent lytic-only,Uninfected,to the first,1,21
+SW,Virulent lytic-only,Uninfected,to the second,1,208
+SW,Virulent lytic-only,Uninfected,to the third,1,2067
+SW,Virulent lytic-only,Uninfected,to the fourth,1,20524
+SW,Virulent lytic-only,Uninfected,to the fifth,1,203440
+SW,Virulent lytic-only,Preinfected,to the first,1,6
+SW,Virulent lytic-only,Preinfected,to the second,1,61
+SW,Virulent lytic-only,Preinfected,to the third,1,605
+SW,Virulent lytic-only,Preinfected,to the fourth,1,6052
+SW,Virulent lytic-only,Preinfected,to the fifth,1,60506
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,1,6
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,1,61
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,1,605
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,1,6050
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,1,60504
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,1,21
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,1,208
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,1,2067
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,1,20524
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,1,65962
+SW,Temperate with phenomenological induction,Uninfected,to the first,1,21
+SW,Temperate with phenomenological induction,Uninfected,to the second,1,208
+SW,Temperate with phenomenological induction,Uninfected,to the third,1,2067
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,1,20524
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,1,203440
+SW,Temperate with phenomenological induction,Preinfected,to the first,1,21
+SW,Temperate with phenomenological induction,Preinfected,to the second,1,208
+SW,Temperate with phenomenological induction,Preinfected,to the third,1,2067
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,1,20524
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,1,60506
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,1,21
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,1,208
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,1,2067
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,1,20524
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,1,60504
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,2,42
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,2,415
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,2,3810
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,2,19776
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,2,40209
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,2,42
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,2,418
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,2,4109
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,2,40266
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,2,392682
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,2,31
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,2,285
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,2,2747
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,2,22347
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,2,36882
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,2,13
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,2,131
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,2,1306
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,2,13059
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,2,36881
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,2,42
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,2,412
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,2,3469
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,2,7490
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,2,40208
+SW,Virulent lytic-only,Uninfected,to the first,2,42
+SW,Virulent lytic-only,Uninfected,to the second,2,418
+SW,Virulent lytic-only,Uninfected,to the third,2,4109
+SW,Virulent lytic-only,Uninfected,to the fourth,2,40266
+SW,Virulent lytic-only,Uninfected,to the fifth,2,392682
+SW,Virulent lytic-only,Preinfected,to the first,2,4
+SW,Virulent lytic-only,Preinfected,to the second,2,37
+SW,Virulent lytic-only,Preinfected,to the third,2,369
+SW,Virulent lytic-only,Preinfected,to the fourth,2,3689
+SW,Virulent lytic-only,Preinfected,to the fifth,2,36882
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,2,4
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,2,37
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,2,369
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,2,3688
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,2,36881
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,2,42
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,2,418
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,2,4109
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,2,40266
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,2,40208
+SW,Temperate with phenomenological induction,Uninfected,to the first,2,42
+SW,Temperate with phenomenological induction,Uninfected,to the second,2,418
+SW,Temperate with phenomenological induction,Uninfected,to the third,2,4109
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,2,40266
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,2,392682
+SW,Temperate with phenomenological induction,Preinfected,to the first,2,42
+SW,Temperate with phenomenological induction,Preinfected,to the second,2,418
+SW,Temperate with phenomenological induction,Preinfected,to the third,2,4109
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,2,40266
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,2,36882
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,2,42
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,2,418
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,2,4109
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,2,40266
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,2,36881
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,3,84
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,3,808
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,3,6485
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,3,13610
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,3,24145
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,3,85
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,3,820
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,3,7901
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,3,75554
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,3,716137
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,3,53
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,3,473
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,3,3815
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,3,15664
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,3,22147
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,3,8
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,3,81
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,3,811
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,3,8140
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,3,22147
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,3,84
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,3,803
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,3,5385
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,3,4498
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,3,24145
+SW,Virulent lytic-only,Uninfected,to the first,3,85
+SW,Virulent lytic-only,Uninfected,to the second,3,820
+SW,Virulent lytic-only,Uninfected,to the third,3,7901
+SW,Virulent lytic-only,Uninfected,to the fourth,3,75554
+SW,Virulent lytic-only,Uninfected,to the fifth,3,716137
+SW,Virulent lytic-only,Preinfected,to the first,3,2
+SW,Virulent lytic-only,Preinfected,to the second,3,22
+SW,Virulent lytic-only,Preinfected,to the third,3,222
+SW,Virulent lytic-only,Preinfected,to the fourth,3,2215
+SW,Virulent lytic-only,Preinfected,to the fifth,3,22147
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,3,2
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,3,22
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,3,221
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,3,2215
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,3,22147
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,3,85
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,3,820
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,3,7901
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,3,75549
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,3,24145
+SW,Temperate with phenomenological induction,Uninfected,to the first,3,85
+SW,Temperate with phenomenological induction,Uninfected,to the second,3,820
+SW,Temperate with phenomenological induction,Uninfected,to the third,3,7901
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,3,75554
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,3,716137
+SW,Temperate with phenomenological induction,Preinfected,to the first,3,85
+SW,Temperate with phenomenological induction,Preinfected,to the second,3,820
+SW,Temperate with phenomenological induction,Preinfected,to the third,3,7901
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,3,75552
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,3,22147
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,3,85
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,3,820
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,3,7901
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,3,75543
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,3,22147
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,4,155
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,4,1434
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,4,8399
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,4,9387
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,4,14718
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,4,155
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,4,1461
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,4,13641
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,4,125870
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,4,1147136
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,4,93
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,4,816
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,4,4486
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,4,10799
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,4,13500
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,4,5
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,4,51
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,4,510
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,4,5139
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,4,13500
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,4,155
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,4,1426
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,4,5908
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,4,2742
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,4,14718
+SW,Virulent lytic-only,Uninfected,to the first,4,155
+SW,Virulent lytic-only,Uninfected,to the second,4,1461
+SW,Virulent lytic-only,Uninfected,to the third,4,13641
+SW,Virulent lytic-only,Uninfected,to the fourth,4,125870
+SW,Virulent lytic-only,Uninfected,to the fifth,4,1147136
+SW,Virulent lytic-only,Preinfected,to the first,4,1
+SW,Virulent lytic-only,Preinfected,to the second,4,14
+SW,Virulent lytic-only,Preinfected,to the third,4,136
+SW,Virulent lytic-only,Preinfected,to the fourth,4,1350
+SW,Virulent lytic-only,Preinfected,to the fifth,4,13500
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,4,1
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,4,13
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,4,135
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,4,1350
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,4,13500
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,4,155
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,4,1461
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,4,13641
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,4,58368
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,4,14718
+SW,Temperate with phenomenological induction,Uninfected,to the first,4,155
+SW,Temperate with phenomenological induction,Uninfected,to the second,4,1461
+SW,Temperate with phenomenological induction,Uninfected,to the third,4,13641
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,4,125870
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,4,1147136
+SW,Temperate with phenomenological induction,Preinfected,to the first,4,155
+SW,Temperate with phenomenological induction,Preinfected,to the second,4,1461
+SW,Temperate with phenomenological induction,Preinfected,to the third,4,13641
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,4,69139
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,4,13500
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,4,155
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,4,1461
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,4,13641
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,4,49450
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,4,13500
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,5,256
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,5,2282
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,5,6621
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,5,6460
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,5,8971
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,5,257
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,5,2328
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,5,20850
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,5,184277
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,5,1607614
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,5,162
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,5,1375
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,5,3962
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,5,7446
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,5,8229
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,5,3
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,5,32
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,5,320
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,5,3241
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,5,8229
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,5,256
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,5,2270
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,5,4233
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,5,1671
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,5,8971
+SW,Virulent lytic-only,Uninfected,to the first,5,257
+SW,Virulent lytic-only,Uninfected,to the second,5,2328
+SW,Virulent lytic-only,Uninfected,to the third,5,20850
+SW,Virulent lytic-only,Uninfected,to the fourth,5,184277
+SW,Virulent lytic-only,Uninfected,to the fifth,5,1607614
+SW,Virulent lytic-only,Preinfected,to the first,5,1
+SW,Virulent lytic-only,Preinfected,to the second,5,8
+SW,Virulent lytic-only,Preinfected,to the third,5,83
+SW,Virulent lytic-only,Preinfected,to the fourth,5,823
+SW,Virulent lytic-only,Preinfected,to the fifth,5,8229
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,5,1
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,5,8
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,5,82
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,5,823
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,5,8229
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,5,257
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,5,2328
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,5,20850
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,5,35579
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,5,8971
+SW,Temperate with phenomenological induction,Uninfected,to the first,5,257
+SW,Temperate with phenomenological induction,Uninfected,to the second,5,2328
+SW,Temperate with phenomenological induction,Uninfected,to the third,5,20850
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,5,184277
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,5,1607614
+SW,Temperate with phenomenological induction,Preinfected,to the first,5,257
+SW,Temperate with phenomenological induction,Preinfected,to the second,5,2328
+SW,Temperate with phenomenological induction,Preinfected,to the third,5,20850
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,5,42145
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,5,8229
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,5,257
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,5,2328
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,5,20850
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,5,30143
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,5,8229
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,6,376
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,6,3209
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,6,4092
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,6,4375
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,6,5387
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,6,377
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,6,3270
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,6,28048
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,6,237871
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,6,1996801
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,6,266
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,6,2166
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,6,2784
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,6,5060
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,6,4942
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,6,2
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,6,20
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,6,198
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,6,2013
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,6,4941
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,6,376
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,6,3193
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,6,2573
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,6,1004
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,6,5387
+SW,Virulent lytic-only,Uninfected,to the first,6,377
+SW,Virulent lytic-only,Uninfected,to the second,6,3270
+SW,Virulent lytic-only,Uninfected,to the third,6,28048
+SW,Virulent lytic-only,Uninfected,to the fourth,6,237871
+SW,Virulent lytic-only,Uninfected,to the fifth,6,1996801
+SW,Virulent lytic-only,Preinfected,to the first,6,1
+SW,Virulent lytic-only,Preinfected,to the second,6,5
+SW,Virulent lytic-only,Preinfected,to the third,6,51
+SW,Virulent lytic-only,Preinfected,to the fourth,6,494
+SW,Virulent lytic-only,Preinfected,to the fifth,6,4942
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,6,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,6,5
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,6,49
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,6,494
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,6,4941
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,6,377
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,6,3270
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,6,28048
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,6,21365
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,6,5387
+SW,Temperate with phenomenological induction,Uninfected,to the first,6,377
+SW,Temperate with phenomenological induction,Uninfected,to the second,6,3270
+SW,Temperate with phenomenological induction,Uninfected,to the third,6,28048
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,6,237871
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,6,1996801
+SW,Temperate with phenomenological induction,Preinfected,to the first,6,377
+SW,Temperate with phenomenological induction,Preinfected,to the second,6,3270
+SW,Temperate with phenomenological induction,Preinfected,to the third,6,28048
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,6,25308
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,6,4942
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,6,377
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,6,3270
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,6,28025
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,6,18100
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,6,4941
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,7,478
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,7,3942
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,7,2551
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,7,2980
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,7,3284
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,7,479
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,7,4010
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,7,33290
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,7,274252
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,7,2244661
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,7,382
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,7,2993
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,7,1880
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,7,3461
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,7,3012
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,7,1
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,7,12
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,7,124
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,7,1267
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,7,3012
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,7,478
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,7,3925
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,7,1569
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,7,612
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,7,3284
+SW,Virulent lytic-only,Uninfected,to the first,7,479
+SW,Virulent lytic-only,Uninfected,to the second,7,4010
+SW,Virulent lytic-only,Uninfected,to the third,7,33290
+SW,Virulent lytic-only,Uninfected,to the fourth,7,274252
+SW,Virulent lytic-only,Uninfected,to the fifth,7,2244661
+SW,Virulent lytic-only,Preinfected,to the first,7,0
+SW,Virulent lytic-only,Preinfected,to the second,7,4
+SW,Virulent lytic-only,Preinfected,to the third,7,32
+SW,Virulent lytic-only,Preinfected,to the fourth,7,301
+SW,Virulent lytic-only,Preinfected,to the fifth,7,3012
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,7,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,7,3
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,7,30
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,7,301
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,7,3012
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,7,479
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,7,4010
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,7,31085
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,7,13023
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,7,3284
+SW,Temperate with phenomenological induction,Uninfected,to the first,7,479
+SW,Temperate with phenomenological induction,Uninfected,to the second,7,4010
+SW,Temperate with phenomenological induction,Uninfected,to the third,7,33290
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,7,274252
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,7,2244661
+SW,Temperate with phenomenological induction,Preinfected,to the first,7,479
+SW,Temperate with phenomenological induction,Preinfected,to the second,7,4010
+SW,Temperate with phenomenological induction,Preinfected,to the third,7,31944
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,7,15427
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,7,3012
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,7,479
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,7,4010
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,7,18623
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,7,11033
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,7,3012
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,8,550
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,8,4426
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,8,1608
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,8,2018
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,8,2002
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,8,550
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,8,4494
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,8,36540
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,8,295782
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,8,2385589
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,8,486
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,8,3657
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,8,1278
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,8,2354
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,8,1836
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,8,1
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,8,8
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,8,78
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,8,797
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,8,1836
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,8,550
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,8,4401
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,8,956
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,8,373
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,8,2002
+SW,Virulent lytic-only,Uninfected,to the first,8,550
+SW,Virulent lytic-only,Uninfected,to the second,8,4494
+SW,Virulent lytic-only,Uninfected,to the third,8,36540
+SW,Virulent lytic-only,Uninfected,to the fourth,8,295782
+SW,Virulent lytic-only,Uninfected,to the fifth,8,2385589
+SW,Virulent lytic-only,Preinfected,to the first,8,0
+SW,Virulent lytic-only,Preinfected,to the second,8,4
+SW,Virulent lytic-only,Preinfected,to the third,8,21
+SW,Virulent lytic-only,Preinfected,to the fourth,8,184
+SW,Virulent lytic-only,Preinfected,to the fifth,8,1836
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,8,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,8,2
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,8,18
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,8,184
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,8,1836
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,8,550
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,8,4494
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,8,20278
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,8,7939
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,8,2002
+SW,Temperate with phenomenological induction,Uninfected,to the first,8,550
+SW,Temperate with phenomenological induction,Uninfected,to the second,8,4494
+SW,Temperate with phenomenological induction,Uninfected,to the third,8,36540
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,8,295782
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,8,2385589
+SW,Temperate with phenomenological induction,Preinfected,to the first,8,550
+SW,Temperate with phenomenological induction,Preinfected,to the second,8,4494
+SW,Temperate with phenomenological induction,Preinfected,to the third,8,21645
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,8,9404
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,8,1836
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,8,550
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,8,4494
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,8,11353
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,8,6725
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,8,1836
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,9,592
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,9,4560
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,9,1015
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,9,1342
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,9,1202
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,9,593
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,9,4774
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,9,38359
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,9,307502
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,9,2460597
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,9,560
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,9,3914
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,9,867
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,9,1572
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,9,1103
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,9,0
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,9,5
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,9,48
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,9,493
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,9,1103
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,9,592
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,9,4476
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,9,574
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,9,224
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,9,1202
+SW,Virulent lytic-only,Uninfected,to the first,9,593
+SW,Virulent lytic-only,Uninfected,to the second,9,4774
+SW,Virulent lytic-only,Uninfected,to the third,9,38359
+SW,Virulent lytic-only,Uninfected,to the fourth,9,307502
+SW,Virulent lytic-only,Uninfected,to the fifth,9,2460597
+SW,Virulent lytic-only,Preinfected,to the first,9,0
+SW,Virulent lytic-only,Preinfected,to the second,9,6
+SW,Virulent lytic-only,Preinfected,to the third,9,16
+SW,Virulent lytic-only,Preinfected,to the fourth,9,110
+SW,Virulent lytic-only,Preinfected,to the fifth,9,1103
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,9,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,9,1
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,9,11
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,9,110
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,9,1103
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,9,593
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,9,4774
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,9,12177
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,9,4767
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,9,1202
+SW,Temperate with phenomenological induction,Uninfected,to the first,9,593
+SW,Temperate with phenomenological induction,Uninfected,to the second,9,4774
+SW,Temperate with phenomenological induction,Uninfected,to the third,9,38359
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,9,307502
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,9,2460597
+SW,Temperate with phenomenological induction,Preinfected,to the first,9,593
+SW,Temperate with phenomenological induction,Preinfected,to the second,9,4774
+SW,Temperate with phenomenological induction,Preinfected,to the third,9,12998
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,9,5647
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,9,1103
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,9,593
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,9,4765
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,9,6817
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,9,4039
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,9,1103
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,10,614
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,10,3842
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,10,661
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,10,897
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,10,733
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,10,614
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,10,4914
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,10,39249
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,10,313162
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,10,2496397
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,10,602
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,10,3384
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,10,597
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,10,1056
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,10,672
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,10,0
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,10,3
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,10,30
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,10,310
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,10,672
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,10,614
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,10,3656
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,10,350
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,10,137
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,10,733
+SW,Virulent lytic-only,Uninfected,to the first,10,614
+SW,Virulent lytic-only,Uninfected,to the second,10,4914
+SW,Virulent lytic-only,Uninfected,to the third,10,39249
+SW,Virulent lytic-only,Uninfected,to the fourth,10,313162
+SW,Virulent lytic-only,Uninfected,to the fifth,10,2496397
+SW,Virulent lytic-only,Preinfected,to the first,10,0
+SW,Virulent lytic-only,Preinfected,to the second,10,10
+SW,Virulent lytic-only,Preinfected,to the third,10,15
+SW,Virulent lytic-only,Preinfected,to the fourth,10,67
+SW,Virulent lytic-only,Preinfected,to the fifth,10,672
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,10,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,10,1
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,10,7
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,10,67
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,10,672
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,10,614
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,10,4921
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,10,7423
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,10,2906
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,10,733
+SW,Temperate with phenomenological induction,Uninfected,to the first,10,614
+SW,Temperate with phenomenological induction,Uninfected,to the second,10,4914
+SW,Temperate with phenomenological induction,Uninfected,to the third,10,39249
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,10,313162
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,10,2496397
+SW,Temperate with phenomenological induction,Preinfected,to the first,10,614
+SW,Temperate with phenomenological induction,Preinfected,to the second,10,4932
+SW,Temperate with phenomenological induction,Preinfected,to the third,10,7923
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,10,3442
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,10,672
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,10,614
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,10,3215
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,10,4156
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,10,2462
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,10,672
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,11,625
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,11,2562
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,11,439
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,11,597
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,11,447
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,11,625
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,11,4983
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,11,39688
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,11,315930
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,11,2513804
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,11,625
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,11,2339
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,11,412
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,11,705
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,11,410
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,11,0
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,11,2
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,11,19
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,11,194
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,11,410
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,11,625
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,11,2398
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,11,213
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,11,83
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,11,447
+SW,Virulent lytic-only,Uninfected,to the first,11,625
+SW,Virulent lytic-only,Uninfected,to the second,11,4983
+SW,Virulent lytic-only,Uninfected,to the third,11,39688
+SW,Virulent lytic-only,Uninfected,to the fourth,11,315930
+SW,Virulent lytic-only,Uninfected,to the fifth,11,2513804
+SW,Virulent lytic-only,Preinfected,to the first,11,0
+SW,Virulent lytic-only,Preinfected,to the second,11,19
+SW,Virulent lytic-only,Preinfected,to the third,11,19
+SW,Virulent lytic-only,Preinfected,to the fourth,11,41
+SW,Virulent lytic-only,Preinfected,to the fifth,11,410
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,11,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,11,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,11,4
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,11,41
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,11,410
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,11,625
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,11,5012
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,11,4525
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,11,1771
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,11,447
+SW,Temperate with phenomenological induction,Uninfected,to the first,11,625
+SW,Temperate with phenomenological induction,Uninfected,to the second,11,4983
+SW,Temperate with phenomenological induction,Uninfected,to the third,11,39688
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,11,315930
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,11,2513804
+SW,Temperate with phenomenological induction,Preinfected,to the first,11,625
+SW,Temperate with phenomenological induction,Preinfected,to the second,11,5046
+SW,Temperate with phenomenological induction,Preinfected,to the third,11,4829
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,11,2098
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,11,410
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,11,625
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,11,2027
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,11,2533
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,11,1501
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,11,410
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,12,631
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,12,1556
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,12,293
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,12,390
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,12,268
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,12,631
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,12,5017
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,12,39905
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,12,317291
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,12,2522343
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,12,636
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,12,1460
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,12,280
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,12,462
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,12,246
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,12,0
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,12,1
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,12,12
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,12,120
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,12,246
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,12,631
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,12,1453
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,12,128
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,12,50
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,12,268
+SW,Virulent lytic-only,Uninfected,to the first,12,631
+SW,Virulent lytic-only,Uninfected,to the second,12,5017
+SW,Virulent lytic-only,Uninfected,to the third,12,39905
+SW,Virulent lytic-only,Uninfected,to the fourth,12,317291
+SW,Virulent lytic-only,Uninfected,to the fifth,12,2522343
+SW,Virulent lytic-only,Preinfected,to the first,12,1
+SW,Virulent lytic-only,Preinfected,to the second,12,40
+SW,Virulent lytic-only,Preinfected,to the third,12,31
+SW,Virulent lytic-only,Preinfected,to the fourth,12,25
+SW,Virulent lytic-only,Preinfected,to the fifth,12,246
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,12,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,12,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,12,2
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,12,25
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,12,246
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,12,631
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,12,5101
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,12,2717
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,12,1064
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,12,268
+SW,Temperate with phenomenological induction,Uninfected,to the first,12,631
+SW,Temperate with phenomenological induction,Uninfected,to the second,12,5017
+SW,Temperate with phenomenological induction,Uninfected,to the third,12,39905
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,12,317291
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,12,2522343
+SW,Temperate with phenomenological induction,Preinfected,to the first,12,631
+SW,Temperate with phenomenological induction,Preinfected,to the second,12,5040
+SW,Temperate with phenomenological induction,Preinfected,to the third,12,2900
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,12,1260
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,12,246
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,12,628
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,12,1224
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,12,1521
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,12,901
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,12,246
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,13,633
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,13,950
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,13,200
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,13,257
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,13,163
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,13,633
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,13,5033
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,13,40004
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,13,317916
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,13,2526257
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,13,642
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,13,917
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,13,192
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,13,305
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,13,150
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,13,0
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,13,1
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,13,7
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,13,75
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,13,150
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,13,633
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,13,887
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,13,78
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,13,30
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,13,163
+SW,Virulent lytic-only,Uninfected,to the first,13,633
+SW,Virulent lytic-only,Uninfected,to the second,13,5033
+SW,Virulent lytic-only,Uninfected,to the third,13,40004
+SW,Virulent lytic-only,Uninfected,to the fourth,13,317916
+SW,Virulent lytic-only,Uninfected,to the fifth,13,2526257
+SW,Virulent lytic-only,Preinfected,to the first,13,2
+SW,Virulent lytic-only,Preinfected,to the second,13,83
+SW,Virulent lytic-only,Preinfected,to the third,13,57
+SW,Virulent lytic-only,Preinfected,to the fourth,13,15
+SW,Virulent lytic-only,Preinfected,to the fifth,13,150
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,13,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,13,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,13,1
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,13,15
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,13,150
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,13,633
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,13,4969
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,13,1656
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,13,648
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,13,163
+SW,Temperate with phenomenological induction,Uninfected,to the first,13,633
+SW,Temperate with phenomenological induction,Uninfected,to the second,13,5033
+SW,Temperate with phenomenological induction,Uninfected,to the third,13,40004
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,13,317916
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,13,2526257
+SW,Temperate with phenomenological induction,Preinfected,to the first,13,635
+SW,Temperate with phenomenological induction,Preinfected,to the second,13,4233
+SW,Temperate with phenomenological induction,Preinfected,to the third,13,1768
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,13,768
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,13,150
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,13,422
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,13,747
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,13,927
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,13,549
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,13,150
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the first,14,635
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the second,14,580
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the third,14,138
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fourth,14,168
+SW,Temperate with autophagy-triggered induction,10:1 Co-incubation,to the fifth,14,100
+SW,Temperate with autophagy-triggered induction,Uninfected,to the first,14,634
+SW,Temperate with autophagy-triggered induction,Uninfected,to the second,14,5041
+SW,Temperate with autophagy-triggered induction,Uninfected,to the third,14,40052
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fourth,14,318214
+SW,Temperate with autophagy-triggered induction,Uninfected,to the fifth,14,2528124
+SW,Temperate with autophagy-triggered induction,Preinfected,to the first,14,644
+SW,Temperate with autophagy-triggered induction,Preinfected,to the second,14,582
+SW,Temperate with autophagy-triggered induction,Preinfected,to the third,14,130
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fourth,14,201
+SW,Temperate with autophagy-triggered induction,Preinfected,to the fifth,14,91
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the first,14,0
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the second,14,0
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the third,14,5
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fourth,14,47
+SW,Temperate with autophagy-triggered induction,Preinfected with added viruses,to the fifth,14,91
+SW,Virulent lytic-only,10:1 Co-incubation,to the first,14,635
+SW,Virulent lytic-only,10:1 Co-incubation,to the second,14,540
+SW,Virulent lytic-only,10:1 Co-incubation,to the third,14,48
+SW,Virulent lytic-only,10:1 Co-incubation,to the fourth,14,19
+SW,Virulent lytic-only,10:1 Co-incubation,to the fifth,14,100
+SW,Virulent lytic-only,Uninfected,to the first,14,634
+SW,Virulent lytic-only,Uninfected,to the second,14,5041
+SW,Virulent lytic-only,Uninfected,to the third,14,40052
+SW,Virulent lytic-only,Uninfected,to the fourth,14,318214
+SW,Virulent lytic-only,Uninfected,to the fifth,14,2528124
+SW,Virulent lytic-only,Preinfected,to the first,14,3
+SW,Virulent lytic-only,Preinfected,to the second,14,169
+SW,Virulent lytic-only,Preinfected,to the third,14,110
+SW,Virulent lytic-only,Preinfected,to the fourth,14,9
+SW,Virulent lytic-only,Preinfected,to the fifth,14,91
+SW,Virulent lytic-only,Preinfected with added viruses,to the first,14,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the second,14,0
+SW,Virulent lytic-only,Preinfected with added viruses,to the third,14,1
+SW,Virulent lytic-only,Preinfected with added viruses,to the fourth,14,9
+SW,Virulent lytic-only,Preinfected with added viruses,to the fifth,14,91
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the first,14,634
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the second,14,3901
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the third,14,1010
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fourth,14,395
+SW,Temperate with phenomenological induction,10:1 Co-incubation,to the fifth,14,100
+SW,Temperate with phenomenological induction,Uninfected,to the first,14,634
+SW,Temperate with phenomenological induction,Uninfected,to the second,14,5041
+SW,Temperate with phenomenological induction,Uninfected,to the third,14,40052
+SW,Temperate with phenomenological induction,Uninfected,to the fourth,14,318214
+SW,Temperate with phenomenological induction,Uninfected,to the fifth,14,2528124
+SW,Temperate with phenomenological induction,Preinfected,to the first,14,637
+SW,Temperate with phenomenological induction,Preinfected,to the second,14,2800
+SW,Temperate with phenomenological induction,Preinfected,to the third,14,1078
+SW,Temperate with phenomenological induction,Preinfected,to the fourth,14,468
+SW,Temperate with phenomenological induction,Preinfected,to the fifth,14,91
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the first,14,306
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the second,14,455
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the third,14,565
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fourth,14,335
+SW,Temperate with phenomenological induction,Preinfected with added viruses,to the fifth,14,91

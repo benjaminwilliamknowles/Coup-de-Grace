@@ -1,0 +1,123 @@
+﻿Experiment,Treatment,Iniital Density,Carrying Capacity,Media,Initial E. huxleyi per mL,Days of incubation when lysis occurred,Maximum E. huxleyi density (cells per mL; lytic density)
+I,10:1 Co-incubation,to the fifth,6590541,f/2,370692,1,370692
+I,10:1 Co-incubation,to the fifth,6590541,f/2,328928,1,328928
+I,10:1 Co-incubation,to the fifth,6590541,f/2,349406,1,349406
+I,10:1 Co-incubation,to the fourth,6590541,f/2,39112,3,127706
+I,10:1 Co-incubation,to the fourth,6590541,f/2,38856,3,114507
+I,10:1 Co-incubation,to the fourth,6590541,f/2,45718,3,105357
+I,Preinfected,to the fifth,6590541,f/2,402525,2,426664
+I,Preinfected,to the fifth,6590541,f/2,401523,2,406554
+I,Preinfected,to the fifth,6590541,f/2,480142,2,486891
+I,Preinfected,to the fourth,6590541,f/2,41453,3,100855
+I,Preinfected,to the fourth,6590541,f/2,41886,3,89625
+I,Preinfected,to the fourth,6590541,f/2,47094,3,81849
+I,Preinfected with added viruses,to the fifth,6590541,f/2,382951,1,382951
+I,Preinfected with added viruses,to the fifth,6590541,f/2,340987,1,340987
+I,Preinfected with added viruses,to the fifth,6590541,f/2,356067,1,356067
+I,Preinfected with added viruses,to the fourth,6590541,f/2,38695,1,38695
+I,Preinfected with added viruses,to the fourth,6590541,f/2,31436,2,31844
+I,Preinfected with added viruses,to the fourth,6590541,f/2,34943,1,34943
+II,10:1 Co-incubation,to the fifth,8888000,f/2,946529,0,909412
+II,10:1 Co-incubation,to the fifth,10587706,f/2,909412,0,932647
+II,10:1 Co-incubation,to the fifth,8491824,f/2,907471,0,946529
+II,10:1 Co-incubation,to the fifth,6292676,f/2,92088,2,159294
+II,10:1 Co-incubation,to the fifth,7139912,f/2,93029,2,194265
+II,10:1 Co-incubation,to the fifth,5720618,f/2,88206,2,200824
+III,10:1 Co-incubation,to the fifth,6590541,f/2,457147,1,457147
+III,10:1 Co-incubation,to the fourth,6590541,f/2,54933,1,54933
+V,10:1 Co-incubation,to the fifth,6590541,f/2,267419,1,282746
+V,10:1 Co-incubation,to the fifth,6590541,f/2,327194,0,327194
+V,10:1 Co-incubation,to the fifth,6590541,f/2,312295,0,312295
+V,10:1 Co-incubation,to the fourth,6590541,f/2,28549,3,117000
+V,10:1 Co-incubation,to the fourth,6590541,f/2,33475,3,128596
+V,10:1 Co-incubation,to the fourth,6590541,f/2,30352,3,117189
+V,10:1 Co-incubation,to the second,6590541,f/2,377,13,2358221
+V,10:1 Co-incubation,to the second,6590541,f/2,359,13,2677963
+V,10:1 Co-incubation,to the second,6590541,f/2,372,13,2723701
+V,10:1 Co-incubation,to the third,6590541,f/2,3380,8,719288
+V,10:1 Co-incubation,to the third,6590541,f/2,3532,8,821576
+V,10:1 Co-incubation,to the third,6590541,f/2,3400,8,631747
+V,Preinfected,to the fifth,6590541,f/2,288682,0,288682
+V,Preinfected,to the fifth,6590541,f/2,293109,0,293109
+V,Preinfected,to the fifth,6590541,f/2,318693,0,318693
+V,Preinfected,to the first,6590541,f/2,44,21,2308765
+V,Preinfected,to the first,6590541,f/2,37,21,808209
+V,Preinfected,to the first,6590541,f/2,56,21,6314232
+V,Preinfected,to the fourth,6590541,f/2,29820,3,53168
+V,Preinfected,to the fourth,6590541,f/2,34240,3,53090
+V,Preinfected,to the fourth,6590541,f/2,30644,3,47541
+V,Preinfected,to the second,6590541,f/2,375,13,591264
+V,Preinfected,to the second,6590541,f/2,348,13,650679
+V,Preinfected,to the second,6590541,f/2,339,13,422470
+V,Preinfected,to the third,6590541,f/2,3090,8,389274
+V,Preinfected,to the third,6590541,f/2,3387,8,361257
+V,Preinfected,to the third,6590541,f/2,3187,8,489683
+V,Preinfected with added viruses,to the fifth,6590541,f/2,290692,0,290692
+V,Preinfected with added viruses,to the fifth,6590541,f/2,272662,0,272662
+V,Preinfected with added viruses,to the fifth,6590541,f/2,268398,0,268398
+V,Preinfected with added viruses,to the first,6590541,f/2,25,13,189755
+V,Preinfected with added viruses,to the first,6590541,f/2,44,13,140546
+V,Preinfected with added viruses,to the first,6590541,f/2,30,13,122439
+V,Preinfected with added viruses,to the fourth,6590541,f/2,30391,2,32929
+V,Preinfected with added viruses,to the fourth,6590541,f/2,27874,2,40400
+V,Preinfected with added viruses,to the fourth,6590541,f/2,26853,3,35784
+V,Preinfected with added viruses,to the second,6590541,f/2,271,8,64138
+V,Preinfected with added viruses,to the second,6590541,f/2,320,13,81817
+V,Preinfected with added viruses,to the second,6590541,f/2,276,13,136167
+V,Preinfected with added viruses,to the third,6590541,f/2,3077,8,243229
+V,Preinfected with added viruses,to the third,6590541,f/2,2882,8,277864
+V,Preinfected with added viruses,to the third,6590541,f/2,2584,8,41149
+VI,10:1 Co-incubation,to the fourth,6590541,f/2,12271,5,457543
+VI,10:1 Co-incubation,to the fourth,6590541,f/2,12121,5,531348
+VI,10:1 Co-incubation,to the fourth,6590541,f/2,10837,5,466891
+VI,10:1 Co-incubation,to the second,6590541,f/2,100,14,3847125
+VI,10:1 Co-incubation,to the second,6590541,f/2,178,14,3871375
+VI,10:1 Co-incubation,to the second,6590541,f/2,112,14,3618375
+VI,10:1 Co-incubation,to the third,6590541,f/2,1206,9,1492486
+VI,10:1 Co-incubation,to the third,6590541,f/2,1262,9,1330206
+VI,10:1 Co-incubation,to the third,6590541,f/2,1189,11,3710875
+VI,Preinfected,to the fourth,6590541,f/2,12509,5,195632
+VI,Preinfected,to the fourth,6590541,f/2,12962,5,169793
+VI,Preinfected,to the fourth,6590541,f/2,11942,5,148897
+VI,Preinfected,to the second,6590541,f/2,156,11,507125
+VI,Preinfected,to the second,6590541,f/2,173,11,606188
+VI,Preinfected,to the second,6590541,f/2,224,11,548625
+VI,Preinfected,to the third,6590541,f/2,1261,7,175733
+VI,Preinfected,to the third,6590541,f/2,1428,7,183457
+VI,Preinfected,to the third,6590541,f/2,1474,7,164943
+VII,10:1 Co-incubation,to the fifth,6590541,f/2,378591,2,378591
+VII,10:1 Co-incubation,to the fifth,6590541,f/2,326908,2,326908
+VII,10:1 Co-incubation,to the fifth,6590541,f/2,321097,2,321097
+VII,10:1 Co-incubation,to the fourth,6590541,f/2,56750,3,103699
+VII,10:1 Co-incubation,to the fourth,6590541,f/2,47410,3,103700
+VII,10:1 Co-incubation,to the fourth,6590541,f/2,52550,3,89949
+II,10:1 Co-incubation,to the fifth,1708529,SW,893235,0,806000
+II,10:1 Co-incubation,to the fifth,1983294,SW,882353,0,893235
+II,10:1 Co-incubation,to the fifth,1881412,SW,806000,0,882353
+II,10:1 Co-incubation,to the fifth,364088,SW,69676,2,132294
+II,10:1 Co-incubation,to the fifth,384706,SW,82706,2,167735
+II,10:1 Co-incubation,to the fifth,337500,SW,77324,2,189941
+IV,10:1 Co-incubation,to the second,194505,SW,233,9,134928
+IV,10:1 Co-incubation,to the second,194505,SW,238,9,167887
+IV,10:1 Co-incubation,to the second,194505,SW,264,9,58783
+V,Preinfected,to the second,71096.66667,SW,226,0,19151
+V,Preinfected,to the second,71096.66667,SW,228,0,18568
+V,Preinfected,to the second,71096.66667,SW,222,0,33737
+VI,10:1 Co-incubation,to the fourth,311238,SW,11260,5,177802
+VI,10:1 Co-incubation,to the fourth,311238,SW,10875,5,178066
+VI,10:1 Co-incubation,to the fourth,311238,SW,10788,5,166989
+VI,10:1 Co-incubation,to the second,3733,SW,112,9,3087
+VI,10:1 Co-incubation,to the second,3733,SW,125,9,2612
+VI,10:1 Co-incubation,to the second,3733,SW,119,9,1981
+VI,10:1 Co-incubation,to the third,127221,SW,1237,7,23914
+VI,10:1 Co-incubation,to the third,127221,SW,1141,7,25229
+VI,10:1 Co-incubation,to the third,127221,SW,1058,7,25829
+VI,Preinfected,to the fourth,311238,SW,12481,5,65467
+VI,Preinfected,to the fourth,311238,SW,11788,5,76422
+VI,Preinfected,to the fourth,311238,SW,11923,5,63933
+VI,Preinfected,to the second,3733,SW,122,7,1833
+VI,Preinfected,to the second,3733,SW,109,7,2703
+VI,Preinfected,to the second,3733,SW,135,7,2461
+VI,Preinfected,to the third,127221,SW,1407,5,17222
+VI,Preinfected,to the third,127221,SW,1228,5,17533
+VI,Preinfected,to the third,127221,SW,1173,5,15333

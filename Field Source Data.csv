@@ -1,0 +1,192 @@
+Days elapsed,Bag,Treatment,E. huxleyi per mL,Extracellular EhVs per mL,#,Days elapsed,Bag,Treatment,Intracellular EhVs (relative MCP transcripts),#,Bag,Treatment,Days elapsed,EhV GSLs (relative units),Sytox (RFU),#
+0,1,Redfield nutrients,137,151920,#,7.684210526,1,Redfield nutrients,0.191740413,#,1,Redfield nutrients,0,,,#
+1,1,Redfield nutrients,447,65082,#,8.231578947,1,Redfield nutrients,0,#,1,Redfield nutrients,1,,,#
+1.5,1,Redfield nutrients,447,682031,#,8.821052632,1,Redfield nutrients,0.707964602,#,1,Redfield nutrients,1.5,,,#
+2.25,1,Redfield nutrients,839,68700,#,9.347368421,1,Redfield nutrients,0.840707965,#,1,Redfield nutrients,2.25,,,#
+2.5,1,Redfield nutrients,790,397072,#,9.915789474,1,Redfield nutrients,1.622418879,#,1,Redfield nutrients,2.5,,,#
+2.75,1,Redfield nutrients,951,97946,#,10.44210526,1,Redfield nutrients,1.401179941,#,1,Redfield nutrients,2.75,,,#
+3,1,Redfield nutrients,1222,312256,#,11.55789474,1,Redfield nutrients,3.156342183,#,1,Redfield nutrients,3,0,,#
+3.25,1,Redfield nutrients,1599,170011,#,12.12631579,1,Redfield nutrients,3.643067847,#,1,Redfield nutrients,3.25,,,#
+3.5,1,Redfield nutrients,2317,471261,#,13.22105263,1,Redfield nutrients,3.539823009,#,1,Redfield nutrients,3.5,,,#
+3.75,1,Redfield nutrients,1392,318345,#,13.76842105,1,Redfield nutrients,4.12979351,#,1,Redfield nutrients,3.75,,,#
+4,1,Redfield nutrients,2247,396743,#,14.86315789,1,Redfield nutrients,4.144542773,#,1,Redfield nutrients,4,0,,#
+4.25,1,Redfield nutrients,3257,249613,#,15.93684211,1,Redfield nutrients,4.542772861,#,1,Redfield nutrients,4.25,,,#
+4.5,1,Redfield nutrients,4369,430441,#,6.002164815,3,Redfield nutrients,0.50295858,#,1,Redfield nutrients,4.5,,,#
+4.75,1,Redfield nutrients,4592,484592,#,6.510633831,3,Redfield nutrients,0.162721893,#,1,Redfield nutrients,4.75,,,#
+5,1,Redfield nutrients,3934,323277,#,8.062084257,3,Redfield nutrients,0,#,1,Redfield nutrients,5,,,#
+5.25,1,Redfield nutrients,5444,340069,#,8.638712132,3,Redfield nutrients,0.044378698,#,1,Redfield nutrients,5.25,,,#
+5.5,1,Redfield nutrients,5903,445292,#,9.149608365,3,Redfield nutrients,0.25147929,#,1,Redfield nutrients,5.5,,,#
+5.75,1,Redfield nutrients,7438,459825,#,9.596937771,3,Redfield nutrients,1.124260355,#,1,Redfield nutrients,5.75,,,#
+6,1,Redfield nutrients,4731,264505,#,10.1969194,3,Redfield nutrients,1.420118343,#,1,Redfield nutrients,6,0,5.58,#
+6.25,1,Redfield nutrients,7013,267704,#,10.7321534,3,Redfield nutrients,2.115384615,#,1,Redfield nutrients,6.25,,,#
+6.5,1,Redfield nutrients,7777,337674,#,11.19758853,3,Redfield nutrients,2.071005917,#,1,Redfield nutrients,6.5,,,#
+6.75,1,Redfield nutrients,6444,427983,#,11.73465934,3,Redfield nutrients,3.180473373,#,1,Redfield nutrients,6.75,,,#
+7,1,Redfield nutrients,7353,451841,#,12.26753172,3,Redfield nutrients,3.343195266,#,1,Redfield nutrients,7,0,1.86,#
+7.25,1,Redfield nutrients,12069,288399,#,12.80250331,3,Redfield nutrients,3.979289941,#,1,Redfield nutrients,7.25,,,#
+7.5,1,Redfield nutrients,14887,875755,#,13.29076739,3,Redfield nutrients,4.082840237,#,1,Redfield nutrients,7.5,,,#
+7.75,1,Redfield nutrients,14178,463369,#,14.37907871,3,Redfield nutrients,4.49704142,#,1,Redfield nutrients,7.75,,,#
+8,1,Redfield nutrients,19313,429799,#,14.90978627,3,Redfield nutrients,4.171597633,#,1,Redfield nutrients,8,0,1.82,#
+8.25,1,Redfield nutrients,25413,362272,#,15.42114171,3,Redfield nutrients,4.482248521,#,1,Redfield nutrients,8.25,,,#
+8.5,1,Redfield nutrients,31452,745894,#,15.93144754,3,Redfield nutrients,4.556213018,#,1,Redfield nutrients,8.5,,,#
+8.75,1,Redfield nutrients,43689,703896,#,16.44109736,3,Redfield nutrients,4.482248521,#,1,Redfield nutrients,8.75,,,#
+9,1,Redfield nutrients,45880,573087,#,5.977876106,5,Redfield nutrients,0.221893491,#,1,Redfield nutrients,9,0,3.09,#
+9.25,1,Redfield nutrients,58898,485393,#,6.46460177,5,Redfield nutrients,1.00591716,#,1,Redfield nutrients,9.25,,,#
+9.5,1,Redfield nutrients,66604,705066,#,6.973451327,5,Redfield nutrients,0.606508876,#,1,Redfield nutrients,9.5,,,#
+9.75,1,Redfield nutrients,74976,1538626,#,7.969026549,5,Redfield nutrients,0.266272189,#,1,Redfield nutrients,9.75,,,#
+10,1,Redfield nutrients,66225,745743,#,8.5,5,Redfield nutrients,1.020710059,#,1,Redfield nutrients,10,0,1.8,#
+10.25,1,Redfield nutrients,96407,643727,#,8.986725664,5,Redfield nutrients,0,#,1,Redfield nutrients,10.25,,,#
+10.5,1,Redfield nutrients,117442,935159,#,9.495575221,5,Redfield nutrients,0.532544379,#,1,Redfield nutrients,10.5,,,#
+10.75,1,Redfield nutrients,108709,1035571,#,10.00442478,5,Redfield nutrients,0,#,1,Redfield nutrients,10.75,,,#
+11,1,Redfield nutrients,102636,1094750,#,10.46902655,5,Redfield nutrients,0.99112426,#,1,Redfield nutrients,11,0,2.5,#
+11.25,1,Redfield nutrients,119683,685813,#,10.97787611,5,Redfield nutrients,0.369822485,#,1,Redfield nutrients,11.25,,,#
+11.5,1,Redfield nutrients,118984,1343357,#,11.44247788,5,Redfield nutrients,1.375739645,#,1,Redfield nutrients,11.5,,,#
+11.75,1,Redfield nutrients,89993,2245967,#,11.95132743,5,Redfield nutrients,1.642011834,#,1,Redfield nutrients,11.75,,,#
+12,1,Redfield nutrients,107002,1410693,#,12.4380531,5,Redfield nutrients,2.736686391,#,1,Redfield nutrients,12,0,2.69,#
+12.25,1,Redfield nutrients,98521,1670782,#,12.94690265,5,Redfield nutrients,2.440828402,#,1,Redfield nutrients,12.25,,,#
+12.5,1,Redfield nutrients,120394,2178313,#,13.92035398,5,Redfield nutrients,3.934911243,#,1,Redfield nutrients,12.5,,,#
+12.75,1,Redfield nutrients,144876,,#,14.47345133,5,Redfield nutrients,4.423076923,#,1,Redfield nutrients,12.75,,,#
+13,1,Redfield nutrients,149228,2578902,#,14.89380531,5,Redfield nutrients,4.541420118,#,1,Redfield nutrients,13,0,2.6,#
+13.25,1,Redfield nutrients,129414,4193123,#,15.46902655,5,Redfield nutrients,4.926035503,#,1,Redfield nutrients,13.25,,,#
+13.5,1,Redfield nutrients,128058,4638673,#,15.93362832,5,Redfield nutrients,4.644970414,#,1,Redfield nutrients,13.5,,,#
+13.75,1,Redfield nutrients,123045,6105151,#,16.48672566,5,Redfield nutrients,4.49704142,#,1,Redfield nutrients,13.75,,,#
+14,1,Redfield nutrients,95535,2935183,#,,,,,#,1,Redfield nutrients,14,0.2,4.9,#
+14.25,1,Redfield nutrients,68680,6106633,#,,,,,#,1,Redfield nutrients,14.25,,,#
+14.5,1,Redfield nutrients,79070,7076767,#,,,,,#,1,Redfield nutrients,14.5,,,#
+14.75,1,Redfield nutrients,94158,10282546,#,,,,,#,1,Redfield nutrients,14.75,,,#
+15,1,Redfield nutrients,104359,6550026,#,,,,,#,1,Redfield nutrients,15,0.4,10.32,#
+15.25,1,Redfield nutrients,75366,13238966,#,,,,,#,1,Redfield nutrients,15.25,,,#
+15.5,1,Redfield nutrients,66096,12160761,#,,,,,#,1,Redfield nutrients,15.5,,,#
+15.75,1,Redfield nutrients,67435,13554426,#,,,,,#,1,Redfield nutrients,15.75,,,#
+16,1,Redfield nutrients,64517,10425760,#,,,,,#,1,Redfield nutrients,16,,17.33,#
+16.25,1,Redfield nutrients,50686,15671753,#,,,,,#,1,Redfield nutrients,16.25,,,#
+16.5,1,Redfield nutrients,41377,16112945,#,,,,,#,1,Redfield nutrients,16.5,,,#
+16.75,1,Redfield nutrients,26476,,#,,,,,#,1,Redfield nutrients,16.75,,,#
+17,1,Redfield nutrients,13489,13677114,#,,,,,#,1,Redfield nutrients,17,,,#
+17.25,1,Redfield nutrients,4854,3974117,#,,,,,#,1,Redfield nutrients,17.25,,,#
+0,3,Redfield nutrients,155,86791,#,,,,,#,1,Redfield nutrients,17.5,,,#
+1,3,Redfield nutrients,376,75936,#,,,,,#,5,Redfield nutrients,0,,,#
+1.5,3,Redfield nutrients,335,491024,#,,,,,#,5,Redfield nutrients,1,,,#
+2.25,3,Redfield nutrients,698,79555,#,,,,,#,5,Redfield nutrients,1.5,,,#
+2.5,3,Redfield nutrients,729,393361,#,,,,,#,5,Redfield nutrients,2.25,,,#
+2.75,3,Redfield nutrients,814,281879,#,,,,,#,5,Redfield nutrients,2.5,,,#
+3,3,Redfield nutrients,1020,404098,#,,,,,#,5,Redfield nutrients,2.75,,,#
+3.25,3,Redfield nutrients,1443,166393,#,,,,,#,5,Redfield nutrients,3,0,,#
+3.5,3,Redfield nutrients,1501,397042,#,,,,,#,5,Redfield nutrients,3.25,,,#
+3.75,3,Redfield nutrients,1957,516426,#,,,,,#,5,Redfield nutrients,3.5,,,#
+4,3,Redfield nutrients,2141,293880,#,,,,,#,5,Redfield nutrients,3.75,,,#
+4.25,3,Redfield nutrients,3186,198957,#,,,,,#,5,Redfield nutrients,4,0,,#
+4.5,3,Redfield nutrients,3987,322823,#,,,,,#,5,Redfield nutrients,4.25,,,#
+4.75,3,Redfield nutrients,5074,491666,#,,,,,#,5,Redfield nutrients,4.5,,,#
+5,3,Redfield nutrients,4961,404098,#,,,,,#,5,Redfield nutrients,4.75,,,#
+5.25,3,Redfield nutrients,6077,336451,#,,,,,#,5,Redfield nutrients,5,,,#
+5.5,3,Redfield nutrients,6396,356229,#,,,,,#,5,Redfield nutrients,5.25,,,#
+5.75,3,Redfield nutrients,7412,523494,#,,,,,#,5,Redfield nutrients,5.5,,,#
+6,3,Redfield nutrients,5775,260831,#,,,,,#,5,Redfield nutrients,5.75,,,#
+6.25,3,Redfield nutrients,9581,372633,#,,,,,#,5,Redfield nutrients,6,0,6.41,#
+6.5,3,Redfield nutrients,8554,345096,#,,,,,#,5,Redfield nutrients,6.25,,,#
+6.75,3,Redfield nutrients,10159,534098,#,,,,,#,5,Redfield nutrients,6.5,,,#
+7,3,Redfield nutrients,9450,448167,#,,,,,#,5,Redfield nutrients,6.75,,,#
+7.25,3,Redfield nutrients,17151,309506,#,,,,,#,5,Redfield nutrients,7,0,3.45,#
+7.5,3,Redfield nutrients,20257,731028,#,,,,,#,5,Redfield nutrients,7.25,,,#
+7.75,3,Redfield nutrients,18753,583633,#,,,,,#,5,Redfield nutrients,7.5,,,#
+8,3,Redfield nutrients,36966,437146,#,,,,,#,5,Redfield nutrients,7.75,,,#
+8.25,3,Redfield nutrients,34705,267293,#,,,,,#,5,Redfield nutrients,8,0,5.74,#
+8.5,3,Redfield nutrients,44861,586323,#,,,,,#,5,Redfield nutrients,8.25,,,#
+8.75,3,Redfield nutrients,59040,509352,#,,,,,#,5,Redfield nutrients,8.5,,,#
+9,3,Redfield nutrients,63960,587782,#,,,,,#,5,Redfield nutrients,8.75,,,#
+9.25,3,Redfield nutrients,87980,464286,#,,,,,#,5,Redfield nutrients,9,0,1.82,#
+9.5,3,Redfield nutrients,97397,712488,#,,,,,#,5,Redfield nutrients,9.25,,,#
+9.75,3,Redfield nutrients,106098,1283949,#,,,,,#,5,Redfield nutrients,9.5,,,#
+10,3,Redfield nutrients,110924,686964,#,,,,,#,5,Redfield nutrients,9.75,,,#
+10.25,3,Redfield nutrients,129955,594478,#,,,,,#,5,Redfield nutrients,10,0,1.6,#
+10.5,3,Redfield nutrients,149009,1068754,#,,,,,#,5,Redfield nutrients,10.25,,,#
+10.75,3,Redfield nutrients,138185,1056794,#,,,,,#,5,Redfield nutrients,10.5,,,#
+11,3,Redfield nutrients,127357,944129,#,,,,,#,5,Redfield nutrients,10.75,,,#
+11.25,3,Redfield nutrients,147101,812452,#,,,,,#,5,Redfield nutrients,11,0,1.9,#
+11.5,3,Redfield nutrients,141360,1476951,#,,,,,#,5,Redfield nutrients,11.25,,,#
+11.75,3,Redfield nutrients,125711,1817970,#,,,,,#,5,Redfield nutrients,11.5,,,#
+12,3,Redfield nutrients,166116,1873577,#,,,,,#,5,Redfield nutrients,11.75,,,#
+12.25,3,Redfield nutrients,170948,2581879,#,,,,,#,5,Redfield nutrients,12,3.6,1.53,#
+12.5,3,Redfield nutrients,157069,3484567,#,,,,,#,5,Redfield nutrients,12.25,,,#
+12.75,3,Redfield nutrients,151222,,#,,,,,#,5,Redfield nutrients,12.5,,,#
+13,3,Redfield nutrients,151599,4030006,#,,,,,#,5,Redfield nutrients,12.75,,,#
+13.25,3,Redfield nutrients,135731,9754681,#,,,,,#,5,Redfield nutrients,13,3.6,4.67,#
+13.5,3,Redfield nutrients,128718,11663501,#,,,,,#,5,Redfield nutrients,13.25,,,#
+13.75,3,Redfield nutrients,95827,12712580,#,,,,,#,5,Redfield nutrients,13.5,,,#
+14,3,Redfield nutrients,94684,5763917,#,,,,,#,5,Redfield nutrients,13.75,,,#
+14.25,3,Redfield nutrients,83223,26323125,#,,,,,#,5,Redfield nutrients,14,8.3,5.31,#
+14.5,3,Redfield nutrients,73205,26655740,#,,,,,#,5,Redfield nutrients,14.25,,,#
+14.75,3,Redfield nutrients,65125,25499441,#,,,,,#,5,Redfield nutrients,14.5,,,#
+15,3,Redfield nutrients,59139,21817844,#,,,,,#,5,Redfield nutrients,14.75,,,#
+15.25,3,Redfield nutrients,45932,28280790,#,,,,,#,5,Redfield nutrients,15,16.9,14.31,#
+15.5,3,Redfield nutrients,29666,24336388,#,,,,,#,5,Redfield nutrients,15.25,,,#
+15.75,3,Redfield nutrients,25237,23072944,#,,,,,#,5,Redfield nutrients,15.5,,,#
+16,3,Redfield nutrients,18989,31046130,#,,,,,#,5,Redfield nutrients,15.75,,,#
+16.25,3,Redfield nutrients,15783,23520784,#,,,,,#,5,Redfield nutrients,16,,,#
+16.5,3,Redfield nutrients,12718,21757300,#,,,,,#,5,Redfield nutrients,16.25,,,#
+16.75,3,Redfield nutrients,8670,,#,,,,,#,5,Redfield nutrients,16.5,,,#
+17,3,Redfield nutrients,7077,23394000,#,,,,,#,5,Redfield nutrients,16.75,,,#
+17.25,3,Redfield nutrients,4165,10381639,#,,,,,#,5,Redfield nutrients,17,,,#
+0,5,Redfield nutrients,239,141065,#,,,,,#,5,Redfield nutrients,17.25,,,#
+1,5,Redfield nutrients,312,141065,#,,,,,#,5,Redfield nutrients,17.5,,,#
+1.5,5,Redfield nutrients,294,388446,#,,,,,#,,,,,,#
+2.25,5,Redfield nutrients,374,253231,#,,,,,#,,,,,,#
+2.5,5,Redfield nutrients,553,1306254,#,,,,,#,,,,,,#
+2.75,5,Redfield nutrients,482,497646,#,,,,,#,,,,,,#
+3,5,Redfield nutrients,661,235108,#,,,,,#,,,,,,#
+3.25,5,Redfield nutrients,813,108501,#,,,,,#,,,,,,#
+3.5,5,Redfield nutrients,1056,178096,#,,,,,#,,,,,,#
+3.75,5,Redfield nutrients,844,431534,#,,,,,#,,,,,,#
+4,5,Redfield nutrients,957,547364,#,,,,,#,,,,,,#
+4.25,5,Redfield nutrients,1443,170011,#,,,,,#,,,,,,#
+4.5,5,Redfield nutrients,1740,333956,#,,,,,#,,,,,,#
+4.75,5,Redfield nutrients,2005,541187,#,,,,,#,,,,,,#
+5,5,Redfield nutrients,2287,304908,#,,,,,#,,,,,,#
+5.25,5,Redfield nutrients,2520,318359,#,,,,,#,,,,,,#
+5.5,5,Redfield nutrients,2691,415604,#,,,,,#,,,,,,#
+5.75,5,Redfield nutrients,3855,534105,#,,,,,#,,,,,,#
+6,5,Redfield nutrients,2609,235116,#,,,,,#,,,,,,#
+6.25,5,Redfield nutrients,4138,343687,#,,,,,#,,,,,,#
+6.5,5,Redfield nutrients,3215,519511,#,,,,,#,,,,,,#
+6.75,5,Redfield nutrients,3936,643750,#,,,,,#,,,,,,#
+7,5,Redfield nutrients,3689,448167,#,,,,,#,,,,,,#
+7.25,5,Redfield nutrients,5809,260257,#,,,,,#,,,,,,#
+7.5,5,Redfield nutrients,5416,879466,#,,,,,#,,,,,,#
+7.75,5,Redfield nutrients,5477,898441,#,,,,,#,,,,,,#
+8,5,Redfield nutrients,9708,551030,#,,,,,#,,,,,,#
+8.25,5,Redfield nutrients,10753,274328,#,,,,,#,,,,,,#
+8.5,5,Redfield nutrients,13164,779292,#,,,,,#,,,,,,#
+8.75,5,Redfield nutrients,17964,583633,#,,,,,#,,,,,,#
+9,5,Redfield nutrients,19900,554718,#,,,,,#,,,,,,#
+9.25,5,Redfield nutrients,26546,277846,#,,,,,#,,,,,,#
+9.5,5,Redfield nutrients,29957,794129,#,,,,,#,,,,,,#
+9.75,5,Redfield nutrients,36335,884250,#,,,,,#,,,,,,#
+10,5,Redfield nutrients,45112,587774,#,,,,,#,,,,,,#
+10.25,5,Redfield nutrients,55321,358789,#,,,,,#,,,,,,#
+10.5,5,Redfield nutrients,67442,719924,#,,,,,#,,,,,,#
+11,5,Redfield nutrients,69311,712687,#,,,,,#,,,,,,#
+11.25,5,Redfield nutrients,110823,499373,#,,,,,#,,,,,,#
+11.5,5,Redfield nutrients,101511,909175,#,,,,,#,,,,,,#
+11.75,5,Redfield nutrients,86492,1687095,#,,,,,#,,,,,,#
+12,5,Redfield nutrients,106920,1098431,#,,,,,#,,,,,,#
+12.25,5,Redfield nutrients,119428,900396,#,,,,,#,,,,,,#
+12.5,5,Redfield nutrients,134144,1506631,#,,,,,#,,,,,,#
+12.75,5,Redfield nutrients,129585,,#,,,,,#,,,,,,#
+13,5,Redfield nutrients,132285,1252703,#,,,,,#,,,,,,#
+13.25,5,Redfield nutrients,132331,2085992,#,,,,,#,,,,,,#
+13.5,5,Redfield nutrients,141487,2326751,#,,,,,#,,,,,,#
+13.75,5,Redfield nutrients,151405,5875235,#,,,,,#,,,,,,#
+14,5,Redfield nutrients,144011,1550205,#,,,,,#,,,,,,#
+14.25,5,Redfield nutrients,133585,3630139,#,,,,,#,,,,,,#
+14.5,5,Redfield nutrients,152210,5232425,#,,,,,#,,,,,,#
+14.75,5,Redfield nutrients,149520,5167802,#,,,,,#,,,,,,#
+15,5,Redfield nutrients,157184,3071051,#,,,,,#,,,,,,#
+15.25,5,Redfield nutrients,122898,10212167,#,,,,,#,,,,,,#
+15.5,5,Redfield nutrients,128572,13285179,#,,,,,#,,,,,,#
+15.75,5,Redfield nutrients,115418,17636317,#,,,,,#,,,,,,#
+16,5,Redfield nutrients,106697,7435383,#,,,,,#,,,,,,#
+16.25,5,Redfield nutrients,92558,24066419,#,,,,,#,,,,,,#
+16.5,5,Redfield nutrients,87388,24533091,#,,,,,#,,,,,,#
+16.75,5,Redfield nutrients,54723,,#,,,,,#,,,,,,#
+17,5,Redfield nutrients,35431,21307349,#,,,,,#,,,,,,#
+17.25,5,Redfield nutrients,16904,14171589,#,,,,,#,,,,,,#

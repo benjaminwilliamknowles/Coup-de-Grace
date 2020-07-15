@@ -1,0 +1,1767 @@
+Media,Experiment,Treatment,Initial Density Bin,Days of Incubation,E. huxleyi per mL,MCP qPCR standard plate,EhVs per mL (from MCP qPCR),% Sytox Positive,% Lysotracker Positive,% Elevated UVAutofluorescence Positive,Fv/Fm
+f/2,I,10:1 Co-incubation,to the fifth,1,370692,P,293779596,,,,
+f/2,I,10:1 Co-incubation,to the fifth,1,328928,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the fifth,1,349406,P,234822478,,,,
+f/2,I,10:1 Co-incubation,to the first,1,57,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,1,57,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,1,96,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the fourth,1,39112,P,524573,,,,
+f/2,I,10:1 Co-incubation,to the fourth,1,38856,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the fourth,1,45718,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,1,335,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,1,418,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,1,495,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,1,4933,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,1,4728,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,1,4640,P,9999,,,,
+f/2,I,Preinfected,to the fifth,1,402525,P,235706,,,,
+f/2,I,Preinfected,to the fifth,1,401523,P,44116321,,,,
+f/2,I,Preinfected,to the fifth,1,480142,P,9999,,,,
+f/2,I,Preinfected,to the first,1,100,P,9999,,,,
+f/2,I,Preinfected,to the first,1,47,P,9999,,,,
+f/2,I,Preinfected,to the first,1,87,P,9999,,,,
+f/2,I,Preinfected,to the fourth,1,41453,P,9999,,,,
+f/2,I,Preinfected,to the fourth,1,41886,P,9999,,,,
+f/2,I,Preinfected,to the fourth,1,47094,P,9999,,,,
+f/2,I,Preinfected,to the second,1,469,P,9999,,,,
+f/2,I,Preinfected,to the second,1,412,P,9999,,,,
+f/2,I,Preinfected,to the second,1,477,P,9999,,,,
+f/2,I,Preinfected,to the third,1,4463,P,9999,,,,
+f/2,I,Preinfected,to the third,1,3945,P,9999,,,,
+f/2,I,Preinfected,to the third,1,4704,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the fifth,1,382951,P,163830083,,,,
+f/2,I,Preinfected with added viruses,to the fifth,1,340987,P,432934,,,,
+f/2,I,Preinfected with added viruses,to the fifth,1,356067,P,79744663,,,,
+f/2,I,Preinfected with added viruses,to the first,1,64,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the first,1,50,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the first,1,36,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,1,38695,P,1069114,,,,
+f/2,I,Preinfected with added viruses,to the fourth,1,31436,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,1,34943,P,1370026,,,,
+f/2,I,Preinfected with added viruses,to the second,1,419,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,1,398,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,1,392,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,1,3658,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,1,3798,P,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,1,3184,P,9999,,,,
+f/2,I,Uninfected,to the fifth,1,506698,P,9999,,,,
+f/2,I,Uninfected,to the fifth,1,448170,P,9999,,,,
+f/2,I,Uninfected,to the fifth,1,482638,P,9999,,,,
+f/2,I,Uninfected,to the first,1,47,P,9999,,,,
+f/2,I,Uninfected,to the first,1,47,P,9999,,,,
+f/2,I,Uninfected,to the first,1,70,P,9999,,,,
+f/2,I,Uninfected,to the fourth,1,44062,P,9999,,,,
+f/2,I,Uninfected,to the fourth,1,43100,P,9999,,,,
+f/2,I,Uninfected,to the fourth,1,45541,P,9999,,,,
+f/2,I,Uninfected,to the second,1,413,P,9999,,,,
+f/2,I,Uninfected,to the second,1,412,P,9999,,,,
+f/2,I,Uninfected,to the second,1,396,P,9999,,,,
+f/2,I,Uninfected,to the third,1,4484,P,9999,,,,
+f/2,I,Uninfected,to the third,1,4017,P,9999,,,,
+f/2,I,Uninfected,to the third,1,4645,P,9999,,,,
+f/2,I,10:1 Co-incubation,to the fifth,2,268465,Q,162850046,,,,
+f/2,I,10:1 Co-incubation,to the fifth,2,273887,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the fifth,2,266697,Q,70868767,,,,
+f/2,I,10:1 Co-incubation,to the first,2,98,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,2,98,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,2,183,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the fourth,2,70575,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the fourth,2,67955,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the fourth,2,73073,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,2,884,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,2,749,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,2,843,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,2,8291,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,2,8454,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,2,8866,Q,9999,,,,
+f/2,I,Preinfected,to the fifth,2,426664,Q,109161650,,,,
+f/2,I,Preinfected,to the fifth,2,406554,Q,1868385212,,,,
+f/2,I,Preinfected,to the fifth,2,486891,Q,9999,,,,
+f/2,I,Preinfected,to the first,2,137,Q,9999,,,,
+f/2,I,Preinfected,to the first,2,86,Q,9999,,,,
+f/2,I,Preinfected,to the first,2,98,Q,9999,,,,
+f/2,I,Preinfected,to the fourth,2,53036,Q,9999,,,,
+f/2,I,Preinfected,to the fourth,2,60424,Q,433801,,,,
+f/2,I,Preinfected,to the fourth,2,72693,Q,9999,,,,
+f/2,I,Preinfected,to the second,2,543,Q,9999,,,,
+f/2,I,Preinfected,to the second,2,598,Q,9999,,,,
+f/2,I,Preinfected,to the second,2,669,Q,9999,,,,
+f/2,I,Preinfected,to the third,2,5985,Q,9999,,,,
+f/2,I,Preinfected,to the third,2,6250,Q,9999,,,,
+f/2,I,Preinfected,to the third,2,8229,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the fifth,2,311643,Q,77387852,,,,
+f/2,I,Preinfected with added viruses,to the fifth,2,324476,Q,1169797,,,,
+f/2,I,Preinfected with added viruses,to the fifth,2,292891,Q,10062643,,,,
+f/2,I,Preinfected with added viruses,to the first,2,64,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the first,2,44,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the first,2,42,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,2,31822,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,2,31844,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,2,26923,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,2,558,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,2,487,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,2,475,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,2,4064,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,2,3813,Q,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,2,3729,Q,9999,,,,
+f/2,I,Uninfected,to the fifth,2,893672,Q,9999,,,,
+f/2,I,Uninfected,to the fifth,2,845453,Q,9999,,,,
+f/2,I,Uninfected,to the fifth,2,1109623,Q,9999,,,,
+f/2,I,Uninfected,to the first,2,84,Q,9999,,,,
+f/2,I,Uninfected,to the first,2,99,Q,9999,,,,
+f/2,I,Uninfected,to the first,2,76,Q,9999,,,,
+f/2,I,Uninfected,to the fourth,2,86180,Q,9999,,,,
+f/2,I,Uninfected,to the fourth,2,83112,Q,9999,,,,
+f/2,I,Uninfected,to the fourth,2,87341,Q,9999,,,,
+f/2,I,Uninfected,to the second,2,728,Q,9999,,,,
+f/2,I,Uninfected,to the second,2,815,Q,9999,,,,
+f/2,I,Uninfected,to the second,2,692,Q,9999,,,,
+f/2,I,Uninfected,to the third,2,8252,Q,9999,,,,
+f/2,I,Uninfected,to the third,2,7153,Q,9999,,,,
+f/2,I,Uninfected,to the third,2,7828,Q,9999,,,,
+f/2,I,10:1 Co-incubation,to the fifth,3,147958,R,1758699359,,,,
+f/2,I,10:1 Co-incubation,to the fifth,3,175933,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the fifth,3,155027,R,123857265,,,,
+f/2,I,10:1 Co-incubation,to the first,3,254,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,3,158,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,3,329,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the fourth,3,127706,R,457569971,,,,
+f/2,I,10:1 Co-incubation,to the fourth,3,114507,R,22121054,,,,
+f/2,I,10:1 Co-incubation,to the fourth,3,105357,R,4405395,,,,
+f/2,I,10:1 Co-incubation,to the second,3,2178,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,3,2164,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,3,1931,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,3,22503,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,3,20682,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,3,18718,R,9999,,,,
+f/2,I,Preinfected,to the fifth,3,289741,R,49815681,,,,
+f/2,I,Preinfected,to the fifth,3,288679,R,4973254899,,,,
+f/2,I,Preinfected,to the fifth,3,270270,R,9999,,,,
+f/2,I,Preinfected,to the first,3,210,R,9999,,,,
+f/2,I,Preinfected,to the first,3,188,R,9999,,,,
+f/2,I,Preinfected,to the first,3,170,R,9999,,,,
+f/2,I,Preinfected,to the fourth,3,100855,R,1703065,,,,
+f/2,I,Preinfected,to the fourth,3,89625,R,270759186,,,,
+f/2,I,Preinfected,to the fourth,3,81849,R,9999,,,,
+f/2,I,Preinfected,to the second,3,1673,R,9999,,,,
+f/2,I,Preinfected,to the second,3,1360,R,9999,,,,
+f/2,I,Preinfected,to the second,3,1494,R,9999,,,,
+f/2,I,Preinfected,to the third,3,17754,R,9999,,,,
+f/2,I,Preinfected,to the third,3,13581,R,9999,,,,
+f/2,I,Preinfected,to the third,3,15631,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the fifth,3,144555,R,215622634,,,,
+f/2,I,Preinfected with added viruses,to the fifth,3,133274,R,215096,,,,
+f/2,I,Preinfected with added viruses,to the fifth,3,137655,R,58946474,,,,
+f/2,I,Preinfected with added viruses,to the first,3,111,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the first,3,104,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the first,3,103,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,3,25846,R,4768491,,,,
+f/2,I,Preinfected with added viruses,to the fourth,3,24297,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,3,25023,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,3,1101,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,3,938,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,3,862,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,3,6550,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,3,7444,R,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,3,5905,R,13219987,,,,
+f/2,I,Uninfected,to the fifth,3,1863169,R,9999,,,,
+f/2,I,Uninfected,to the fifth,3,1657655,R,9999,,,,
+f/2,I,Uninfected,to the fifth,3,1893299,R,9999,,,,
+f/2,I,Uninfected,to the first,3,166,R,9999,,,,
+f/2,I,Uninfected,to the first,3,228,R,9999,,,,
+f/2,I,Uninfected,to the first,3,186,R,9999,,,,
+f/2,I,Uninfected,to the fourth,3,234429,R,9999,,,,
+f/2,I,Uninfected,to the fourth,3,222679,R,9999,,,,
+f/2,I,Uninfected,to the fourth,3,214578,R,9999,,,,
+f/2,I,Uninfected,to the second,3,1690,R,9999,,,,
+f/2,I,Uninfected,to the second,3,1758,R,9999,,,,
+f/2,I,Uninfected,to the second,3,1372,R,9999,,,,
+f/2,I,Uninfected,to the third,3,20205,R,9999,,,,
+f/2,I,Uninfected,to the third,3,17966,R,9999,,,,
+f/2,I,Uninfected,to the third,3,19674,R,9999,,,,
+f/2,I,10:1 Co-incubation,to the fifth,4,30541,S,66915445,,,,
+f/2,I,10:1 Co-incubation,to the fifth,4,29813,S,2751180,,,,
+f/2,I,10:1 Co-incubation,to the fifth,4,30424,S,56907652,,,,
+f/2,I,10:1 Co-incubation,to the first,4,433,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,4,331,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the first,4,467,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the fourth,4,105255,S,366658103,,,,
+f/2,I,10:1 Co-incubation,to the fourth,4,90557,S,55541463,,,,
+f/2,I,10:1 Co-incubation,to the fourth,4,90897,S,35863850,,,,
+f/2,I,10:1 Co-incubation,to the second,4,4585,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,4,4209,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the second,4,4029,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,4,47096,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,4,42624,S,9999,,,,
+f/2,I,10:1 Co-incubation,to the third,4,40153,S,9999,,,,
+f/2,I,Preinfected,to the fifth,4,72847,S,167122958,,,,
+f/2,I,Preinfected,to the fifth,4,64371,S,99517132,,,,
+f/2,I,Preinfected,to the fifth,4,48905,S,9999,,,,
+f/2,I,Preinfected,to the first,4,411,S,9999,,,,
+f/2,I,Preinfected,to the first,4,333,S,9999,,,,
+f/2,I,Preinfected,to the first,4,361,S,9999,,,,
+f/2,I,Preinfected,to the fourth,4,79778,S,64259516,,,,
+f/2,I,Preinfected,to the fourth,4,81862,S,50806780,,,,
+f/2,I,Preinfected,to the fourth,4,72581,S,9999,,,,
+f/2,I,Preinfected,to the second,4,3313,S,9999,,,,
+f/2,I,Preinfected,to the second,4,3256,S,9999,,,,
+f/2,I,Preinfected,to the second,4,3507,S,9999,,,,
+f/2,I,Preinfected,to the third,4,35571,S,9999,,,,
+f/2,I,Preinfected,to the third,4,35259,S,9999,,,,
+f/2,I,Preinfected,to the third,4,37200,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the fifth,4,33965,S,101965020,,,,
+f/2,I,Preinfected with added viruses,to the fifth,4,29986,S,66375620,,,,
+f/2,I,Preinfected with added viruses,to the fifth,4,25068,S,13135649,,,,
+f/2,I,Preinfected with added viruses,to the first,4,182,S,1834973,,,,
+f/2,I,Preinfected with added viruses,to the first,4,193,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the first,4,140,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,4,14625,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,4,13420,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the fourth,4,13697,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,4,1875,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,4,1825,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the second,4,1606,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,4,10096,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,4,12041,S,9999,,,,
+f/2,I,Preinfected with added viruses,to the third,4,10217,S,9999,,,,
+f/2,I,Uninfected,to the fifth,4,2700496,S,9999,,,,
+f/2,I,Uninfected,to the fifth,4,2678577,S,9999,,,,
+f/2,I,Uninfected,to the fifth,4,3046950,S,9999,,,,
+f/2,I,Uninfected,to the first,4,301,S,9999,,,,
+f/2,I,Uninfected,to the first,4,330,S,9999,,,,
+f/2,I,Uninfected,to the first,4,314,S,9999,,,,
+f/2,I,Uninfected,to the fourth,4,517118,S,9999,,,,
+f/2,I,Uninfected,to the fourth,4,499246,S,9999,,,,
+f/2,I,Uninfected,to the fourth,4,481730,S,9999,,,,
+f/2,I,Uninfected,to the second,4,3764,S,9999,,,,
+f/2,I,Uninfected,to the second,4,3586,S,9999,,,,
+f/2,I,Uninfected,to the second,4,3700,S,9999,,,,
+f/2,I,Uninfected,to the third,4,41606,S,9999,,,,
+f/2,I,Uninfected,to the third,4,41449,S,9999,,,,
+f/2,I,Uninfected,to the third,4,40860,S,9999,,,,
+f/2,I,Preinfected,to the fifth,5,26153,,,,,,
+f/2,I,Preinfected,to the fifth,5,16417,,,,,,
+f/2,I,Preinfected,to the fifth,5,9612,,,,,,
+f/2,I,Preinfected,to the first,5,715,,,,,,
+f/2,I,Preinfected,to the first,5,678,,,,,,
+f/2,I,Preinfected,to the first,5,650,,,,,,
+f/2,I,Preinfected,to the fourth,5,46737,,,,,,
+f/2,I,Preinfected,to the fourth,5,39300,,,,,,
+f/2,I,Preinfected,to the fourth,5,34402,,,,,,
+f/2,I,Preinfected,to the second,5,6288,,,,,,
+f/2,I,Preinfected,to the second,5,6871,,,,,,
+f/2,I,Preinfected,to the second,5,6432,,,,,,
+f/2,I,Preinfected,to the third,5,75813,,,,,,
+f/2,I,Preinfected,to the third,5,80982,,,,,,
+f/2,I,Preinfected,to the third,5,61504,,,,,,
+f/2,I,Uninfected,to the fifth,5,4910604,,,,,,
+f/2,I,Uninfected,to the fifth,5,3968017,,,,,,
+f/2,I,Uninfected,to the fifth,5,4054239,,,,,,
+f/2,I,Uninfected,to the first,5,827,,,,,,
+f/2,I,Uninfected,to the first,5,964,,,,,,
+f/2,I,Uninfected,to the first,5,675,,,,,,
+f/2,I,Uninfected,to the fourth,5,1371781,,,,,,
+f/2,I,Uninfected,to the fourth,5,1111370,,,,,,
+f/2,I,Uninfected,to the fourth,5,1096491,,,,,,
+f/2,I,Uninfected,to the second,5,8441,,,,,,
+f/2,I,Uninfected,to the second,5,8661,,,,,,
+f/2,I,Uninfected,to the second,5,11017,,,,,,
+f/2,I,Uninfected,to the third,5,93087,,,,,,
+f/2,I,Uninfected,to the third,5,97706,,,,,,
+f/2,I,Uninfected,to the third,5,98976,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,1,917471,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,1,787000,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,1,932647,,,,,,
+f/2,II,10:1 Co-incubation,to the first,1,74,,,,,,
+f/2,II,10:1 Co-incubation,to the first,1,57,,,,,,
+f/2,II,10:1 Co-incubation,to the first,1,66,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,1,125059,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,1,151824,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,1,121735,,,,,,
+f/2,II,10:1 Co-incubation,to the second,1,790,,,,,,
+f/2,II,10:1 Co-incubation,to the second,1,737,,,,,,
+f/2,II,10:1 Co-incubation,to the second,1,902,,,,,,
+f/2,II,10:1 Co-incubation,to the third,1,8081,,,,,,
+f/2,II,10:1 Co-incubation,to the third,1,9221,,,,,,
+f/2,II,10:1 Co-incubation,to the third,1,10463,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,1,748706,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,1,632059,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,1,787353,,,,,,
+SW,II,10:1 Co-incubation,to the first,1,41,,,,,,
+SW,II,10:1 Co-incubation,to the first,1,64,,,,,,
+SW,II,10:1 Co-incubation,to the first,1,82,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,1,99647,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,1,115882,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,1,113382,,,,,,
+SW,II,10:1 Co-incubation,to the second,1,639,,,,,,
+SW,II,10:1 Co-incubation,to the second,1,571,,,,,,
+SW,II,10:1 Co-incubation,to the second,1,854,,,,,,
+SW,II,10:1 Co-incubation,to the third,1,6044,,,,,,
+SW,II,10:1 Co-incubation,to the third,1,6213,,,,,,
+SW,II,10:1 Co-incubation,to the third,1,10757,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,2,587176,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,2,407824,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,2,345294,,,,,,
+f/2,II,10:1 Co-incubation,to the first,2,49,,,,,,
+f/2,II,10:1 Co-incubation,to the first,2,80,,,,,,
+f/2,II,10:1 Co-incubation,to the first,2,109,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,2,159294,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,2,200824,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,2,194265,,,,,,
+f/2,II,10:1 Co-incubation,to the second,2,707,,,,,,
+f/2,II,10:1 Co-incubation,to the second,2,634,,,,,,
+f/2,II,10:1 Co-incubation,to the second,2,1322,,,,,,
+f/2,II,10:1 Co-incubation,to the third,2,11044,,,,,,
+f/2,II,10:1 Co-incubation,to the third,2,12801,,,,,,
+f/2,II,10:1 Co-incubation,to the third,2,15838,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,2,473765,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,2,293647,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,2,394529,,,,,,
+SW,II,10:1 Co-incubation,to the first,2,51,,,,,,
+SW,II,10:1 Co-incubation,to the first,2,43,,,,,,
+SW,II,10:1 Co-incubation,to the first,2,90,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,2,167735,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,2,147941,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,2,132294,,,,,,
+SW,II,10:1 Co-incubation,to the second,2,522,,,,,,
+SW,II,10:1 Co-incubation,to the second,2,815,,,,,,
+SW,II,10:1 Co-incubation,to the second,2,605,,,,,,
+SW,II,10:1 Co-incubation,to the third,2,10831,,,,,,
+SW,II,10:1 Co-incubation,to the third,2,9882,,,,,,
+SW,II,10:1 Co-incubation,to the third,2,12529,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,3,50118,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,3,89059,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,3,43882,,,,,,
+f/2,II,10:1 Co-incubation,to the first,3,66,,,,,,
+f/2,II,10:1 Co-incubation,to the first,3,88,,,,,,
+f/2,II,10:1 Co-incubation,to the first,3,37,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,3,107147,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,3,154588,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,3,126471,,,,,,
+f/2,II,10:1 Co-incubation,to the second,3,985,,,,,,
+f/2,II,10:1 Co-incubation,to the second,3,1185,,,,,,
+f/2,II,10:1 Co-incubation,to the second,3,1122,,,,,,
+f/2,II,10:1 Co-incubation,to the third,3,18625,,,,,,
+f/2,II,10:1 Co-incubation,to the third,3,29750,,,,,,
+f/2,II,10:1 Co-incubation,to the third,3,23684,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,3,75647,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,3,68000,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,3,30235,,,,,,
+SW,II,10:1 Co-incubation,to the first,3,53,,,,,,
+SW,II,10:1 Co-incubation,to the first,3,94,,,,,,
+SW,II,10:1 Co-incubation,to the first,3,115,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,3,122500,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,3,84765,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,3,91559,,,,,,
+SW,II,10:1 Co-incubation,to the second,3,751,,,,,,
+SW,II,10:1 Co-incubation,to the second,3,893,,,,,,
+SW,II,10:1 Co-incubation,to the second,3,756,,,,,,
+SW,II,10:1 Co-incubation,to the third,3,20140,,,,,,
+SW,II,10:1 Co-incubation,to the third,3,22757,,,,,,
+SW,II,10:1 Co-incubation,to the third,3,18301,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,4,7176,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,4,11647,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,4,1412,,,,,,
+f/2,II,10:1 Co-incubation,to the first,4,94,,,,,,
+f/2,II,10:1 Co-incubation,to the first,4,119,,,,,,
+f/2,II,10:1 Co-incubation,to the first,4,164,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,4,26000,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,4,52000,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,4,27882,,,,,,
+f/2,II,10:1 Co-incubation,to the second,4,1761,,,,,,
+f/2,II,10:1 Co-incubation,to the second,4,1659,,,,,,
+f/2,II,10:1 Co-incubation,to the second,4,2146,,,,,,
+f/2,II,10:1 Co-incubation,to the third,4,55985,,,,,,
+f/2,II,10:1 Co-incubation,to the third,4,53588,,,,,,
+f/2,II,10:1 Co-incubation,to the third,4,66882,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,4,11824,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,4,11176,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,4,2882,,,,,,
+SW,II,10:1 Co-incubation,to the first,4,45,,,,,,
+SW,II,10:1 Co-incubation,to the first,4,115,,,,,,
+SW,II,10:1 Co-incubation,to the first,4,125,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,4,56118,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,4,189941,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,4,37147,,,,,,
+SW,II,10:1 Co-incubation,to the second,4,1176,,,,,,
+SW,II,10:1 Co-incubation,to the second,4,1644,,,,,,
+SW,II,10:1 Co-incubation,to the second,4,1478,,,,,,
+SW,II,10:1 Co-incubation,to the third,4,47684,,,,,,
+SW,II,10:1 Co-incubation,to the third,4,35537,,,,,,
+SW,II,10:1 Co-incubation,to the third,4,54243,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,5,2294,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,5,3294,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,5,4765,,,,,,
+f/2,II,10:1 Co-incubation,to the first,5,228,,,,,,
+f/2,II,10:1 Co-incubation,to the first,5,203,,,,,,
+f/2,II,10:1 Co-incubation,to the first,5,324,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,5,3000,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,5,6735,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,5,2676,,,,,,
+f/2,II,10:1 Co-incubation,to the second,5,3151,,,,,,
+f/2,II,10:1 Co-incubation,to the second,5,4073,,,,,,
+f/2,II,10:1 Co-incubation,to the second,5,4810,,,,,,
+f/2,II,10:1 Co-incubation,to the third,5,136493,,,,,,
+f/2,II,10:1 Co-incubation,to the third,5,174154,,,,,,
+f/2,II,10:1 Co-incubation,to the third,5,166735,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,5,1235,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,5,3941,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,5,3765,,,,,,
+SW,II,10:1 Co-incubation,to the first,5,97,,,,,,
+SW,II,10:1 Co-incubation,to the first,5,135,,,,,,
+SW,II,10:1 Co-incubation,to the first,5,236,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,5,15794,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,5,8176,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,5,11441,,,,,,
+SW,II,10:1 Co-incubation,to the second,5,2132,,,,,,
+SW,II,10:1 Co-incubation,to the second,5,2200,,,,,,
+SW,II,10:1 Co-incubation,to the second,5,4020,,,,,,
+SW,II,10:1 Co-incubation,to the third,5,87382,,,,,,
+SW,II,10:1 Co-incubation,to the third,5,117860,,,,,,
+SW,II,10:1 Co-incubation,to the third,5,54853,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,7,1765,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,7,1118,,,,,,
+f/2,II,10:1 Co-incubation,to the fifth,7,1000,,,,,,
+f/2,II,10:1 Co-incubation,to the first,7,637,,,,,,
+f/2,II,10:1 Co-incubation,to the first,7,782,,,,,,
+f/2,II,10:1 Co-incubation,to the first,7,717,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,7,529,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,7,412,,,,,,
+f/2,II,10:1 Co-incubation,to the fourth,7,618,,,,,,
+f/2,II,10:1 Co-incubation,to the second,7,17902,,,,,,
+f/2,II,10:1 Co-incubation,to the second,7,16293,,,,,,
+f/2,II,10:1 Co-incubation,to the second,7,20863,,,,,,
+f/2,II,10:1 Co-incubation,to the third,7,767757,,,,,,
+f/2,II,10:1 Co-incubation,to the third,7,690493,,,,,,
+f/2,II,10:1 Co-incubation,to the third,7,899779,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,7,235,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,7,412,,,,,,
+SW,II,10:1 Co-incubation,to the fifth,7,59,,,,,,
+SW,II,10:1 Co-incubation,to the first,7,84,,,,,,
+SW,II,10:1 Co-incubation,to the first,7,390,,,,,,
+SW,II,10:1 Co-incubation,to the first,7,257,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,7,588,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,7,382,,,,,,
+SW,II,10:1 Co-incubation,to the fourth,7,265,,,,,,
+SW,II,10:1 Co-incubation,to the second,7,3785,,,,,,
+SW,II,10:1 Co-incubation,to the second,7,8512,,,,,,
+SW,II,10:1 Co-incubation,to the second,7,15317,,,,,,
+SW,II,10:1 Co-incubation,to the third,7,207059,,,,,,
+SW,II,10:1 Co-incubation,to the third,7,282890,,,,,,
+SW,II,10:1 Co-incubation,to the third,7,258235,,,,,,
+f/2,III,10:1 Co-incubation,to the fifth,1,457147,,,,,,
+f/2,III,10:1 Co-incubation,to the first,1,25,,,,,,
+f/2,III,10:1 Co-incubation,to the fourth,1,54933,,,,,,
+f/2,III,10:1 Co-incubation,to the second,1,323,,,,,,
+f/2,III,10:1 Co-incubation,to the third,1,4040,,,,,,
+f/2,III,Uninfected,to the fifth,1,450674,,,,,,
+f/2,III,Uninfected,to the first,1,12,,,,,,
+f/2,III,Uninfected,to the fourth,1,34256,,,,,,
+f/2,III,Uninfected,to the second,1,335,,,,,,
+f/2,III,Uninfected,to the third,1,3140,,,,,,
+f/2,III,10:1 Co-incubation,to the fifth,3,78034,,,,,,
+f/2,III,10:1 Co-incubation,to the first,3,57,,,,,,
+f/2,III,10:1 Co-incubation,to the fourth,3,32874,,,,,,
+f/2,III,10:1 Co-incubation,to the second,3,545,,,,,,
+f/2,III,10:1 Co-incubation,to the third,3,13264,,,,,,
+f/2,III,Uninfected,to the fifth,3,2617816,,,,,,
+f/2,III,Uninfected,to the first,3,74,,,,,,
+f/2,III,Uninfected,to the fourth,3,202080,,,,,,
+f/2,III,Uninfected,to the second,3,1063,,,,,,
+f/2,III,Uninfected,to the third,3,13368,,,,,,
+f/2,III,10:1 Co-incubation,to the fifth,5,3613,,,,,,
+f/2,III,10:1 Co-incubation,to the first,5,564,,,,,,
+f/2,III,10:1 Co-incubation,to the fourth,5,880,,,,,,
+f/2,III,10:1 Co-incubation,to the second,5,4376,,,,,,
+f/2,III,10:1 Co-incubation,to the third,5,69000,,,,,,
+f/2,III,Uninfected,to the fifth,5,5789533,,,,,,
+f/2,III,Uninfected,to the first,5,827,,,,,,
+f/2,III,Uninfected,to the fourth,5,1492573,,,,,,
+f/2,III,Uninfected,to the second,5,6850,,,,,,
+f/2,III,Uninfected,to the third,5,131093,,,,,,
+f/2,IV,10:1 Co-incubation,to the second,0,256,W,9999,11,0,3,0.141
+f/2,IV,10:1 Co-incubation,to the second,0,287,W,9999,3.571428571,0,0,0.141
+f/2,IV,10:1 Co-incubation,to the second,0,256,W,9999,13,1,2,0.141
+f/2,IV,Preinfected,to the second,0,105,W,9999,9.756097561,0,2.43902439,0.141
+f/2,IV,Preinfected,to the second,0,97,W,9999,10.52631579,5.263157895,5.263157895,0.141
+f/2,IV,Preinfected,to the second,0,115,W,9999,11.11111111,2.222222222,6.666666667,0.141
+f/2,IV,Uninfected,to the second,0,249,W,9999,4.12371134,0,0,0.141
+f/2,IV,Uninfected,to the second,0,262,W,9999,3.921568627,0,0.980392157,0.141
+f/2,IV,Uninfected,to the second,0,285,W,9999,10.81081081,0,2.702702703,0.141
+SW,IV,10:1 Co-incubation,to the second,0,233,W,9999,8.791208791,0,1.098901099,0.141
+SW,IV,10:1 Co-incubation,to the second,0,238,W,9999,8.602150538,1.075268817,3.225806452,0.141
+SW,IV,10:1 Co-incubation,to the second,0,264,W,9999,3.883495146,0.970873786,1.941747573,0.141
+SW,IV,Preinfected,to the second,0,82,W,9999,15.625,0,9.375,0.141
+SW,IV,Preinfected,to the second,0,100,W,9999,7.692307692,0,0,0.141
+SW,IV,Preinfected,to the second,0,74,W,9999,6.896551724,0,3.448275862,0.141
+SW,IV,Uninfected,to the second,0,246,W,9999,3.125,0,0,0.141
+SW,IV,Uninfected,to the second,0,297,W,9999,5.172413793,0,0,0.141
+SW,IV,Uninfected,to the second,0,282,W,9999,8.181818182,0,0,0.141
+f/2,IV,10:1 Co-incubation,to the second,1,358,W,9999,3.007518797,0,0,0.32
+f/2,IV,10:1 Co-incubation,to the second,1,328,W,9999,0.819672131,0,0,0.34
+f/2,IV,10:1 Co-incubation,to the second,1,349,W,9999,3.846153846,0,0,0.401
+f/2,IV,Preinfected,to the second,1,101,W,9999,5.263157895,0,0,0.217
+f/2,IV,Preinfected,to the second,1,71,W,9999,0,0,0,0.028
+f/2,IV,Preinfected,to the second,1,90,W,9999,20.58823529,0,5.882352941,0.084
+f/2,IV,Uninfected,to the second,1,286,W,9999,5.555555556,0,0.925925926,0.345
+f/2,IV,Uninfected,to the second,1,331,W,9999,2.43902439,0,0,0.467
+f/2,IV,Uninfected,to the second,1,328,W,9999,2.459016393,0,0,0.111
+SW,IV,10:1 Co-incubation,to the second,1,302,W,9999,2.631578947,0.877192982,0.877192982,0.312
+SW,IV,10:1 Co-incubation,to the second,1,262,W,9999,5.050505051,0,1.01010101,0.249
+SW,IV,10:1 Co-incubation,to the second,1,333,W,9999,1.587301587,0.793650794,0.793650794,0.348
+SW,IV,Preinfected,to the second,1,123,W,9999,2.127659574,0,0,0.321
+SW,IV,Preinfected,to the second,1,105,W,9999,0,0,0,0.231
+SW,IV,Preinfected,to the second,1,73,W,9999,7.142857143,0,0,0.118
+SW,IV,Uninfected,to the second,1,294,W,9999,0,0,0,0.263
+SW,IV,Uninfected,to the second,1,328,W,9999,0.8,0,0.8,0.196
+SW,IV,Uninfected,to the second,1,304,W,9999,0.862068966,0.862068966,0.862068966,0.193
+f/2,IV,10:1 Co-incubation,to the second,3,2000,W,9999,4.820936639,0,0.826446281,
+f/2,IV,10:1 Co-incubation,to the second,3,1802,W,9999,2.599388379,0,0.611620795,
+f/2,IV,10:1 Co-incubation,to the second,3,1686,W,9999,4.738562092,0,0.980392157,0.378
+f/2,IV,Preinfected,to the second,3,537,W,9999,7.179487179,0.512820513,1.025641026,
+f/2,IV,Preinfected,to the second,3,460,W,9999,7.185628743,0,0,
+f/2,IV,Preinfected,to the second,3,444,W,9999,5.590062112,0,0,0.275
+f/2,IV,Uninfected,to the second,3,1890,W,9999,5.247813411,0,0.29154519,
+f/2,IV,Uninfected,to the second,3,716,W,9999,6.153846154,0,0.769230769,
+f/2,IV,Uninfected,to the second,3,1587,W,9999,2.777777778,0,0.520833333,0.39
+SW,IV,10:1 Co-incubation,to the second,3,1369,W,9999,0.804828974,0,0,
+SW,IV,10:1 Co-incubation,to the second,3,1113,W,9999,2.722772277,0,0.247524752,
+SW,IV,10:1 Co-incubation,to the second,3,1311,W,9999,3.361344538,0,0,0.311
+SW,IV,Preinfected,to the second,3,252,W,9999,1.111111111,0,0,
+SW,IV,Preinfected,to the second,3,339,W,9999,4.958677686,0.826446281,2.479338843,
+SW,IV,Preinfected,to the second,3,384,W,9999,0.729927007,0,0,0.292
+SW,IV,Uninfected,to the second,3,1286,W,9999,0.435729847,0,0,
+SW,IV,Uninfected,to the second,3,1289,W,9999,0.652173913,0,0.217391304,
+SW,IV,Uninfected,to the second,3,1395,W,9999,0.602409639,0,0,0.282
+f/2,IV,10:1 Co-incubation,to the second,6,25460,W,9999,3.54535975,0,0.590893292,0.384
+f/2,IV,10:1 Co-incubation,to the second,6,29465,W,9999,3.589127497,0,0.600690794,0.396
+f/2,IV,10:1 Co-incubation,to the second,6,25513,W,9999,2.254595907,0,0.416233091,0.332
+f/2,IV,Preinfected,to the second,6,5938,W,9999,3.949329359,0,0.298062593,0.382
+f/2,IV,Preinfected,to the second,6,6482,W,9999,3.344709898,0,0.136518771,0.374
+f/2,IV,Preinfected,to the second,6,6544,W,9999,3.786342123,0,0.540906018,0.337
+f/2,IV,Uninfected,to the second,6,28296,W,9999,3.346364347,0,0.375293198,0.332
+f/2,IV,Uninfected,to the second,6,27788,W,9999,3.200636943,0,0.429936306,0.333
+f/2,IV,Uninfected,to the second,6,26447,W,9999,2.693659026,0,0.451731638,0.258
+SW,IV,10:1 Co-incubation,to the second,6,9814,W,9999,1.079447323,0,0,0.15
+SW,IV,10:1 Co-incubation,to the second,6,8275,W,9999,1.228878648,0,0,0.182
+SW,IV,10:1 Co-incubation,to the second,6,9559,W,9999,1.374113475,0,0.044326241,0.173
+SW,IV,Preinfected,to the second,6,1843,W,9999,0.689655172,0,0,0.169
+SW,IV,Preinfected,to the second,6,1869,W,9999,1.133786848,0,0.22675737,0.133
+SW,IV,Preinfected,to the second,6,2085,W,9999,1.62601626,0,0,0.212
+SW,IV,Uninfected,to the second,6,8453,W,9999,0.852130326,0,0,0.141
+SW,IV,Uninfected,to the second,6,8305,W,9999,0.765306122,0,0,0.109
+SW,IV,Uninfected,to the second,6,7975,W,9999,1.062699256,0,0.053134963,0.142
+f/2,IV,10:1 Co-incubation,to the second,9,422865,W,9999,1.854515281,0.001382935,0.106485963,0.385
+f/2,IV,10:1 Co-incubation,to the second,9,478298,W,9999,1.98926506,0,0.117375197,0.423
+f/2,IV,10:1 Co-incubation,to the second,9,439047,W,9999,1.866084154,0,0.103893336,0.352
+f/2,IV,Preinfected,to the second,9,103491,W,9999,2.113352546,0,0.10736283,0.394
+f/2,IV,Preinfected,to the second,9,105216,W,9999,2.012005336,0,0.094486438,0.417
+f/2,IV,Preinfected,to the second,9,112825,W,9999,3.374280827,0,0.176229721,0.333
+f/2,IV,Uninfected,to the second,9,530906,W,9999,1.8604395,0,0.087018781,0.466
+f/2,IV,Uninfected,to the second,9,505532,W,9999,1.949193716,0,0.108738403,0.365
+f/2,IV,Uninfected,to the second,9,468058,W,9999,1.48054674,0,0.08995727,0.371
+SW,IV,10:1 Co-incubation,to the second,9,63948,W,9999,0.752424984,0,0,0.346
+SW,IV,10:1 Co-incubation,to the second,9,56388,W,9999,0.750488331,0.010280662,0.030841986,0.303
+SW,IV,10:1 Co-incubation,to the second,9,58783,W,9999,0.581854043,0,0,0.241
+SW,IV,Preinfected,to the second,9,12968,W,290000,0.625838176,0,0,0.149
+SW,IV,Preinfected,to the second,9,12974,W,9999,0.312779267,0,0.089365505,0.146
+SW,IV,Preinfected,to the second,9,14754,W,9999,0.47151277,0,0,0.23
+SW,IV,Uninfected,to the second,9,57507,W,9999,0.695564516,0,0.02016129,0.194
+SW,IV,Uninfected,to the second,9,53751,W,9999,0.506902502,0,0.01078516,0.199
+SW,IV,Uninfected,to the second,9,57722,W,9999,0.713066185,0,0.010043186,
+f/2,IV,10:1 Co-incubation,to the second,12,1915495,W,,2.609753341,0,0.086650915,0.324
+f/2,IV,10:1 Co-incubation,to the second,12,2031897,W,9999,0.793529991,0,0.028920211,0.392
+f/2,IV,10:1 Co-incubation,to the second,12,1982134,W,5351191552,1.180649826,0,0.035367484,0.46
+f/2,IV,Preinfected,to the second,12,439320,W,9999,13.32191299,0,0.166611912,0.016
+f/2,IV,Preinfected,to the second,12,312330,W,9999,21.7982572,0,0.613942435,0.015
+f/2,IV,Preinfected,to the second,12,309959,W,9999,22.3973924,0,0.658551187,0.047
+f/2,IV,Uninfected,to the second,12,2405186,W,9999,0.915547593,0,0.049720749,0.454
+f/2,IV,Uninfected,to the second,12,2455732,W,9999,0.939942739,0,0.046598322,0.448
+f/2,IV,Uninfected,to the second,12,2430866,W,9999,1.184084413,0,0.044106296,0.476
+SW,IV,10:1 Co-incubation,to the second,12,134928,W,38212953,5.142114914,0,0.137530562,
+SW,IV,10:1 Co-incubation,to the second,12,167887,W,442982,2.965919558,0,0.036843721,0.183
+SW,IV,10:1 Co-incubation,to the second,12,56309,W,9999,13.71292567,0,0.714024167,0.017
+SW,IV,Preinfected,to the second,12,43557,W,8071,2.556213018,0,0,0.309
+SW,IV,Preinfected,to the second,12,33247,W,2453890,5.550387597,0,0.062015504,0.114
+SW,IV,Preinfected,to the second,12,60722,W,9999,1.222410866,0,0.016977929,
+SW,IV,Uninfected,to the second,12,191196,W,9999,0.237247924,0,0.048527984,0.412
+SW,IV,Uninfected,to the second,12,197804,W,9999,0.286652421,0,0.015635587,0.428
+SW,IV,Uninfected,to the second,12,194515,W,9999,0.408098368,0,0.04239983,0.401
+f/2,V,10:1 Co-incubation,to the fifth,0,267419,G,243273,9.42466448,0.042781765,,
+f/2,V,10:1 Co-incubation,to the fifth,0,327194,G,9999,7.56406456,0.007155196,,
+f/2,V,10:1 Co-incubation,to the fifth,0,312295,G,9999,9.140750544,0.001181586,,
+f/2,V,10:1 Co-incubation,to the first,0,131,G,9999,70.2970297,10.89108911,,
+f/2,V,10:1 Co-incubation,to the first,0,73,G,9999,39.65517241,1.724137931,,
+f/2,V,10:1 Co-incubation,to the first,0,57,G,9999,30.23255814,11.62790698,,
+f/2,V,10:1 Co-incubation,to the fourth,0,28549,G,9999,7.391355972,0.077178817,,
+f/2,V,10:1 Co-incubation,to the fourth,0,33475,G,9999,7.73989137,0.007543754,,
+f/2,V,10:1 Co-incubation,to the fourth,0,30352,G,9999,7.96304176,0.012157316,,
+f/2,V,10:1 Co-incubation,to the second,0,377,G,9999,12.89398281,0,,
+f/2,V,10:1 Co-incubation,to the second,0,359,G,9999,11.39240506,0.421940928,,
+f/2,V,10:1 Co-incubation,to the second,0,372,G,9999,7.936507937,0.793650794,,
+f/2,V,10:1 Co-incubation,to the third,0,3380,G,9999,8.224674022,0.250752257,,
+f/2,V,10:1 Co-incubation,to the third,0,3532,G,9999,8.042895442,0,,
+f/2,V,10:1 Co-incubation,to the third,0,3400,G,105202,7.433532284,0.162778079,,
+f/2,V,Preinfected,to the fifth,0,288682,G,1111077,9.447444184,0.183838407,,
+f/2,V,Preinfected,to the fifth,0,293109,G,9999,8.549097451,0.352335463,,
+f/2,V,Preinfected,to the fifth,0,318693,G,9999,8.481838543,0.130922626,,
+f/2,V,Preinfected,to the first,0,44,G,9999,25,2.777777778,,
+f/2,V,Preinfected,to the first,0,37,G,9999,18.75,3.125,,
+f/2,V,Preinfected,to the first,0,56,G,9999,33.33333333,4.166666667,,
+f/2,V,Preinfected,to the fourth,0,29820,G,9999,8.031117081,0.134318334,,
+f/2,V,Preinfected,to the fourth,0,34240,G,9999,8.825403568,0.392948173,,
+f/2,V,Preinfected,to the fourth,0,30644,G,9999,8.847523842,0.137883488,,
+f/2,V,Preinfected,to the second,0,375,G,9999,9.061488673,0,,
+f/2,V,Preinfected,to the second,0,348,G,9999,10.56105611,1.98019802,,
+f/2,V,Preinfected,to the second,0,339,G,9999,13.84083045,1.384083045,,
+f/2,V,Preinfected,to the third,0,3090,G,9999,8.570399712,0.108030248,,
+f/2,V,Preinfected,to the third,0,3387,G,9999,9.447128288,0.429414922,,
+f/2,V,Preinfected,to the third,0,3187,G,9999,8.508287293,0.055248619,,
+f/2,V,Preinfected with added viruses,to the fifth,0,290692,G,1473337,7.155101994,0.348608443,,
+f/2,V,Preinfected with added viruses,to the fifth,0,272662,G,9999,7.728822707,0.120207051,,
+f/2,V,Preinfected with added viruses,to the fifth,0,268398,G,264327,8.107035195,0.065749482,,
+f/2,V,Preinfected with added viruses,to the first,0,25,G,9999,22.72727273,4.545454545,,
+f/2,V,Preinfected with added viruses,to the first,0,44,G,9999,15,0,,
+f/2,V,Preinfected with added viruses,to the first,0,30,G,9999,15.38461538,0,,
+f/2,V,Preinfected with added viruses,to the fourth,0,30391,G,9999,8.33058215,0.220094641,,
+f/2,V,Preinfected with added viruses,to the fourth,0,27874,G,9999,7.818192678,0.083617034,,
+f/2,V,Preinfected with added viruses,to the fourth,0,26853,G,9999,7.8983261,0.049597024,,
+f/2,V,Preinfected with added viruses,to the second,0,271,G,9999,9.87654321,0.411522634,,
+f/2,V,Preinfected with added viruses,to the second,0,320,G,9999,8.333333333,0.694444444,,
+f/2,V,Preinfected with added viruses,to the second,0,276,G,9999,8.43373494,0.803212851,,
+f/2,V,Preinfected with added viruses,to the third,0,3077,G,9999,8.641304348,0.543478261,,
+f/2,V,Preinfected with added viruses,to the third,0,2882,G,9999,8.31728918,0.115517905,,
+f/2,V,Preinfected with added viruses,to the third,0,2584,G,9999,8.891752577,0.193298969,,
+f/2,V,Uninfected,to the fifth,0,270200,G,431335,5.277381195,0.221802978,,
+f/2,V,Uninfected,to the fifth,0,239783,G,9999,5.521633702,0.131467469,,
+f/2,V,Uninfected,to the fifth,0,255792,G,9999,5.623212962,0.058244202,,
+f/2,V,Uninfected,to the first,0,39,G,9999,21.21212121,0,,
+f/2,V,Uninfected,to the first,0,38,G,9999,35.29411765,5.882352941,,
+f/2,V,Uninfected,to the first,0,55,G,9999,51.06382979,8.510638298,,
+f/2,V,Uninfected,to the fourth,0,27031,G,9999,5.445124023,0.246347265,,
+f/2,V,Uninfected,to the fourth,0,28446,G,9999,6.287965851,0.320144475,,
+f/2,V,Uninfected,to the fourth,0,23862,G,9999,5.628606565,0.085138587,,
+f/2,V,Uninfected,to the second,0,299,G,9999,11.328125,0,,
+f/2,V,Uninfected,to the second,0,334,G,9999,13.51351351,1.689189189,,
+f/2,V,Uninfected,to the second,0,332,G,9999,18.36734694,2.857142857,,
+f/2,V,Uninfected,to the third,0,3077,G,9999,7.569721116,0.170745589,,
+f/2,V,Uninfected,to the third,0,3038,G,9999,7.148347425,0.461183705,,
+f/2,V,Uninfected,to the third,0,2659,G,9999,6.112054329,0.339558574,,
+SW,V,Preinfected,to the second,0,226,G,9999,8.612440191,0.4784689,,
+SW,V,Preinfected,to the second,0,228,G,9999,10,0,,
+SW,V,Preinfected,to the second,0,222,G,9999,13.17073171,0.487804878,,
+SW,V,Uninfected,to the second,0,226,G,9999,6.698564593,0.4784689,,
+SW,V,Uninfected,to the second,0,231,G,9999,7.511737089,0,,
+SW,V,Uninfected,to the second,0,196,G,9999,9.392265193,1.104972376,,
+f/2,V,10:1 Co-incubation,to the fifth,1,282746,H,16824393,8.102797687,0.209882332,,
+f/2,V,10:1 Co-incubation,to the fifth,1,243772,H,239757936,5.450647103,1.562863269,,
+f/2,V,10:1 Co-incubation,to the fifth,1,215938,H,16550723,8.480359278,0.288705491,,
+f/2,V,10:1 Co-incubation,to the first,1,110,H,9999,45.97701149,6.896551724,,
+f/2,V,10:1 Co-incubation,to the first,1,54,H,9999,23.25581395,6.976744186,,
+f/2,V,10:1 Co-incubation,to the first,1,46,H,9999,17.64705882,0,,
+f/2,V,10:1 Co-incubation,to the fourth,1,38870,H,9999,3.242921336,0.097450057,,
+f/2,V,10:1 Co-incubation,to the fourth,1,36933,H,9999,2.770673487,0.485933504,,
+f/2,V,10:1 Co-incubation,to the fourth,1,30581,H,9999,3.124839125,0.15958816,,
+f/2,V,10:1 Co-incubation,to the second,1,434,H,9999,11.04651163,1.744186047,,
+f/2,V,10:1 Co-incubation,to the second,1,500,H,9999,6.297229219,0.755667506,,
+f/2,V,10:1 Co-incubation,to the second,1,372,H,9999,3.597122302,0,,
+f/2,V,10:1 Co-incubation,to the third,1,4194,H,9999,3.702588802,0.120409392,,
+f/2,V,10:1 Co-incubation,to the third,1,3970,H,9999,2.73592387,0.356859635,,
+f/2,V,10:1 Co-incubation,to the third,1,3282,H,9999,2.839600921,0.153491942,,
+f/2,V,Preinfected,to the fifth,1,192236,H,5889846,5,1.044568245,,
+f/2,V,Preinfected,to the fifth,1,212510,H,13818798,4.339874144,0.161195325,,
+f/2,V,Preinfected,to the fifth,1,209859,H,1230019,5.450834051,1.317258317,,
+f/2,V,Preinfected,to the first,1,43,H,9999,12.5,6.25,,
+f/2,V,Preinfected,to the first,1,36,H,9999,3.703703704,0,,
+f/2,V,Preinfected,to the first,1,58,H,9999,32.55813953,4.651162791,,
+f/2,V,Preinfected,to the fourth,1,28203,H,9999,4.165183339,0.45093153,,
+f/2,V,Preinfected,to the fourth,1,27418,H,9999,4.324843825,0.156174916,,
+f/2,V,Preinfected,to the fourth,1,28226,H,9999,4.126156035,0.320132796,,
+f/2,V,Preinfected,to the second,1,307,H,9999,3.930131004,0,,
+f/2,V,Preinfected,to the second,1,325,H,9999,5.668016194,1.619433198,,
+f/2,V,Preinfected,to the second,1,312,H,9999,8.154506438,0.858369099,,
+f/2,V,Preinfected,to the third,1,3024,H,9999,4.20540062,0.664010624,,
+f/2,V,Preinfected,to the third,1,2921,H,9999,4.465493911,0.180423996,,
+f/2,V,Preinfected,to the third,1,2707,H,9999,3.857566766,0.296735905,,
+f/2,V,Preinfected with added viruses,to the fifth,1,174729,H,90362541,5.40520556,0.702454895,,
+f/2,V,Preinfected with added viruses,to the fifth,1,150648,H,2183720,5.773149196,0.701833824,,
+f/2,V,Preinfected with added viruses,to the fifth,1,147597,H,2815753,6.958194529,2.223994745,,
+f/2,V,Preinfected with added viruses,to the first,1,35,H,9999,22.22222222,7.407407407,,
+f/2,V,Preinfected with added viruses,to the first,1,30,H,9999,18.18181818,9.090909091,,
+f/2,V,Preinfected with added viruses,to the first,1,28,H,9999,15,10,,
+f/2,V,Preinfected with added viruses,to the fourth,1,25849,H,9999,3.948519305,0.712232913,,
+f/2,V,Preinfected with added viruses,to the fourth,1,24563,H,9999,3.721188559,0.374895862,,
+f/2,V,Preinfected with added viruses,to the fourth,1,26846,H,9999,4.062943377,0.954469238,,
+f/2,V,Preinfected with added viruses,to the second,1,314,H,9999,3.703703704,0.823045267,,
+f/2,V,Preinfected with added viruses,to the second,1,326,H,9999,3.765690377,0.418410042,,
+f/2,V,Preinfected with added viruses,to the second,1,317,H,9999,8.733624454,2.183406114,,
+f/2,V,Preinfected with added viruses,to the third,1,2798,H,9999,3.416435826,0.738688827,,
+f/2,V,Preinfected with added viruses,to the third,1,2261,H,9999,2.172601086,0.362100181,,
+f/2,V,Preinfected with added viruses,to the third,1,2537,H,9999,3.711790393,0.927947598,,
+f/2,V,Uninfected,to the fifth,1,240764,H,9999,2.903619357,0.322624373,,
+f/2,V,Uninfected,to the fifth,1,263598,H,9999,3.365664649,2.314685846,,
+f/2,V,Uninfected,to the fifth,1,279330,H,9999,3.367369644,0.578534873,,
+f/2,V,Uninfected,to the first,1,25,H,9999,15.78947368,10.52631579,,
+f/2,V,Uninfected,to the first,1,51,H,9999,18.42105263,7.894736842,,
+f/2,V,Uninfected,to the first,1,44,H,9999,21.875,6.25,,
+f/2,V,Uninfected,to the fourth,1,24869,H,9999,2.230971129,0.485564304,,
+f/2,V,Uninfected,to the fourth,1,26328,H,9999,2.865111562,0.988843813,,
+f/2,V,Uninfected,to the fourth,1,28874,H,9999,2.638922108,0.613888225,,
+f/2,V,Uninfected,to the second,1,287,H,9999,3.181818182,0.909090909,,
+f/2,V,Uninfected,to the second,1,332,H,9999,2.81124498,1.606425703,,
+f/2,V,Uninfected,to the second,1,355,H,9999,6.614785992,1.945525292,,
+f/2,V,Uninfected,to the third,1,2858,H,9999,2.603928735,0.365463682,,
+f/2,V,Uninfected,to the third,1,2884,H,9999,3.425925926,1.435185185,,
+f/2,V,Uninfected,to the third,1,2913,H,9999,2.702702703,0.61640588,,
+SW,V,Preinfected,to the second,1,274,H,9999,5.472636816,0.497512438,,
+SW,V,Preinfected,to the second,1,299,H,9999,3.652968037,0.913242009,,
+SW,V,Preinfected,to the second,1,258,H,9999,3.703703704,0,,
+SW,V,Uninfected,to the second,1,297,H,9999,1.376146789,0,,
+SW,V,Uninfected,to the second,1,302,H,9999,5.882352941,0,,
+SW,V,Uninfected,to the second,1,296,H,9999,4.147465438,0.460829493,,
+f/2,V,10:1 Co-incubation,to the fifth,2,161631,I,6214155,11.04177731,1.911842804,,
+f/2,V,10:1 Co-incubation,to the fifth,2,176724,I,16891826,10.53668244,3.023534428,,
+f/2,V,10:1 Co-incubation,to the fifth,2,152515,I,4622011,8.817516922,1.467314769,,
+f/2,V,10:1 Co-incubation,to the first,2,133,I,9999,12.90322581,0,,
+f/2,V,10:1 Co-incubation,to the first,2,109,I,9999,7.692307692,2.197802198,,
+f/2,V,10:1 Co-incubation,to the first,2,68,I,9999,6.896551724,1.724137931,,
+f/2,V,10:1 Co-incubation,to the fourth,2,77320,I,9999,2.10312076,0.407055631,,
+f/2,V,10:1 Co-incubation,to the fourth,2,75475,I,9999,1.992154998,0.582431951,,
+f/2,V,10:1 Co-incubation,to the fourth,2,74524,I,9999,1.250435793,0.171993027,,
+f/2,V,10:1 Co-incubation,to the second,2,791,I,9999,3.616636528,0.904159132,,
+f/2,V,10:1 Co-incubation,to the second,2,821,I,9999,3.644314869,1.020408163,,
+f/2,V,10:1 Co-incubation,to the second,2,755,I,9999,2.140672783,0.152905199,,
+f/2,V,10:1 Co-incubation,to the third,2,7651,I,9999,2.299925206,0.224382947,,
+f/2,V,10:1 Co-incubation,to the third,2,8722,I,9999,2.073732719,0.576036866,,
+f/2,V,10:1 Co-incubation,to the third,2,7828,I,9999,1.044432643,0.265533723,,
+f/2,V,Preinfected,to the fifth,2,118693,I,2286060,4.9685178,1.45623825,,
+f/2,V,Preinfected,to the fifth,2,88764,I,44470667,5.094260896,0.356560331,,
+f/2,V,Preinfected,to the fifth,2,92163,I,3437793,4.818319455,0.89326268,,
+f/2,V,Preinfected,to the first,2,57,I,9999,3.921568627,1.960784314,,
+f/2,V,Preinfected,to the first,2,50,I,9999,4.651162791,4.651162791,,
+f/2,V,Preinfected,to the first,2,51,I,9999,10.63829787,0,,
+f/2,V,Preinfected,to the fourth,2,43339,I,144689,2.884929716,0.384112455,,
+f/2,V,Preinfected,to the fourth,2,35724,I,340558,2.064090481,0.065975495,,
+f/2,V,Preinfected,to the fourth,2,37678,I,9999,1.962781224,0.18516804,,
+f/2,V,Preinfected,to the second,2,567,I,461548,1.458333333,0.416666667,,
+f/2,V,Preinfected,to the second,2,442,I,9999,2.538071066,0,,
+f/2,V,Preinfected,to the second,2,501,I,9999,3.944315545,0.464037123,,
+f/2,V,Preinfected,to the third,2,5282,I,9999,1.824034335,0.214592275,,
+f/2,V,Preinfected,to the third,2,4342,I,9999,2.067717757,0.12923236,,
+f/2,V,Preinfected,to the third,2,4781,I,9999,3.088521401,0.559338521,,
+f/2,V,Preinfected with added viruses,to the fifth,2,118526,I,7836794,8.296640913,1.356927252,,
+f/2,V,Preinfected with added viruses,to the fifth,2,106860,I,11054414,13.36684353,2.572217568,,
+f/2,V,Preinfected with added viruses,to the fifth,2,84344,I,4232657,11.19311679,1.594506058,,
+f/2,V,Preinfected with added viruses,to the first,2,64,I,9999,13.79310345,8.620689655,,
+f/2,V,Preinfected with added viruses,to the first,2,61,I,9999,8.695652174,4.347826087,,
+f/2,V,Preinfected with added viruses,to the first,2,41,I,285598,19.35483871,0,,
+f/2,V,Preinfected with added viruses,to the fourth,2,32929,I,600994,3.88736606,0.373785198,,
+f/2,V,Preinfected with added viruses,to the fourth,2,40400,I,9999,5.104846321,1.649636834,,
+f/2,V,Preinfected with added viruses,to the fourth,2,31869,I,9999,4.883271531,0.919204053,,
+f/2,V,Preinfected with added viruses,to the second,2,521,I,9999,2.100840336,0.210084034,,
+f/2,V,Preinfected with added viruses,to the second,2,544,I,9999,3.170731707,0.243902439,,
+f/2,V,Preinfected with added viruses,to the second,2,458,I,9999,3.87409201,0.484261501,,
+f/2,V,Preinfected with added viruses,to the third,2,5164,I,9999,2.012711864,0.169491525,,
+f/2,V,Preinfected with added viruses,to the third,2,5150,I,9999,3.888745815,0.87561164,,
+f/2,V,Preinfected with added viruses,to the third,2,4446,I,9999,3.069628151,0.474170202,,
+f/2,V,Uninfected,to the fifth,2,728747,I,9999,2.354819397,6.358392489,,
+f/2,V,Uninfected,to the fifth,2,638141,I,9999,2.574002574,1.234491634,,
+f/2,V,Uninfected,to the fifth,2,644202,I,9999,2.718047838,13.53889828,,
+f/2,V,Uninfected,to the first,2,96,I,9999,4.347826087,0,,
+f/2,V,Uninfected,to the first,2,76,I,9999,17.24137931,3.448275862,,
+f/2,V,Uninfected,to the first,2,82,I,9999,15.87301587,4.761904762,,
+f/2,V,Uninfected,to the fourth,2,75572,I,9999,2.144297147,1.279858269,,
+f/2,V,Uninfected,to the fourth,2,66445,I,9999,1.997429052,0.588351627,,
+f/2,V,Uninfected,to the fourth,2,68463,I,9999,2.753307442,3.621609674,,
+f/2,V,Uninfected,to the second,2,789,I,9999,3.157894737,2.456140351,,
+f/2,V,Uninfected,to the second,2,733,I,9999,4.301075269,0.716845878,,
+f/2,V,Uninfected,to the second,2,646,I,9999,2.409638554,1.807228916,,
+f/2,V,Uninfected,to the third,2,7845,I,9999,2.401129944,1.182909605,,
+f/2,V,Uninfected,to the third,2,6795,I,9999,1.74047573,0.792883388,,
+f/2,V,Uninfected,to the third,2,6318,I,9999,2.997331144,2.340381852,,
+SW,V,Preinfected,to the second,2,628,I,9999,2.742616034,1.054852321,,
+SW,V,Preinfected,to the second,2,491,I,9999,3.773584906,1.078167116,,
+SW,V,Preinfected,to the second,2,486,I,9999,3.269754768,1.36239782,,
+SW,V,Uninfected,to the second,2,597,I,9999,4.4345898,1.77383592,,
+SW,V,Uninfected,to the second,2,581,I,9999,5.011389522,1.366742597,,
+SW,V,Uninfected,to the second,2,555,I,9999,2.14797136,0.477326969,,
+f/2,V,10:1 Co-incubation,to the fifth,3,77829,J,3215651,27.39323974,7.264100181,,
+f/2,V,10:1 Co-incubation,to the fifth,3,79214,J,3897868,32.6765031,11.60667083,,
+f/2,V,10:1 Co-incubation,to the fifth,3,78340,J,5899277,32.04268581,10.12843517,,
+f/2,V,10:1 Co-incubation,to the first,3,209,J,9999,9.696969697,4.242424242,,
+f/2,V,10:1 Co-incubation,to the first,3,162,J,9999,7.633587786,1.526717557,,
+f/2,V,10:1 Co-incubation,to the first,3,186,J,9999,4.697986577,0,,
+f/2,V,10:1 Co-incubation,to the fourth,3,117000,J,650268,3.336370341,1.00655126,,
+f/2,V,10:1 Co-incubation,to the fourth,3,128596,J,2374127,3.67102848,3.414451221,,
+f/2,V,10:1 Co-incubation,to the fourth,3,117189,J,10822527,4.175084175,1.195286195,,
+f/2,V,10:1 Co-incubation,to the second,3,1664,J,9999,3.890160183,0.839054157,,
+f/2,V,10:1 Co-incubation,to the second,3,1742,J,9999,2.901627742,0.42462845,,
+f/2,V,10:1 Co-incubation,to the second,3,1534,J,9999,1.785714286,0.243506494,,
+f/2,V,10:1 Co-incubation,to the third,3,17478,J,9999,1.760041823,0.435653917,,
+f/2,V,10:1 Co-incubation,to the third,3,16640,J,9999,2.608218175,0.60400842,,
+f/2,V,10:1 Co-incubation,to the third,3,15822,J,9999,1.932668329,0.607855362,,
+f/2,V,Preinfected,to the fifth,3,76001,J,7757265,25.56653394,8.921987907,,
+f/2,V,Preinfected,to the fifth,3,70709,J,13118584,24.10788382,7.178423237,,
+f/2,V,Preinfected,to the fifth,3,74401,J,12456341,32.95115136,9.124193082,,
+f/2,V,Preinfected,to the first,3,120,J,9999,2.040816327,0,,
+f/2,V,Preinfected,to the first,3,123,J,9999,1.941747573,0,,
+f/2,V,Preinfected,to the first,3,111,J,9999,5.319148936,2.127659574,,
+f/2,V,Preinfected,to the fourth,3,53168,J,8540588,8.076076264,4.164519605,,
+f/2,V,Preinfected,to the fourth,3,53090,J,7931402,7.294832827,1.526664825,,
+f/2,V,Preinfected,to the fourth,3,47541,J,11147662,10.10253317,3.045838359,,
+f/2,V,Preinfected,to the second,3,1292,J,9999,2.743614002,0.567644276,,
+f/2,V,Preinfected,to the second,3,1111,J,9999,1.935483871,0.215053763,,
+f/2,V,Preinfected,to the second,3,1142,J,9999,2.895553257,0.206825233,,
+f/2,V,Preinfected,to the third,3,12420,J,9999,2.033449645,1.215256888,,
+f/2,V,Preinfected,to the third,3,11218,J,9999,1.726167124,0.183078331,,
+f/2,V,Preinfected,to the third,3,10430,J,9999,2.783505155,0.463917526,,
+f/2,V,Preinfected with added viruses,to the fifth,3,59433,J,7531015,39.83909416,13.94517282,,
+f/2,V,Preinfected with added viruses,to the fifth,3,56140,J,55535909,39.71156322,12.27143961,,
+f/2,V,Preinfected with added viruses,to the fifth,3,64068,J,7757265,37.88259479,13.43079032,,
+f/2,V,Preinfected with added viruses,to the first,3,101,J,9999,4.761904762,1.19047619,,
+f/2,V,Preinfected with added viruses,to the first,3,111,J,9999,8.791208791,2.197802198,,
+f/2,V,Preinfected with added viruses,to the first,3,103,J,351843,7.954545455,2.272727273,,
+f/2,V,Preinfected with added viruses,to the fourth,3,31790,J,3239535,17.55891037,6.946688207,,
+f/2,V,Preinfected with added viruses,to the fourth,3,40272,J,1689157,11.69448932,1.759109675,,
+f/2,V,Preinfected with added viruses,to the fourth,3,35784,J,9999,12.70831203,5.163071261,,
+f/2,V,Preinfected with added viruses,to the second,3,1037,J,9999,3.600464576,0.580720093,,
+f/2,V,Preinfected with added viruses,to the second,3,1096,J,9999,3.448275862,0.111234705,,
+f/2,V,Preinfected with added viruses,to the second,3,973,J,9999,3.468208092,1.156069364,,
+f/2,V,Preinfected with added viruses,to the third,3,9978,J,9999,3.02922731,0.745473908,,
+f/2,V,Preinfected with added viruses,to the third,3,11173,J,9999,2.238612836,0.530538302,,
+f/2,V,Preinfected with added viruses,to the third,3,9661,J,9999,2.771887307,1.045137837,,
+f/2,V,Uninfected,to the fifth,3,1298270,J,9999,2.070807198,0.732338826,,
+f/2,V,Uninfected,to the fifth,3,1294763,J,9999,2.627846127,0.815479992,,
+f/2,V,Uninfected,to the fifth,3,1152633,J,9999,2.545626868,0.241196627,,
+f/2,V,Uninfected,to the first,3,145,J,9999,7.56302521,0.840336134,,
+f/2,V,Uninfected,to the first,3,159,J,9999,5.147058824,1.470588235,,
+f/2,V,Uninfected,to the first,3,149,J,9999,10,1.538461538,,
+f/2,V,Uninfected,to the fourth,3,149923,J,9999,2.448520099,0.478446456,,
+f/2,V,Uninfected,to the fourth,3,160767,J,9999,2.717156316,0.732767449,,
+f/2,V,Uninfected,to the fourth,3,146789,J,9999,1.979820146,0.219449944,,
+f/2,V,Uninfected,to the second,3,1454,J,9999,2.707930368,0.096711799,,
+f/2,V,Uninfected,to the second,3,1553,J,9999,3.967538323,0.81154193,,
+f/2,V,Uninfected,to the second,3,1382,J,9999,3.988035892,0.598205384,,
+f/2,V,Uninfected,to the third,3,15155,J,9999,1.786542923,0.290023202,,
+f/2,V,Uninfected,to the third,3,14643,J,9999,2.286071205,0.624609619,,
+f/2,V,Uninfected,to the third,3,12691,J,9999,2.0002759,0.248310112,,
+SW,V,Preinfected,to the second,3,836,J,9999,2,0.4,,
+SW,V,Preinfected,to the second,3,777,J,9999,2.582496413,0.286944046,,
+SW,V,Preinfected,to the second,3,791,J,9999,3.007518797,0.902255639,,
+SW,V,Uninfected,to the second,3,1027,J,9999,3.125,0.462962963,,
+SW,V,Uninfected,to the second,3,980,J,9999,3.398058252,0.242718447,,
+SW,V,Uninfected,to the second,3,900,J,9999,3.434610304,0.264200793,,
+f/2,V,10:1 Co-incubation,to the fifth,5,11641,F,699933,89.56582633,30.62558357,,
+f/2,V,10:1 Co-incubation,to the fifth,5,11373,F,5531338,91.63135593,54.02542373,,
+f/2,V,10:1 Co-incubation,to the fifth,5,11783,F,9999,89.11042945,35.0204499,,
+f/2,V,10:1 Co-incubation,to the first,5,652,F,9999,3.333333333,0,,
+f/2,V,10:1 Co-incubation,to the first,5,696,F,9999,4.329004329,0.865800866,,
+f/2,V,10:1 Co-incubation,to the first,5,658,F,9999,5.333333333,0.444444444,,
+f/2,V,10:1 Co-incubation,to the fourth,5,28696,F,10082788,46.5719697,10.28409091,,
+f/2,V,10:1 Co-incubation,to the fourth,5,36837,F,36701947,43.05805397,10.00817661,,
+f/2,V,10:1 Co-incubation,to the fourth,5,36269,F,9999,42.29280877,6.320541761,,
+f/2,V,10:1 Co-incubation,to the second,5,6141,F,9999,2.123893805,0,,
+f/2,V,10:1 Co-incubation,to the second,5,6548,F,9999,4.231830727,0.735970561,,
+f/2,V,10:1 Co-incubation,to the second,5,6211,F,9999,6.214689266,0.941619586,,
+f/2,V,10:1 Co-incubation,to the third,5,68891,F,9999,1.91700852,0.276112338,,
+f/2,V,10:1 Co-incubation,to the third,5,70904,F,9999,4.129141886,0.671197961,,
+f/2,V,10:1 Co-incubation,to the third,5,63977,F,9999,4.570383912,0.740402194,,
+f/2,V,Preinfected,to the fifth,5,11525,F,2490366,88.52941176,32.74509804,,
+f/2,V,Preinfected,to the fifth,5,5938,F,9999,79.5432921,11.79828735,,
+f/2,V,Preinfected,to the fifth,5,9488,F,3586690,82.00514139,6.16966581,,
+f/2,V,Preinfected,to the first,5,390,F,9999,7.246376812,0,,
+f/2,V,Preinfected,to the first,5,329,F,9999,5.555555556,0,,
+f/2,V,Preinfected,to the first,5,411,F,9999,8.695652174,0.724637681,,
+f/2,V,Preinfected,to the fourth,5,10051,F,1275872,50.59021922,3.260258572,,
+f/2,V,Preinfected,to the fourth,5,14250,F,9999,49.20838682,2.6957638,,
+f/2,V,Preinfected,to the fourth,5,15470,F,1155843,44.63255098,0.961908426,,
+f/2,V,Preinfected,to the second,5,4113,F,920195,5.288461538,0.480769231,,
+f/2,V,Preinfected,to the second,5,3518,F,9999,4.852686308,0.173310225,,
+f/2,V,Preinfected,to the second,5,3780,F,9999,4.094488189,0.157480315,,
+f/2,V,Preinfected,to the third,5,43571,F,9999,4.823651452,0.389004149,,
+f/2,V,Preinfected,to the third,5,43756,F,9999,4.473244147,0.09754738,,
+f/2,V,Preinfected,to the third,5,42893,F,9999,4.024424091,0.263669165,,
+f/2,V,Preinfected with added viruses,to the fifth,5,5548,F,2855451,69.527897,3.433476395,,
+f/2,V,Preinfected with added viruses,to the fifth,5,12655,F,9999,85.98214286,39.64285714,,
+f/2,V,Preinfected with added viruses,to the fifth,5,9620,F,1366195,82.03389831,30.05649718,,
+f/2,V,Preinfected with added viruses,to the first,5,297,F,9999,10.47619048,0,,
+f/2,V,Preinfected with added viruses,to the first,5,332,F,9999,8.196721311,3.278688525,,
+f/2,V,Preinfected with added viruses,to the first,5,326,F,9999,3.603603604,0,,
+f/2,V,Preinfected with added viruses,to the fourth,5,8702,F,1614830,40.62927497,0,,
+f/2,V,Preinfected with added viruses,to the fourth,5,12015,F,500989,53.10344828,6.269592476,,
+f/2,V,Preinfected with added viruses,to the fourth,5,10036,F,155428,49.38628159,3.249097473,,
+f/2,V,Preinfected with added viruses,to the second,5,3356,F,9999,5.555555556,0,,
+f/2,V,Preinfected with added viruses,to the second,5,3630,F,9999,4.291417166,0.698602794,,
+f/2,V,Preinfected with added viruses,to the second,5,3380,F,9999,5.684454756,0.580046404,,
+f/2,V,Preinfected with added viruses,to the third,5,39268,F,9999,4.380779142,0.090950432,,
+f/2,V,Preinfected with added viruses,to the third,5,40326,F,9999,4.384546271,0.539083558,,
+f/2,V,Preinfected with added viruses,to the third,5,27995,F,9999,3.16443409,0.194137061,,
+f/2,V,Uninfected,to the fifth,5,2982306,F,9999,2.454082116,0.021302111,,
+f/2,V,Uninfected,to the fifth,5,3046765,F,9999,3.195949298,0.082937895,,
+f/2,V,Uninfected,to the fifth,5,3016551,F,9999,3.301934952,0.738511104,,
+f/2,V,Uninfected,to the first,5,612,F,9999,6.603773585,0.471698113,,
+f/2,V,Uninfected,to the first,5,753,F,9999,3.787878788,0.378787879,,
+f/2,V,Uninfected,to the first,5,517,F,9999,8.152173913,1.630434783,,
+f/2,V,Uninfected,to the fourth,5,765929,F,9999,2.775559105,0.170496436,,
+f/2,V,Uninfected,to the fourth,5,798508,F,9999,4.050343911,0.397375874,,
+f/2,V,Uninfected,to the fourth,5,857338,F,9999,3.054816392,3.825172964,,
+f/2,V,Uninfected,to the second,5,5625,F,9999,4.205128205,0.205128205,,
+f/2,V,Uninfected,to the second,5,5779,F,9999,6.052631579,1.118421053,,
+f/2,V,Uninfected,to the second,5,6208,F,9999,3.438914027,0.633484163,,
+f/2,V,Uninfected,to the third,5,56473,F,9999,3.732207315,0.340529864,,
+f/2,V,Uninfected,to the third,5,87635,F,9999,7.643186307,1.882817643,,
+f/2,V,Uninfected,to the third,5,71253,F,9999,2.822676023,1.190570054,,
+SW,V,Preinfected,to the second,5,3012,F,9999,1.737451737,0,,
+SW,V,Preinfected,to the second,5,2994,F,9999,2.427184466,0.097087379,,
+SW,V,Preinfected,to the second,5,2579,F,9999,0.876232202,0,,
+SW,V,Uninfected,to the second,5,3364,F,9999,1.427371956,0,,
+SW,V,Uninfected,to the second,5,3825,F,9999,0.664697194,0,,
+SW,V,Uninfected,to the second,5,2853,F,9999,1.881188119,0.099009901,,
+f/2,V,10:1 Co-incubation,to the fifth,8,10169,D,4698906,95.5,46.08333333,,
+f/2,V,10:1 Co-incubation,to the fifth,8,4144,D,74532093,94.27402863,57.2597137,,
+f/2,V,10:1 Co-incubation,to the fifth,8,12422,D,9999,96.32199861,68.77168633,,
+f/2,V,10:1 Co-incubation,to the first,8,6555,D,9999,3.232062056,0.129282482,,
+f/2,V,10:1 Co-incubation,to the first,8,7254,D,9999,2.920560748,0.058411215,,
+f/2,V,10:1 Co-incubation,to the first,8,9228,D,9999,1.774871555,0,,
+f/2,V,10:1 Co-incubation,to the fourth,8,10712,D,3026570,97.09915612,32.38396624,,
+f/2,V,10:1 Co-incubation,to the fourth,8,8797,D,48809737,96.40333976,28.70905588,,
+f/2,V,10:1 Co-incubation,to the fourth,8,12943,D,9999,97.95737123,36.98934281,,
+f/2,V,10:1 Co-incubation,to the second,8,78674,D,9999,2.590617763,0.129261593,,
+f/2,V,10:1 Co-incubation,to the second,8,79254,D,9999,2.635799829,0.080196749,,
+f/2,V,10:1 Co-incubation,to the second,8,89422,D,9999,1.436421479,0.062662682,,
+f/2,V,10:1 Co-incubation,to the third,8,719288,D,2802675608,4.331024082,0.429646386,,
+f/2,V,10:1 Co-incubation,to the third,8,821576,D,206878117,2.409073092,0.115528232,,
+f/2,V,10:1 Co-incubation,to the third,8,631747,D,884152725,5.807648921,0.22833958,,
+f/2,V,Preinfected,to the fifth,8,11354,D,2903537,95.47934528,65.86126267,,
+f/2,V,Preinfected,to the fifth,8,17040,D,9999,97.15281813,51.19116793,,
+f/2,V,Preinfected,to the fifth,8,12286,D,620103,95.81395349,48.13953488,,
+f/2,V,Preinfected,to the first,8,6164,D,9999,1.651112706,0.071787509,,
+f/2,V,Preinfected,to the first,8,5391,D,9999,2.479338843,0.275482094,,
+f/2,V,Preinfected,to the first,8,5219,D,9999,2.919708029,0.547445255,,
+f/2,V,Preinfected,to the fourth,8,5038,D,3786832,87.70491803,27.86885246,,
+f/2,V,Preinfected,to the fourth,8,8782,D,9999,95.26493799,22.77339346,,
+f/2,V,Preinfected,to the fourth,8,5917,D,756789,92.38197425,23.81974249,,
+f/2,V,Preinfected,to the second,8,59923,D,9999,1.959239933,0.157526829,,
+f/2,V,Preinfected,to the second,8,53043,D,9999,2.339472374,0.174216028,,
+f/2,V,Preinfected,to the second,8,52990,D,9999,3.762281332,0.491253295,,
+f/2,V,Preinfected,to the third,8,389274,D,5818104579,7.843048104,0.929041254,,
+f/2,V,Preinfected,to the third,8,361257,D,9999,10.03919204,1.430646532,,
+f/2,V,Preinfected,to the third,8,489683,D,1097104608,11.07552674,3.14554295,,
+f/2,V,Preinfected with added viruses,to the fifth,8,15171,D,44922097,96.54739485,48.96421846,,
+f/2,V,Preinfected with added viruses,to the fifth,8,13185,D,9999,95.08426966,50.56179775,,
+f/2,V,Preinfected with added viruses,to the fifth,8,11661,D,9357983,95.86523737,44.56355283,,
+f/2,V,Preinfected with added viruses,to the first,8,5724,D,9999,2.911813644,0.083194676,,
+f/2,V,Preinfected with added viruses,to the first,8,4833,D,9999,2.490421456,0.191570881,,
+f/2,V,Preinfected with added viruses,to the first,8,4165,D,9999,2.250803859,0,,
+f/2,V,Preinfected with added viruses,to the fourth,8,5781,D,1824179,79.57166392,17.13344316,,
+f/2,V,Preinfected with added viruses,to the fourth,8,5340,D,1998566,92.94797688,17.80346821,,
+f/2,V,Preinfected with added viruses,to the fourth,8,5705,D,1387120,89.51486698,12.20657277,,
+f/2,V,Preinfected with added viruses,to the second,8,64138,D,9999,2.115970005,0.155913579,,
+f/2,V,Preinfected with added viruses,to the second,8,55708,D,9999,2.484833375,0.241003906,,
+f/2,V,Preinfected with added viruses,to the second,8,47875,D,9999,2.387168967,0.158522939,,
+f/2,V,Preinfected with added viruses,to the third,8,243229,D,1491488381,15.27467794,1.315634911,,
+f/2,V,Preinfected with added viruses,to the third,8,277864,D,1052506577,14.06229173,2.194872706,,
+f/2,V,Preinfected with added viruses,to the third,8,41149,D,152174793,43.48329235,2.589324461,,
+f/2,V,Uninfected,to the fifth,8,6820373,D,9999,1.565847088,0.022862709,,
+f/2,V,Uninfected,to the fifth,8,5552585,D,9999,3.248468449,0.006149629,,
+f/2,V,Uninfected,to the fifth,8,5736536,D,9999,1.720488348,0.017120836,,
+f/2,V,Uninfected,to the first,8,8657,D,9999,2.59422418,0,,
+f/2,V,Uninfected,to the first,8,7776,D,9999,3.397804496,0.052273915,,
+f/2,V,Uninfected,to the first,8,7138,D,9999,2.564102564,0.062539087,,
+f/2,V,Uninfected,to the fourth,8,3539898,D,9999,2.374864738,0.088578624,,
+f/2,V,Uninfected,to the fourth,8,3319967,D,9999,2.748092351,0.009305606,,
+f/2,V,Uninfected,to the fourth,8,3465750,D,9999,2.454117332,0.087591843,,
+f/2,V,Uninfected,to the second,8,102977,D,9999,2.216492017,0.148131892,,
+f/2,V,Uninfected,to the second,8,84967,D,9999,2.994928715,0.019136925,,
+f/2,V,Uninfected,to the second,8,84548,D,9999,2.457054351,0.119684596,,
+f/2,V,Uninfected,to the third,8,1058347,D,9999,1.65592345,0.400368339,,
+f/2,V,Uninfected,to the third,8,1045740,D,9999,1.806788674,0.040427285,,
+f/2,V,Uninfected,to the third,8,911304,D,9999,2.292634178,0.150882762,,
+SW,V,Preinfected,to the second,8,11133,D,9999,0.136091453,0.027218291,,
+SW,V,Preinfected,to the second,8,10870,D,9999,0,0.02787845,,
+SW,V,Preinfected,to the second,8,10206,D,9999,0,0,,
+SW,V,Uninfected,to the second,8,13012,D,9999,0,0,,
+SW,V,Uninfected,to the second,8,14433,D,9999,0,0.062985513,,
+SW,V,Uninfected,to the second,8,12058,D,9999,0,0.025131943,,
+f/2,V,10:1 Co-incubation,to the fifth,13,5563,C,4402312,60.31220435,55.487228,,
+f/2,V,10:1 Co-incubation,to the fifth,13,2977,C,1078887,95.60862866,58.16640986,,
+f/2,V,10:1 Co-incubation,to the fifth,13,2610,C,9999,68.93464637,63.38406446,,
+f/2,V,10:1 Co-incubation,to the first,13,424958,C,9999,2.12776498,0.170914766,,
+f/2,V,10:1 Co-incubation,to the first,13,378839,C,9999,2.069332946,0.124716965,,
+f/2,V,10:1 Co-incubation,to the first,13,486224,C,9999,1.424287856,0.054780302,,
+f/2,V,10:1 Co-incubation,to the fourth,13,5923,C,2045884,68.89810427,36.37440758,,
+f/2,V,10:1 Co-incubation,to the fourth,13,961,C,15955918,48.92601432,33.41288783,,
+f/2,V,10:1 Co-incubation,to the fourth,13,1864,C,9999,75.93984962,43.10776942,,
+f/2,V,10:1 Co-incubation,to the second,13,2358221,C,15780492653,6.903062523,0.178100352,,
+f/2,V,10:1 Co-incubation,to the second,13,2677963,C,9999,1.998985947,0.040082495,,
+f/2,V,10:1 Co-incubation,to the second,13,2723701,C,9999,1.406483756,0.045292963,,
+f/2,V,10:1 Co-incubation,to the third,13,55681,C,88599819,96.1245195,45.78108261,,
+f/2,V,10:1 Co-incubation,to the third,13,96073,C,373131093,93.31550802,28.75286478,,
+f/2,V,10:1 Co-incubation,to the third,13,51377,C,30497046,97.35629396,37.30293476,,
+f/2,V,Preinfected,to the fifth,13,6357,C,1679221,86.98605649,76.43904183,,
+f/2,V,Preinfected,to the fifth,13,4311,C,163299,83.47921225,65.04376368,,
+f/2,V,Preinfected,to the fifth,13,5089,C,6638791,88.38103375,73.08842375,,
+f/2,V,Preinfected,to the first,13,250082,C,9999,2.439201716,0.221745611,,
+f/2,V,Preinfected,to the first,13,195038,C,9999,2.650672342,0.151559124,,
+f/2,V,Preinfected,to the first,13,215348,C,9999,2.661013527,0.173632142,,
+f/2,V,Preinfected,to the fourth,13,7182,C,9250983,15.82278481,10.3164557,,
+f/2,V,Preinfected,to the fourth,13,3967,C,9999,23.90011891,8.145065398,,
+f/2,V,Preinfected,to the fourth,13,7089,C,564469,18.67525299,10.30358786,,
+f/2,V,Preinfected,to the second,13,591264,C,4285659868,21.93299405,2.746044681,,
+f/2,V,Preinfected,to the second,13,650679,C,9999,15.63533028,1.214985791,,
+f/2,V,Preinfected,to the second,13,422470,C,875793046,35.41289313,3.048328668,,
+f/2,V,Preinfected,to the third,13,37830,C,580755484,98.21568038,37.53079003,,
+f/2,V,Preinfected,to the third,13,33316,C,9999,98.54877531,35.36032847,,
+f/2,V,Preinfected,to the third,13,46422,C,86524691,97.54612719,40.32968062,,
+f/2,V,Preinfected with added viruses,to the fifth,13,3727,C,19749532,82.11180124,56.77018634,,
+f/2,V,Preinfected with added viruses,to the fifth,13,3849,C,9999,78.66507747,54.11203814,,
+f/2,V,Preinfected with added viruses,to the fifth,13,4307,C,16338590,78.05498982,46.07942974,,
+f/2,V,Preinfected with added viruses,to the first,13,189755,C,9999,2.86920243,0.092712323,,
+f/2,V,Preinfected with added viruses,to the first,13,140546,C,9999,2.855837332,0.251313685,,
+f/2,V,Preinfected with added viruses,to the first,13,122439,C,9999,2.794096575,0.125376128,,
+f/2,V,Preinfected with added viruses,to the fourth,13,14502,C,2697512,10.90183559,3.016759777,,
+f/2,V,Preinfected with added viruses,to the fourth,13,3663,C,362667,25.29743269,10.01878522,,
+f/2,V,Preinfected with added viruses,to the fourth,13,5761,C,2676285,18.42405786,5.215074229,,
+f/2,V,Preinfected with added viruses,to the second,13,54593,C,2267164,76.56037992,6.631614654,,
+f/2,V,Preinfected with added viruses,to the second,13,81817,C,142327368,60.64139942,6.772819018,,
+f/2,V,Preinfected with added viruses,to the second,13,136167,C,2296013906,45.66771887,3.040649359,,
+f/2,V,Preinfected with added viruses,to the third,13,17546,C,21373029,98.66754617,27.83641161,,
+f/2,V,Preinfected with added viruses,to the third,13,19101,C,14860844,98.36695485,31.37608069,,
+f/2,V,Preinfected with added viruses,to the third,13,4985,C,13623957,98.63616366,15.92608887,,
+f/2,V,Uninfected,to the fifth,13,10548750,C,9999,3.173531055,0.041135544,,
+f/2,V,Uninfected,to the fifth,13,7780789,C,9999,6.895600314,0.037495313,,
+f/2,V,Uninfected,to the fifth,13,8062542,C,9999,7.375749398,0.018778428,,
+f/2,V,Uninfected,to the first,13,371268,C,9999,2.296666827,0.093790582,,
+f/2,V,Uninfected,to the first,13,377491,C,9999,2.564781813,0.1155958,,
+f/2,V,Uninfected,to the first,13,391862,C,9999,2.694729942,0.016388453,,
+f/2,V,Uninfected,to the fourth,13,9055143,C,9999,2.528555201,0.037074433,,
+f/2,V,Uninfected,to the fourth,13,9288440,C,9999,2.086049544,0.013432895,,
+f/2,V,Uninfected,to the fourth,13,8657907,C,9999,3.119616233,0.003022466,,
+f/2,V,Uninfected,to the second,13,2948382,C,9999,2.900204118,0.058583753,,
+f/2,V,Uninfected,to the second,13,2691158,C,9999,2.69954888,0.064538841,,
+f/2,V,Uninfected,to the second,13,2612948,C,9999,2.673027562,0.025074067,,
+f/2,V,Uninfected,to the third,13,5929527,C,9999,3.357618575,0.046301407,,
+f/2,V,Uninfected,to the third,13,5863158,C,9999,2.595751047,0.013464991,,
+f/2,V,Uninfected,to the third,13,5762431,C,9999,2.896287187,0.001795219,,
+SW,V,Preinfected,to the second,13,19151,C,112650,7.430866677,0.324424533,,
+SW,V,Preinfected,to the second,13,18568,C,5758804,11.32887189,0.557680051,,
+SW,V,Preinfected,to the second,13,33737,C,96186,3.218451285,0.070156976,,
+SW,V,Uninfected,to the second,13,63775,C,9999,0.927815921,0.009278159,,
+SW,V,Uninfected,to the second,13,69423,C,9999,0.890688259,0.025569998,,
+SW,V,Uninfected,to the second,13,80092,C,9999,1.060175095,0.01108197,,
+f/2,V,10:1 Co-incubation,to the fifth,21,33297,E,15165602,28.67965368,9.672619048,,
+f/2,V,10:1 Co-incubation,to the fifth,21,739,E,603524,75.29411765,50,,
+f/2,V,10:1 Co-incubation,to the fifth,21,53201,E,9999,7.19736525,2.626717005,,
+f/2,V,10:1 Co-incubation,to the first,21,8129162,E,9999,2.488759743,0.084004092,,
+f/2,V,10:1 Co-incubation,to the first,21,7659261,E,9999,2.764825758,0.108195251,,
+f/2,V,10:1 Co-incubation,to the first,21,7840188,E,9999,1.789814042,0.035429989,,
+f/2,V,10:1 Co-incubation,to the fourth,21,32766,E,9999,25.95545779,9.609568326,,
+f/2,V,10:1 Co-incubation,to the fourth,21,20691,E,10454472,9.077537298,1.912166422,,
+f/2,V,10:1 Co-incubation,to the fourth,21,20483,E,9999,11.05779261,4.631754642,,
+f/2,V,10:1 Co-incubation,to the second,21,83616,E,306748997,93.63238041,38.6151415,,
+f/2,V,10:1 Co-incubation,to the second,21,481710,E,1028632,92.8040195,31.87616583,,
+f/2,V,10:1 Co-incubation,to the second,21,157977,E,2703303477,84.73219116,31.50946799,,
+f/2,V,10:1 Co-incubation,to the third,21,15135,E,53390339,99.56349206,57.77777778,,
+f/2,V,10:1 Co-incubation,to the third,21,15281,E,251546991,99.10849772,63.77086495,,
+f/2,V,10:1 Co-incubation,to the third,21,17239,E,44054602,99.75210709,57.84167906,,
+f/2,V,Preinfected,to the fifth,21,51396,E,18958072,16.55528297,9.313932831,,
+f/2,V,Preinfected,to the fifth,21,48643,E,9999,10.94029317,2.565248481,,
+f/2,V,Preinfected,to the fifth,21,47170,E,3689274,10.72307401,2.716259701,,
+f/2,V,Preinfected,to the first,21,2308765,E,8150461366,16.17427723,3.092938819,,
+f/2,V,Preinfected,to the first,21,808209,E,1958295663,44.0534085,4.397271475,,
+f/2,V,Preinfected,to the first,21,6314232,E,2493966800,3.715812069,0.121324559,,
+f/2,V,Preinfected,to the fourth,21,43617,E,9999,39.4039075,13.62639553,,
+f/2,V,Preinfected,to the fourth,21,30448,E,9999,32.7288305,6.440097101,,
+f/2,V,Preinfected,to the fourth,21,37143,E,8158251,35.88942308,8.629807692,,
+f/2,V,Preinfected,to the second,21,30774,E,360405510,98.16332297,50.09889799,,
+f/2,V,Preinfected,to the second,21,22904,E,9999,98.02581625,28.38521893,,
+f/2,V,Preinfected,to the second,21,15345,E,91563234,98.19627618,37.08301009,,
+f/2,V,Preinfected,to the third,21,13943,E,107579468,99.62581852,61.49048955,,
+f/2,V,Preinfected,to the third,21,7351,E,9999,99.56624606,44.44006309,,
+f/2,V,Preinfected,to the third,21,5714,E,15838280,99.63541667,59.16666667,,
+f/2,V,Preinfected with added viruses,to the fifth,21,37304,E,9999,15.53669161,1.798279906,,
+f/2,V,Preinfected with added viruses,to the fifth,21,79055,E,634213,13.5477013,6.718044114,,
+f/2,V,Preinfected with added viruses,to the fifth,21,69616,E,5520287,9.663441562,1.958805722,,
+f/2,V,Preinfected with added viruses,to the first,21,14900,E,310873,96.19686801,22.53914989,,
+f/2,V,Preinfected with added viruses,to the first,21,21605,E,15936783,97.19953326,40.68455854,,
+f/2,V,Preinfected with added viruses,to the first,21,15884,E,61192817,97.03433923,24.97398543,,
+f/2,V,Preinfected with added viruses,to the fourth,21,10838,E,16438560,17.99307958,2.921953095,,
+f/2,V,Preinfected with added viruses,to the fourth,21,43916,E,19194616,21.45044011,6.946039036,,
+f/2,V,Preinfected with added viruses,to the fourth,21,25161,E,17381907,30.11988832,6.306454262,,
+f/2,V,Preinfected with added viruses,to the second,21,3019,E,9644905,97.97608096,39.00643974,,
+f/2,V,Preinfected with added viruses,to the second,21,9258,E,8953368,99.1225416,54.43267776,,
+f/2,V,Preinfected with added viruses,to the second,21,8658,E,54392692,98.85459752,36.33471206,,
+f/2,V,Preinfected with added viruses,to the third,21,1142,E,21065356,99.02676399,45.25547445,,
+f/2,V,Preinfected with added viruses,to the third,21,8420,E,3576661,99.8003992,65.80172987,,
+f/2,V,Preinfected with added viruses,to the third,21,680,E,2405192,72.87449393,26.72064777,,
+f/2,V,Uninfected,to the fifth,21,4140700,E,9999,3.779554182,0.16422344,,
+f/2,V,Uninfected,to the fifth,21,3793900,E,9999,4.167215794,0.092253354,,
+f/2,V,Uninfected,to the fifth,21,6723360,E,9999,4.412079674,0.1142286,,
+f/2,V,Uninfected,to the first,21,5164200,E,9999,6.560551489,0.79780024,,
+f/2,V,Uninfected,to the first,21,5015424,E,9999,6.999846872,0.195237731,,
+f/2,V,Uninfected,to the first,21,4347744,E,9999,6.911170483,0.090529709,,
+f/2,V,Uninfected,to the fourth,21,9206700,E,9999,4.253424137,0.190078964,,
+f/2,V,Uninfected,to the fourth,21,8672300,E,9999,3.318612133,0.121075147,,
+f/2,V,Uninfected,to the fourth,21,4871424,E,9999,3.48021441,0.023648116,,
+f/2,V,Uninfected,to the second,21,7977100,E,9999,3.491243685,0.302114804,,
+f/2,V,Uninfected,to the second,21,6108960,E,9999,3.020350436,0.12571698,,
+f/2,V,Uninfected,to the second,21,6206304,E,9999,3.106003186,0.058778945,,
+f/2,V,Uninfected,to the third,21,7518900,E,9999,3.597600713,0.262006411,,
+f/2,V,Uninfected,to the third,21,6108960,E,9999,3.020350436,0.12571698,,
+f/2,V,Uninfected,to the third,21,6192480,E,9999,2.664909697,0.013952407,,
+SW,V,Preinfected,to the second,21,336,E,2288805,11.30952381,1.19047619,,
+SW,V,Preinfected,to the second,21,321,E,4698437,10.91666667,2.183333333,,
+SW,V,Preinfected,to the second,21,316,E,4443444,22.18548387,5.070967742,,
+SW,V,Uninfected,to the second,21,3066,E,9999,8.31659751,0.130456432,,
+SW,V,Uninfected,to the second,21,3407,E,9999,5.136295743,0.176101568,,
+SW,V,Uninfected,to the second,21,1466,E,9999,6.072395833,0.272916667,,
+f/2,VI,10:1 Co-incubation,to the fourth,0,12271,M,9999,3.579588728,,0.837776085,0.368
+f/2,VI,10:1 Co-incubation,to the fourth,0,12121,M,9999,2.621434079,,1.00231303,0.368
+f/2,VI,10:1 Co-incubation,to the fourth,0,10837,M,9999,3.904170364,,1.064773736,0.368
+f/2,VI,10:1 Co-incubation,to the second,0,100,M,9999,0,,0,0.368
+f/2,VI,10:1 Co-incubation,to the second,0,178,M,9999,7.01754386,,3.50877193,0.368
+f/2,VI,10:1 Co-incubation,to the second,0,112,M,9999,5.714285714,,0,0.368
+f/2,VI,10:1 Co-incubation,to the third,0,1206,M,9999,3.100775194,,0.516795866,0.368
+f/2,VI,10:1 Co-incubation,to the third,0,1262,M,9999,3.950617284,,0.49382716,0.368
+f/2,VI,10:1 Co-incubation,to the third,0,1189,M,9999,3.234501348,,0.808625337,0.368
+f/2,VI,Preinfected,to the fourth,0,12509,M,9999,3.242835596,,0.754147813,0.363
+f/2,VI,Preinfected,to the fourth,0,12962,M,9999,2.328966521,,0.509461426,0.363
+f/2,VI,Preinfected,to the fourth,0,11942,M,9999,3.140096618,,0.483091787,0.363
+f/2,VI,Preinfected,to the second,0,156,M,9999,5.454545455,,0,0.363
+f/2,VI,Preinfected,to the second,0,173,M,9999,1.818181818,,0,0.363
+f/2,VI,Preinfected,to the second,0,224,M,9999,8.571428571,,7.142857143,0.363
+f/2,VI,Preinfected,to the third,0,1261,M,9999,4.987531172,,1.74563591,0.363
+f/2,VI,Preinfected,to the third,0,1428,M,9999,2.643171806,,0.660792952,0.363
+f/2,VI,Preinfected,to the third,0,1474,M,9999,1.52173913,,1.086956522,0.363
+f/2,VI,Uninfected,to the fourth,0,13387,M,9999,3.523608175,,0.634249471,0.368
+f/2,VI,Uninfected,to the fourth,0,12255,M,9999,2.694380293,,0.461893764,0.368
+f/2,VI,Uninfected,to the fourth,0,13676,M,9999,2.78551532,,0.69637883,0.368
+f/2,VI,Uninfected,to the second,0,110,M,9999,2.857142857,,0,0.368
+f/2,VI,Uninfected,to the second,0,138,M,9999,2.272727273,,0,0.368
+f/2,VI,Uninfected,to the second,0,181,M,9999,5.263157895,,3.50877193,0.368
+f/2,VI,Uninfected,to the third,0,1403,M,9999,3.811659193,,0.224215247,0.368
+f/2,VI,Uninfected,to the third,0,1330,M,9999,1.654846336,,0.236406619,0.368
+f/2,VI,Uninfected,to the third,0,1552,M,9999,3.067484663,,1.63599182,0.368
+SW,VI,10:1 Co-incubation,to the fourth,0,11260,M,9999,2.476515798,,0.939368061,0.362
+SW,VI,10:1 Co-incubation,to the fourth,0,10875,M,9999,3.183023873,,1.061007958,0.362
+SW,VI,10:1 Co-incubation,to the fourth,0,10788,M,9999,2.317290553,,0.445632799,0.362
+SW,VI,10:1 Co-incubation,to the second,0,112,M,9999,2.857142857,,0,0.362
+SW,VI,10:1 Co-incubation,to the second,0,125,M,9999,7.692307692,,2.564102564,0.362
+SW,VI,10:1 Co-incubation,to the second,0,119,M,9999,2.702702703,,0,0.362
+SW,VI,10:1 Co-incubation,to the third,0,1237,M,9999,3.626943005,,1.03626943,0.362
+SW,VI,10:1 Co-incubation,to the third,0,1141,M,9999,1.404494382,,0,0.362
+SW,VI,10:1 Co-incubation,to the third,0,1058,M,9999,1.212121212,,0.909090909,0.362
+SW,VI,Preinfected,to the fourth,0,12481,M,9999,1.848998459,,0.385208012,0.349
+SW,VI,Preinfected,to the fourth,0,11788,M,9999,2.77324633,,0.897226754,0.349
+SW,VI,Preinfected,to the fourth,0,11923,M,9999,2.983870968,,1.129032258,0.349
+SW,VI,Preinfected,to the second,0,122,M,9999,18.42105263,,13.15789474,0.349
+SW,VI,Preinfected,to the second,0,109,M,9999,2.941176471,,2.941176471,0.349
+SW,VI,Preinfected,to the second,0,135,M,9999,4.761904762,,2.380952381,0.349
+SW,VI,Preinfected,to the third,0,1407,M,9999,2.505694761,,1.138952164,0.349
+SW,VI,Preinfected,to the third,0,1228,M,9999,0.783289817,,0.261096606,0.349
+SW,VI,Preinfected,to the third,0,1173,M,9999,2.459016393,,1.092896175,0.349
+SW,VI,Uninfected,to the fourth,0,13324,M,9999,2.716225876,,0.85775554,0.362
+SW,VI,Uninfected,to the fourth,0,12657,M,9999,1.626646011,,0.697134005,0.362
+SW,VI,Uninfected,to the fourth,0,11549,M,9999,1.9524618,,0.509337861,0.362
+SW,VI,Uninfected,to the second,0,149,M,9999,4.255319149,,2.127659574,0.362
+SW,VI,Uninfected,to the second,0,108,M,9999,3.03030303,,3.03030303,0.362
+SW,VI,Uninfected,to the second,0,121,M,9999,8.108108108,,0,0.362
+SW,VI,Uninfected,to the third,0,1327,M,9999,2.392344498,,0.717703349,0.362
+SW,VI,Uninfected,to the third,0,1232,M,9999,1.061007958,,0.265251989,0.362
+SW,VI,Uninfected,to the third,0,1167,M,9999,3.081232493,,0.56022409,0.362
+f/2,VI,10:1 Co-incubation,to the fourth,1,13657,M/K,9999,1.923076923,,0.073964497,0.448
+f/2,VI,10:1 Co-incubation,to the fourth,1,13253,M/K,9999,2.820121951,,0.304878049,0.449
+f/2,VI,10:1 Co-incubation,to the fourth,1,13127,M/K,9999,2.16579537,,0.224047797,0.448
+f/2,VI,10:1 Co-incubation,to the second,1,148,M/K,9999,2.272727273,,2.272727273,0.204
+f/2,VI,10:1 Co-incubation,to the second,1,141,M/K,9999,0,,0,0.234
+f/2,VI,10:1 Co-incubation,to the second,1,121,M/K,9999,0,,0,
+f/2,VI,10:1 Co-incubation,to the third,1,1387,M/K,9999,2.184466019,,0.242718447,0.394
+f/2,VI,10:1 Co-incubation,to the third,1,1391,M/K,9999,3.389830508,,0.484261501,0.398
+f/2,VI,10:1 Co-incubation,to the third,1,1307,M/K,9999,2.25,,0,0.392
+f/2,VI,Preinfected,to the fourth,1,16596,M/K,9999,1.923076923,,0.256410256,0.434
+f/2,VI,Preinfected,to the fourth,1,17170,M/K,9999,1.425030979,,0.309789343,0.444
+f/2,VI,Preinfected,to the fourth,1,15598,M/K,9999,2.115003305,,0.330469266,0.447
+f/2,VI,Preinfected,to the second,1,216,M/K,9999,4.918032787,,0,0.215
+f/2,VI,Preinfected,to the second,1,191,M/K,9999,1.851851852,,0,0.214
+f/2,VI,Preinfected,to the second,1,213,M/K,9999,3.225806452,,3.225806452,0.22
+f/2,VI,Preinfected,to the third,1,1812,M/K,9999,1.56555773,,0.195694716,0.383
+f/2,VI,Preinfected,to the third,1,1844,M/K,9999,2.884615385,,1.153846154,0.398
+f/2,VI,Preinfected,to the third,1,1711,M/K,9999,2.409638554,,0.401606426,0.4
+f/2,VI,Uninfected,to the fourth,1,19020,M/K,9999,1.699415826,,0.106213489,
+f/2,VI,Uninfected,to the fourth,1,18636,M/K,9999,1.517615176,,0.27100271,0.441
+f/2,VI,Uninfected,to the fourth,1,18910,M/K,9999,1.163405605,,0.317292438,0.439
+f/2,VI,Uninfected,to the second,1,212,M/K,9999,0,,0,0.245
+f/2,VI,Uninfected,to the second,1,222,M/K,9999,3.03030303,,0,0.236
+f/2,VI,Uninfected,to the second,1,220,M/K,9999,3.03030303,,0,0.214
+f/2,VI,Uninfected,to the third,1,2034,M/K,9999,1.655629139,,0.165562914,0.404
+f/2,VI,Uninfected,to the third,1,2061,M/K,9999,2.941176471,,0.490196078,0.404
+f/2,VI,Uninfected,to the third,1,1810,M/K,9999,1.657458564,,0.368324125,0.404
+SW,VI,10:1 Co-incubation,to the fourth,1,14324,M/K,9999,1.095140315,,0,0.45
+SW,VI,10:1 Co-incubation,to the fourth,1,14253,M/K,9999,1.346562721,,0,0.45
+SW,VI,10:1 Co-incubation,to the fourth,1,14636,M/K,9999,1.449275362,,0.069013112,0.451
+SW,VI,10:1 Co-incubation,to the second,1,141,M/K,9999,2.325581395,,0,0.23
+SW,VI,10:1 Co-incubation,to the second,1,81,M/K,9999,0,,0,0.225
+SW,VI,10:1 Co-incubation,to the second,1,152,M/K,9999,0,,0,0.24
+SW,VI,10:1 Co-incubation,to the third,1,1471,M/K,9999,1.111111111,,0,0.404
+SW,VI,10:1 Co-incubation,to the third,1,1451,M/K,9999,1.392111369,,0,0.398
+SW,VI,10:1 Co-incubation,to the third,1,1414,M/K,9999,0.714285714,,0,0.404
+SW,VI,Preinfected,to the fourth,1,16732,M/K,9999,1.478743068,,0.123228589,0.449
+SW,VI,Preinfected,to the fourth,1,16889,M/K,9999,1.016746411,,0.179425837,0.444
+SW,VI,Preinfected,to the fourth,1,16687,M/K,9999,1.210653753,,0,0.45
+SW,VI,Preinfected,to the second,1,186,M/K,9999,0,,0,
+SW,VI,Preinfected,to the second,1,182,M/K,9999,1.851851852,,0,0.213
+SW,VI,Preinfected,to the second,1,162,M/K,9999,0,,0,0.231
+SW,VI,Preinfected,to the third,1,1787,M/K,9999,0.961538462,,0.192307692,0.402
+SW,VI,Preinfected,to the third,1,1926,M/K,9999,1.573426573,,0,0.396
+SW,VI,Preinfected,to the third,1,1808,M/K,9999,0.744878957,,0.558659218,0.389
+SW,VI,Uninfected,to the fourth,1,17270,M/K,9999,1.389693109,,0.347423277,0.449
+SW,VI,Uninfected,to the fourth,1,15703,M/K,9999,1.639344262,,0.126103405,0.451
+SW,VI,Uninfected,to the fourth,1,15149,M/K,9999,1.764705882,,0,0.444
+SW,VI,Uninfected,to the second,1,173,M/K,9999,1.923076923,,0,0.237
+SW,VI,Uninfected,to the second,1,168,M/K,9999,5.882352941,,1.960784314,0.214
+SW,VI,Uninfected,to the second,1,172,M/K,9999,5.769230769,,0,0.221
+SW,VI,Uninfected,to the third,1,1653,M/K,9999,1.814516129,,0,0.406
+SW,VI,Uninfected,to the third,1,1723,M/K,9999,1.53256705,,0,0.4
+SW,VI,Uninfected,to the third,1,1597,M/K,9999,1.033057851,,0.20661157,0.404
+f/2,VI,10:1 Co-incubation,to the fourth,2,34981,K,9999,3.463441451,,0.247388675,0.461
+f/2,VI,10:1 Co-incubation,to the fourth,2,36558,K,9999,3.340347186,,0.447133088,0.461
+f/2,VI,10:1 Co-incubation,to the fourth,2,34781,K,9999,2.573932092,,0.383351588,0.465
+f/2,VI,10:1 Co-incubation,to the second,2,391,K,9999,1.639344262,,0.819672131,0.327
+f/2,VI,10:1 Co-incubation,to the second,2,401,K,9999,4,,0.8,0.335
+f/2,VI,10:1 Co-incubation,to the second,2,270,K,9999,0,,0,0.327
+f/2,VI,10:1 Co-incubation,to the third,2,3276,K,9999,2.054794521,,0.489236791,0.435
+f/2,VI,10:1 Co-incubation,to the third,2,3689,K,9999,2.780191138,,0.086880973,0.438
+f/2,VI,10:1 Co-incubation,to the third,2,3352,K,9999,2.272727273,,0.09469697,0.436
+f/2,VI,Preinfected,to the fourth,2,32884,K,9999,2.04865557,,0.28809219,0.479
+f/2,VI,Preinfected,to the fourth,2,33821,K,9999,1.276065982,,0.124494242,0.47
+f/2,VI,Preinfected,to the fourth,2,30745,K,9999,1.991370727,,0.232326585,0.466
+f/2,VI,Preinfected,to the second,2,358,K,9999,0,,0,0.308
+f/2,VI,Preinfected,to the second,2,316,K,9999,2.222222222,,0,0.304
+f/2,VI,Preinfected,to the second,2,395,K,9999,3.448275862,,0.862068966,0.307
+f/2,VI,Preinfected,to the third,2,3575,K,9999,2.158979392,,0.098135427,0.441
+f/2,VI,Preinfected,to the third,2,3888,K,9999,1.895306859,,0.451263538,0.431
+f/2,VI,Preinfected,to the third,2,3320,K,9999,2.049180328,,0.409836066,0.439
+f/2,VI,Uninfected,to the fourth,2,42950,K,9999,1.816065192,,0.209545984,0.459
+f/2,VI,Uninfected,to the fourth,2,43330,K,9999,2.307869836,,0.392337872,0.462
+f/2,VI,Uninfected,to the fourth,2,41524,K,9999,2.31470657,,0.350713117,0.463
+f/2,VI,Uninfected,to the second,2,433,K,9999,0.769230769,,1.538461538,0.343
+f/2,VI,Uninfected,to the second,2,377,K,9999,0.884955752,,0.884955752,0.336
+f/2,VI,Uninfected,to the second,2,379,K,9999,1.709401709,,1.709401709,0.331
+f/2,VI,Uninfected,to the third,2,4370,K,9999,1.830663616,,0.152555301,
+f/2,VI,Uninfected,to the third,2,4407,K,9999,2.269288956,,0.226928896,0.436
+f/2,VI,Uninfected,to the third,2,3790,K,9999,2.476515798,,0.170794193,0.445
+SW,VI,10:1 Co-incubation,to the fourth,2,27219,K,9999,2.44926522,,0.279916025,0.464
+SW,VI,10:1 Co-incubation,to the fourth,2,29136,K,9999,1.399533489,,0,0.459
+SW,VI,10:1 Co-incubation,to the fourth,2,30078,K,9999,1.162040026,,0.129115558,0.465
+SW,VI,10:1 Co-incubation,to the second,2,283,K,9999,3.370786517,,0,0.304
+SW,VI,10:1 Co-incubation,to the second,2,294,K,9999,1.098901099,,0,0.302
+SW,VI,10:1 Co-incubation,to the second,2,275,K,9999,2.352941176,,0,0.299
+SW,VI,10:1 Co-incubation,to the third,2,2495,K,9999,2.03562341,,0.127226463,0.432
+SW,VI,10:1 Co-incubation,to the third,2,2796,K,9999,0.925925926,,0.115740741,0.433
+SW,VI,10:1 Co-incubation,to the third,2,2728,K,9999,1.423487544,,0,0.428
+SW,VI,Preinfected,to the fourth,2,30561,K,9999,0.901502504,,0.100166945,0.47
+SW,VI,Preinfected,to the fourth,2,34552,K,9999,0.633102201,,0.090443172,0.465
+SW,VI,Preinfected,to the fourth,2,35813,K,9999,0.610820244,,0.058173357,0.467
+SW,VI,Preinfected,to the second,2,347,K,9999,1.960784314,,0.980392157,0.276
+SW,VI,Preinfected,to the second,2,302,K,9999,3.448275862,,0,0.325
+SW,VI,Preinfected,to the second,2,313,K,9999,0,,0,0.284
+SW,VI,Preinfected,to the third,2,2871,K,9999,1.54028436,,0.118483412,0.433
+SW,VI,Preinfected,to the third,2,3194,K,9999,0.760869565,,0.326086957,0.443
+SW,VI,Preinfected,to the third,2,3132,K,9999,0.554323725,,0.110864745,0.429
+SW,VI,Uninfected,to the fourth,2,33641,K,9999,1.327561328,,0.144300144,0.463
+SW,VI,Uninfected,to the fourth,2,32627,K,9999,1.893028846,,0.180288462,0.462
+SW,VI,Uninfected,to the fourth,2,30804,K,9999,0.954805856,,0.095480586,0.461
+SW,VI,Uninfected,to the second,2,272,K,9999,1.19047619,,0,0.296
+SW,VI,Uninfected,to the second,2,294,K,9999,4.444444444,,1.111111111,0.312
+SW,VI,Uninfected,to the second,2,248,K,9999,3.947368421,,3.947368421,0.307
+SW,VI,Uninfected,to the third,2,3294,K,9999,1.669941061,,0.294695481,0.431
+SW,VI,Uninfected,to the third,2,2886,K,9999,1.698754247,,0.113250283,0.431
+SW,VI,Uninfected,to the third,2,2990,K,9999,2.18579235,,0.327868852,0.43
+f/2,VI,10:1 Co-incubation,to the fourth,3,85156,N,9999,3.288100209,,0.130480167,0.453
+f/2,VI,10:1 Co-incubation,to the fourth,3,88067,N,9999,2.851375221,,0.302800908,0.459
+f/2,VI,10:1 Co-incubation,to the fourth,3,96089,N,9999,1.734505088,,0.208140611,0.459
+f/2,VI,10:1 Co-incubation,to the second,3,1041,N,9999,4.62633452,,0.355871886,0.394
+f/2,VI,10:1 Co-incubation,to the second,3,837,N,9999,4.867256637,,0.442477876,0.399
+f/2,VI,10:1 Co-incubation,to the second,3,930,N,9999,1.992031873,,0.398406375,0.383
+f/2,VI,10:1 Co-incubation,to the third,3,8367,N,9999,2.589641434,,0.398406375,0.456
+f/2,VI,10:1 Co-incubation,to the third,3,8839,N,9999,4.211187932,,0.439974859,0.456
+f/2,VI,10:1 Co-incubation,to the third,3,9250,N,9999,2.102102102,,0.42042042,0.456
+f/2,VI,Preinfected,to the fourth,3,66857,N,9999,1.641025641,,0.615384615,0.465
+f/2,VI,Preinfected,to the fourth,3,68137,N,9999,1.87856424,,1.44246897,0.459
+f/2,VI,Preinfected,to the fourth,3,60391,N,9999,1.370384469,,0.570993529,0.465
+f/2,VI,Preinfected,to the second,3,850,N,9999,1.793721973,,0.896860987,0.382
+f/2,VI,Preinfected,to the second,3,903,N,9999,0.843881857,,0.421940928,0.38
+f/2,VI,Preinfected,to the second,3,789,N,9999,1.45631068,,0.485436893,0.379
+f/2,VI,Preinfected,to the third,3,7777,N,9999,2.277736958,,1.322556943,0.458
+f/2,VI,Preinfected,to the third,3,7697,N,9999,3.266518189,,1.187824796,0.456
+f/2,VI,Preinfected,to the third,3,6695,N,9999,1.716738197,,0.772532189,0.456
+f/2,VI,Uninfected,to the fourth,3,107818,N,9999,2.086846543,,0.569139966,0.456
+f/2,VI,Uninfected,to the fourth,3,103818,N,9999,1.882661996,,0.656742557,0.457
+f/2,VI,Uninfected,to the fourth,3,101483,N,9999,1.527900797,,0.420726306,0.458
+f/2,VI,Uninfected,to the second,3,1307,N,9999,1.449275362,,0.289855072,0.394
+f/2,VI,Uninfected,to the second,3,1112,N,9999,3.367003367,,1.01010101,0.404
+f/2,VI,Uninfected,to the third,3,11216,N,9999,1.823708207,,0.557244174,0.452
+f/2,VI,Uninfected,to the third,3,11063,N,9999,1.643554186,,0.564971751,0.455
+f/2,VI,Uninfected,to the third,3,10770,N,9999,2.399582681,,0.417318727,0.456
+SW,VI,10:1 Co-incubation,to the fourth,3,64867,N,9999,1.74717369,,0.034258308,0.375
+SW,VI,10:1 Co-incubation,to the fourth,3,58337,N,9999,1.771956857,,0.038520801,0.394
+SW,VI,10:1 Co-incubation,to the fourth,3,61640,N,9999,2.624863288,,0.145825738,0.369
+SW,VI,10:1 Co-incubation,to the second,3,493,N,9999,0.751879699,,0,0.27
+SW,VI,10:1 Co-incubation,to the second,3,494,N,9999,1.515151515,,0.757575758,0.275
+SW,VI,10:1 Co-incubation,to the second,3,539,N,9999,0,,0,0.268
+SW,VI,10:1 Co-incubation,to the third,3,6056,N,9999,1.743119266,,0.183486239,0.329
+SW,VI,10:1 Co-incubation,to the third,3,6545,N,9999,1.115879828,,0,0.383
+SW,VI,10:1 Co-incubation,to the third,3,5202,N,9999,1.079913607,,0,0.377
+SW,VI,Preinfected,to the fourth,3,51149,N,9999,1.393258427,,0.359550562,0.373
+SW,VI,Preinfected,to the fourth,3,67471,N,9999,0.272572402,,1.533219761,0.381
+SW,VI,Preinfected,to the fourth,3,62782,N,9999,0.915415599,,1.354815086,0.372
+SW,VI,Preinfected,to the second,3,529,N,9999,0,,0,0.243
+SW,VI,Preinfected,to the second,3,670,N,9999,1.142857143,,0.571428571,0.279
+SW,VI,Preinfected,to the second,3,625,N,9999,0.613496933,,0.613496933,0.269
+SW,VI,Preinfected,to the third,3,5103,N,9999,0.900900901,,0.225225225,0.335
+SW,VI,Preinfected,to the third,3,6730,N,9999,0.683176772,,0.939368061,0.347
+SW,VI,Preinfected,to the third,3,5845,N,9999,0.491642085,,0.491642085,0.346
+SW,VI,Uninfected,to the fourth,3,72831,N,9999,1.388460352,,0.061709349,0.341
+SW,VI,Uninfected,to the fourth,3,67578,N,9999,1.44689247,,0.098651759,0.472
+SW,VI,Uninfected,to the fourth,3,62333,N,9999,2.210338681,,0.071301248,0.467
+SW,VI,Uninfected,to the second,3,607,N,9999,1.851851852,,0.617283951,0.274
+SW,VI,Uninfected,to the second,3,670,N,9999,2.209944751,,1.104972376,
+SW,VI,Uninfected,to the second,3,604,N,9999,1.226993865,,0.613496933,0.278
+SW,VI,Uninfected,to the third,3,6584,N,9999,0.938566553,,0.085324232,0.348
+SW,VI,Uninfected,to the third,3,6811,N,9999,1.63132137,,0.244698206,0.345
+SW,VI,Uninfected,to the third,3,6167,N,9999,0.990990991,,0,0.384
+f/2,VI,10:1 Co-incubation,to the fourth,5,457543,N/L,576473755,4.546966313,,0.565401245,0.415
+f/2,VI,10:1 Co-incubation,to the fourth,5,531348,N/L,9999,3.121675804,,0.454136323,0.432
+f/2,VI,10:1 Co-incubation,to the fourth,5,466891,N/L,23604322,5.210224892,,0.675140848,0.407
+f/2,VI,10:1 Co-incubation,to the second,5,5755,N/L,9999,3.305004721,,0.377714825,0.449
+f/2,VI,10:1 Co-incubation,to the second,5,5565,N/L,9999,2.5390625,,0.9765625,0.443
+f/2,VI,10:1 Co-incubation,to the second,5,4804,N/L,9999,1.470588235,,0.113122172,0.446
+f/2,VI,10:1 Co-incubation,to the third,5,51054,N/L,9999,2.001277411,,0.255482223,0.467
+f/2,VI,10:1 Co-incubation,to the third,5,55076,N/L,9999,3.059009276,,0.217090981,0.461
+f/2,VI,10:1 Co-incubation,to the third,5,49446,N/L,9999,2.637942405,,0.307759947,0.465
+f/2,VI,Preinfected,to the fourth,5,195632,N/L,398150396,5.922444183,,2.162162162,0.374
+f/2,VI,Preinfected,to the fourth,5,169793,N/L,994290894,10.77714595,,3.912808015,0.329
+f/2,VI,Preinfected,to the fourth,5,148897,N/L,15618089,10.5758839,,4.647213216,0.326
+f/2,VI,Preinfected,to the second,5,5172,N/L,9999,1.444444444,,0.333333333,0.454
+f/2,VI,Preinfected,to the second,5,4983,N/L,9999,2.191464821,,0.576701269,0.451
+f/2,VI,Preinfected,to the second,5,4592,N/L,9999,1.752190238,,0.750938673,0.457
+f/2,VI,Preinfected,to the third,5,44092,N/L,9999,1.53806048,,0.495307612,0.469
+f/2,VI,Preinfected,to the third,5,45575,N/L,9999,1.992433796,,0.353089533,0.459
+f/2,VI,Preinfected,to the third,5,40862,N/L,9999,2.109704641,,0.787623066,0.446
+f/2,VI,Uninfected,to the fourth,5,674043,N/L,9999,1.560988196,,0.428949236,0.441
+f/2,VI,Uninfected,to the fourth,5,709217,N/L,9999,1.62150564,,0.511893085,0.459
+f/2,VI,Uninfected,to the fourth,5,729196,N/L,9999,1.117967981,,0.390543482,0.457
+f/2,VI,Uninfected,to the second,5,6397,N/L,9999,1.869158879,,0.509770603,0.45
+f/2,VI,Uninfected,to the second,5,7630,N/L,9999,2.207977208,,0.213675214,0.442
+f/2,VI,Uninfected,to the second,5,6277,N/L,9999,2.164502165,,0.346320346,0.447
+f/2,VI,Uninfected,to the third,5,66087,N/L,9999,1.891447368,,0.296052632,0.462
+f/2,VI,Uninfected,to the third,5,67250,N/L,9999,2.101179893,,0.727331502,0.46
+f/2,VI,Uninfected,to the third,5,63185,N/L,9999,2.133149837,,0.378462068,0.464
+SW,VI,10:1 Co-incubation,to the fourth,5,177802,N/L,31384992,1.878862794,,0.160692213,0.353
+SW,VI,10:1 Co-incubation,to the fourth,5,178066,N/L,250969097,2.962231548,,0.234509998,0.346
+SW,VI,10:1 Co-incubation,to the fourth,5,166989,N/L,9999,3.31666228,,0.184259016,0.328
+SW,VI,10:1 Co-incubation,to the second,5,2060,N/L,9999,0.533333333,,0,0.167
+SW,VI,10:1 Co-incubation,to the second,5,1786,N/L,9999,1.230769231,,0,0.171
+SW,VI,10:1 Co-incubation,to the second,5,1753,N/L,9999,2.821316614,,0.313479624,0.158
+SW,VI,10:1 Co-incubation,to the third,5,20055,N/L,9999,1.589041096,,0.219178082,0.192
+SW,VI,10:1 Co-incubation,to the third,5,19626,N/L,9999,1.511758119,,0,0.193
+SW,VI,10:1 Co-incubation,to the third,5,18396,N/L,9999,1.732377539,,0.059737157,0.193
+SW,VI,Preinfected,to the fourth,5,65467,N/L,26228060,17.1418873,,7.875084861,0.208
+SW,VI,Preinfected,to the fourth,5,76422,N/L,34981866,13.75399826,,7.938354173,0.194
+SW,VI,Preinfected,to the fourth,5,63933,N/L,4090529955,18.83906847,,10.98366354,0.198
+SW,VI,Preinfected,to the second,5,1806,N/L,9999,1.846153846,,0.615384615,0.186
+SW,VI,Preinfected,to the second,5,1989,N/L,9999,0.558659218,,0.837988827,0.193
+SW,VI,Preinfected,to the second,5,2033,N/L,9999,2.18579235,,0.273224044,0.222
+SW,VI,Preinfected,to the third,5,17222,N/L,9999,1.612903226,,0.580645161,0.237
+SW,VI,Preinfected,to the third,5,17533,N/L,9999,0.633713561,,0.950570342,0.266
+SW,VI,Preinfected,to the third,5,15333,N/L,9999,0.869565217,,0.362318841,0.244
+SW,VI,Uninfected,to the fourth,5,265370,N/L,9999,0.270336692,,0.065536168,0.413
+SW,VI,Uninfected,to the fourth,5,234674,N/L,9999,0.574339972,,0.083371931,0.458
+SW,VI,Uninfected,to the fourth,5,245696,N/L,9999,0.389311626,,0.159263847,0.448
+SW,VI,Uninfected,to the second,5,2413,N/L,9999,1.351351351,,0.225225225,0.178
+SW,VI,Uninfected,to the second,5,2418,N/L,9999,0.674157303,,0,0.202
+SW,VI,Uninfected,to the second,5,2038,N/L,9999,0.8,,0.266666667,0.168
+SW,VI,Uninfected,to the third,5,22848,N/L,9999,1.141769743,,0.380589914,0.218
+SW,VI,Uninfected,to the third,5,23402,N/L,9999,1.857872736,,0.185787274,0.21
+SW,VI,Uninfected,to the third,5,21228,N/L,9999,1.331285202,,0.204813108,0.199
+f/2,VI,10:1 Co-incubation,to the fourth,7,36814,L,142997881,57.36351531,,54.32756325,0.1
+f/2,VI,10:1 Co-incubation,to the fourth,7,66765,L,635257110,51.30690162,,44.87518355,0.074
+f/2,VI,10:1 Co-incubation,to the fourth,7,33814,L,962977276,57.08901131,,57.26297478,0.093
+f/2,VI,10:1 Co-incubation,to the second,7,30706,L,9999,2.937420179,,5.906768838,0.457
+f/2,VI,10:1 Co-incubation,to the second,7,33206,L,9999,3.454384411,,6.643046944,0.443
+f/2,VI,10:1 Co-incubation,to the second,7,26392,L,9999,3.640416048,,3.417533432,0.456
+f/2,VI,10:1 Co-incubation,to the third,7,301941,L,9999,2.545619845,,4.8282356,0.445
+f/2,VI,10:1 Co-incubation,to the third,7,335667,L,9999,2.351188738,,5.251474969,0.433
+f/2,VI,10:1 Co-incubation,to the third,7,306735,L,9999,3.519033464,,4.404385208,0.44
+f/2,VI,Preinfected,to the fourth,7,15886,L,11936845,56.35491607,,72.00239808,0.186
+f/2,VI,Preinfected,to the fourth,7,12390,L,65080816,57.87855496,,76.01844735,0.186
+f/2,VI,Preinfected,to the fourth,7,12248,L,118774865,58.70917574,,76.7496112,0.189
+f/2,VI,Preinfected,to the second,7,25133,L,9999,2.482000758,,6.934444865,0.471
+f/2,VI,Preinfected,to the second,7,25638,L,9999,2.526002972,,6.779346211,0.459
+f/2,VI,Preinfected,to the second,7,23538,L,9999,3.196439409,,2.913210601,0.467
+f/2,VI,Preinfected,to the third,7,175733,L,9999,2.411662692,,12.58400173,0.466
+f/2,VI,Preinfected,to the third,7,183457,L,2134068,1.915589472,,14.48891658,0.459
+f/2,VI,Preinfected,to the third,7,164943,L,9999,2.84081067,,7.477337029,0.461
+f/2,VI,Uninfected,to the fourth,7,2484686,L,9999,0.781932754,,1.448875397,0.457
+f/2,VI,Uninfected,to the fourth,7,1770514,L,9999,1.00697134,,1.516911955,0.457
+f/2,VI,Uninfected,to the fourth,7,2648800,L,9999,0.901756051,,1.639556457,0.457
+f/2,VI,Uninfected,to the second,7,37457,L,9999,2.873124841,,4.805491991,0.469
+f/2,VI,Uninfected,to the second,7,45543,L,9999,2.530322041,,6.043496445,0.461
+f/2,VI,Uninfected,to the second,7,37210,L,9999,2.354747888,,3.685692347,0.464
+f/2,VI,Uninfected,to the third,7,405200,L,9999,2.340995628,,4.174305458,0.46
+f/2,VI,Uninfected,to the third,7,378229,L,9999,1.797854661,,6.012992899,0.458
+f/2,VI,Uninfected,to the third,7,327771,L,9999,1.847977685,,4.829149233,0.461
+SW,VI,10:1 Co-incubation,to the fourth,7,87590,L,289116527,12.81939763,,9.742307274,0.042
+SW,VI,10:1 Co-incubation,to the fourth,7,85476,L,25894480,12.63509749,,11.27576602,0.051
+SW,VI,10:1 Co-incubation,to the fourth,7,73838,L,105175440,15.19411841,,12.66606475,0.026
+SW,VI,10:1 Co-incubation,to the second,7,2346,L,965055,0.811907984,,0.676589986,0.088
+SW,VI,10:1 Co-incubation,to the second,7,2502,L,9999,0.888324873,,2.538071066,0.094
+SW,VI,10:1 Co-incubation,to the second,7,1981,L,9999,1.923076923,,2.243589744,0.082
+SW,VI,10:1 Co-incubation,to the third,7,23914,L,9999,1.513341298,,1.951413779,0.111
+SW,VI,10:1 Co-incubation,to the third,7,25229,L,9999,0.981502454,,2.227255568,
+SW,VI,10:1 Co-incubation,to the third,7,25829,L,9999,1.364306785,,2.249262537,0.109
+SW,VI,Preinfected,to the fourth,7,7770,L,9999,46.49842271,,71.35646688,0.208
+SW,VI,Preinfected,to the fourth,7,9176,L,6540606,43.37606838,,66.93376068,0.208
+SW,VI,Preinfected,to the fourth,7,8691,L,14188472,45.79808235,,70.67117879,0.204
+SW,VI,Preinfected,to the second,7,1833,L,9999,1.604278075,,6.417112299,0.16
+SW,VI,Preinfected,to the second,7,2703,L,9999,1.088270859,,5.320435308,
+SW,VI,Preinfected,to the second,7,2461,L,9999,1.726427623,,4.11686587,0.115
+SW,VI,Preinfected,to the third,7,9181,L,9999,5.018686599,,14.68232782,0.275
+SW,VI,Preinfected,to the third,7,10652,L,9999,3.129314312,,16.56695812,
+SW,VI,Preinfected,to the third,7,8137,L,9999,5.78313253,,17.28915663,0.284
+SW,VI,Uninfected,to the fourth,7,314784,L,9999,0.193098293,,0.323906815,0.482
+SW,VI,Uninfected,to the fourth,7,284314,L,9999,0.262068966,,0.268965517,0.51
+SW,VI,Uninfected,to the second,7,3255,L,9999,0.401606426,,2.208835341,0.108
+SW,VI,Uninfected,to the second,7,4755,L,9999,0.824742268,,1.443298969,
+SW,VI,Uninfected,to the second,7,2690,L,9999,0.729040097,,1.215066829,0.091
+SW,VI,Uninfected,to the third,7,36922,L,9999,1.327668614,,2.44291025,0.137
+SW,VI,Uninfected,to the third,7,33451,L,9999,1.289566237,,2.344665885,0.126
+SW,VI,Uninfected,to the third,7,30294,L,9999,0.970873786,,2.071197411,0.112
+f/2,VI,10:1 Co-incubation,to the fourth,9,2636,A,469810684,51.95035461,,31.02836879,0.086
+f/2,VI,10:1 Co-incubation,to the fourth,9,3276,A,3945495447,51.06990014,,34.52211127,0.129
+f/2,VI,10:1 Co-incubation,to the fourth,9,2262,A,6050098392,48.34710744,,30.5785124,0.146
+f/2,VI,10:1 Co-incubation,to the second,9,174336,A,9999,3.570279833,,0.450305564,0.457
+f/2,VI,10:1 Co-incubation,to the second,9,159869,A,9999,4.279200281,,0.561206594,0.448
+f/2,VI,10:1 Co-incubation,to the second,9,121794,A,9999,4.419889503,,0.276243094,0.46
+f/2,VI,10:1 Co-incubation,to the third,9,1492486,A,2625653,1.96122633,,0.510970845,0.44
+f/2,VI,10:1 Co-incubation,to the third,9,1330206,A,2171308,2.411263806,,0.522721524,0.427
+f/2,VI,10:1 Co-incubation,to the third,9,1200673,A,9999,2.335139174,,0.467027835,
+f/2,VI,Preinfected,to the fourth,9,3670,A,63900668,47.13896458,,42.91553134,0.138
+f/2,VI,Preinfected,to the fourth,9,2815,A,131542476,42.80639432,,42.80639432,0.177
+f/2,VI,Preinfected,to the fourth,9,2710,A,686996923,50.73800738,,46.3099631,0.161
+f/2,VI,Preinfected,to the second,9,134350,A,9999,3.580200968,,0.759211016,0.458
+f/2,VI,Preinfected,to the second,9,164360,A,9999,3.121197372,,0.498904843,0.449
+f/2,VI,Preinfected,to the second,9,137230,A,9999,3.075129345,,0.364351818,0.463
+f/2,VI,Preinfected,to the third,9,98620,A,1953406038,35.93591564,,21.63861286,0.129
+f/2,VI,Preinfected,to the third,9,75980,A,5714887060,41.24769676,,25.74361674,0.165
+f/2,VI,Preinfected,to the third,9,124220,A,11764358976,30.4620834,,11.41523104,0.137
+f/2,VI,Uninfected,to the fourth,9,4739560,A,9999,1.328656709,,0.596966389,0.408
+f/2,VI,Uninfected,to the fourth,9,3129468,A,9999,2.694716105,,0.8020826,0.405
+f/2,VI,Uninfected,to the fourth,9,3369578,A,9999,2.091024929,,0.944228444,0.416
+f/2,VI,Uninfected,to the second,9,166734,A,9999,3.796632552,,0.495212942,0.454
+f/2,VI,Uninfected,to the second,9,217817,A,9999,3.790750569,,0.328531716,0.448
+f/2,VI,Uninfected,to the second,9,163211,A,9999,4.047217538,,0.674536256,0.458
+f/2,VI,Uninfected,to the third,9,1388147,A,9999,1.966849076,,0.777222619,0.453
+f/2,VI,Uninfected,to the third,9,1367450,A,9999,2.761452379,,0.861444328,0.453
+f/2,VI,Uninfected,to the third,9,1284550,A,9999,2.596846075,,0.968460747,0.459
+SW,VI,10:1 Co-incubation,to the fourth,9,9592,A,205578882,36.79149798,,21.86234818,0.041
+SW,VI,10:1 Co-incubation,to the fourth,9,10752,A,41672016,33.09255079,,22.66365688,0.03
+SW,VI,10:1 Co-incubation,to the fourth,9,9350,A,39738870,36.08515057,,24.66251298,0.036
+SW,VI,10:1 Co-incubation,to the second,9,3087,A,151879,3.93081761,,0.157232704,0.131
+SW,VI,10:1 Co-incubation,to the second,9,2612,A,9999,3.345724907,,0.371747212,0.132
+SW,VI,10:1 Co-incubation,to the second,9,1942,A,9999,5.25,,0,0.138
+SW,VI,10:1 Co-incubation,to the third,9,21592,A,215850,4.541366906,,0.854316547,0.226
+SW,VI,10:1 Co-incubation,to the third,9,19379,A,9999,3.957915832,,0.250501002,0.229
+SW,VI,10:1 Co-incubation,to the third,9,23117,A,9999,4.241915162,,0.16799664,0.178
+SW,VI,Preinfected,to the fourth,9,2986,A,9999,36.0446571,,27.91068581,0.209
+SW,VI,Preinfected,to the fourth,9,2995,A,5776684,27.34499205,,23.37042925,0.166
+SW,VI,Preinfected,to the fourth,9,3043,A,15812959,31.14241002,,21.59624413,0.167
+SW,VI,Preinfected,to the second,9,552,A,9999,10.34482759,,1.724137931,0.258
+SW,VI,Preinfected,to the second,9,1652,A,9999,4.610951009,,1.44092219,0.16
+SW,VI,Preinfected,to the second,9,1952,A,9999,2.43902439,,0.243902439,
+SW,VI,Preinfected,to the third,9,3043,A,9999,9.546165884,,5.79029734,0.225
+SW,VI,Preinfected,to the third,9,3229,A,9999,5.162241888,,2.212389381,0.221
+SW,VI,Preinfected,to the third,9,3295,A,9999,7.947976879,,1.589595376,0.211
+SW,VI,Uninfected,to the fourth,9,320168,A,9999,0.40866367,,0.140113258,0.482
+SW,VI,Uninfected,to the second,9,3537,A,9999,3.5667107,,0.396301189,0.133
+SW,VI,Uninfected,to the second,9,7467,A,9999,3.37922403,,0.187734668,0.18
+SW,VI,Uninfected,to the second,9,2220,A,9999,4,,0.210526316,
+SW,VI,Uninfected,to the third,9,51888,A,9999,3.134005764,,0.252161383,0.154
+SW,VI,Uninfected,to the third,9,40486,A,9999,4.247460757,,0.415512465,0.167
+SW,VI,Uninfected,to the third,9,35869,A,9999,5.054715998,,0.416883794,0.184
+f/2,VI,10:1 Co-incubation,to the fourth,11,625,A/B,82585144,43.33333333,,52.22222222,0.074
+f/2,VI,10:1 Co-incubation,to the fourth,11,861,A/B,9999,42.33870968,,60.08064516,0.148
+f/2,VI,10:1 Co-incubation,to the fourth,11,535,A/B,846685922,37.66233766,,64.93506494,0.126
+f/2,VI,10:1 Co-incubation,to the second,11,780625,A/B,9999,2.59407526,,1.457165733,0.447
+f/2,VI,10:1 Co-incubation,to the second,11,682375,A/B,9999,2.912621359,,1.630335226,0.446
+f/2,VI,10:1 Co-incubation,to the second,11,573375,A/B,9999,2.354480052,,1.220841509,0.439
+f/2,VI,10:1 Co-incubation,to the third,11,621125,A/B,16404809188,15.55644999,,6.37955323,0.037
+f/2,VI,10:1 Co-incubation,to the third,11,492625,A/B,9999,23.26820604,,9.540725704,0.043
+f/2,VI,10:1 Co-incubation,to the third,11,3710875,A/B,63296486,1.12507158,,0.845487924,0.434
+f/2,VI,Preinfected,to the fourth,11,1306,A/B,70304079,41.4893617,,40.95744681,0.132
+f/2,VI,Preinfected,to the fourth,11,903,A/B,118549407,40,,44.23076923,0.2
+f/2,VI,Preinfected,to the fourth,11,795,A/B,16590493,49.78165939,,52.40174672,0.175
+f/2,VI,Preinfected,to the second,11,507125,A/B,32878857,3.376879468,,3.019472517,0.438
+f/2,VI,Preinfected,to the second,11,606188,A/B,475128,2.361068151,,2.123930302,0.447
+f/2,VI,Preinfected,to the second,11,548625,A/B,1572757,3.998632946,,1.856915015,0.456
+f/2,VI,Preinfected,to the third,11,7115,A/B,253491379,52.56222548,,56.95461201,0.172
+f/2,VI,Preinfected,to the third,11,8101,A/B,439804282,50.40720103,,60.00857265,0.18
+f/2,VI,Preinfected,to the third,11,8521,A/B,73027042,50.81499593,,55.21597392,0.178
+f/2,VI,Uninfected,to the fourth,11,7362062,A/B,9999,0.804906738,,0.658712821,0.413
+f/2,VI,Uninfected,to the fourth,11,4896619,A/B,9999,0.876683257,,0.550769309,0.417
+f/2,VI,Uninfected,to the fourth,11,4794433,A/B,9999,0.990839892,,0.676041801,0.409
+f/2,VI,Uninfected,to the second,11,1042639,A/B,9999,1.672994779,,0.806834362,0.453
+f/2,VI,Uninfected,to the second,11,824289,A/B,9999,1.831007054,,0.870478763,0.44
+f/2,VI,Uninfected,to the second,11,690433,A/B,9999,1.881383265,,0.752553306,0.445
+f/2,VI,Uninfected,to the third,11,3099711,A/B,9999,2.063378033,,0.854086845,0.446
+f/2,VI,Uninfected,to the third,11,3335753,A/B,9999,1.290609702,,0.749147011,0.446
+f/2,VI,Uninfected,to the third,11,2825814,A/B,9999,1.238945802,,0.582260748,0.453
+SW,VI,10:1 Co-incubation,to the fourth,11,1451,A/B,43286024,26.55502392,,51.67464115,0.125
+SW,VI,10:1 Co-incubation,to the fourth,11,1267,A/B,584542689,29.5890411,,45.20547945,0.053
+SW,VI,10:1 Co-incubation,to the fourth,11,1361,A/B,9999,32.65306122,,43.62244898,0.082
+SW,VI,10:1 Co-incubation,to the second,11,3059,A/B,9999,3.632236095,,2.383654938,0.117
+SW,VI,10:1 Co-incubation,to the second,11,1694,A/B,9999,3.073770492,,1.844262295,0.203
+SW,VI,10:1 Co-incubation,to the second,11,1122,A/B,9999,3.095975232,,2.786377709,0.151
+SW,VI,10:1 Co-incubation,to the third,11,5139,A/B,343809,10.94594595,,10.40540541,0.299
+SW,VI,10:1 Co-incubation,to the third,11,4028,A/B,9999,7.844827586,,9.051724138,0.294
+SW,VI,10:1 Co-incubation,to the third,11,5170,A/B,9999,7.857622565,,8.999328408,0.262
+SW,VI,Preinfected,to the fourth,11,1837,A/B,1514113,20.98298677,,30.81285444,0.146
+SW,VI,Preinfected,to the fourth,11,1517,A/B,19131378,22.19679634,,32.72311213,0.106
+SW,VI,Preinfected,to the fourth,11,1497,A/B,9932675,26.21809745,,39.21113689,0.114
+SW,VI,Preinfected,to the second,11,278,A/B,9999,12.5,,12.5,0.195
+SW,VI,Preinfected,to the second,11,701,A/B,9999,4.455445545,,7.425742574,0.261
+SW,VI,Preinfected,to the second,11,740,A/B,9999,6.572769953,,9.389671362,0.223
+SW,VI,Preinfected,to the third,11,3358,A/B,9999,5.687693899,,7.755946225,0.208
+SW,VI,Preinfected,to the third,11,2569,A/B,9999,7.702702703,,13.37837838,
+SW,VI,Preinfected,to the third,11,2556,A/B,9999,7.608695652,,12.22826087,0.208
+SW,VI,Uninfected,to the fourth,11,286500,A/B,9999,0.479930192,,0.17452007,0.445
+SW,VI,Uninfected,to the second,11,4149,A/B,9999,1.757322176,,3.09623431,0.157
+SW,VI,Uninfected,to the second,11,12500,A/B,9999,1.25,,0.444444444,0.168
+SW,VI,Uninfected,to the second,11,2601,A/B,9999,1.335113485,,3.337783712,0.153
+SW,VI,Uninfected,to the third,11,72250,A/B,9999,1.095732411,,1.369665513,0.138
+SW,VI,Uninfected,to the third,11,57583,A/B,9999,1.392908828,,2.33357453,0.154
+SW,VI,Uninfected,to the third,11,49792,A/B,9999,2.133891213,,2.928870293,
+f/2,VI,10:1 Co-incubation,to the fourth,14,122,B,72336570,40,,57.14285714,0.061
+f/2,VI,10:1 Co-incubation,to the fourth,14,288,B,318406801,32.53012048,,43.37349398,0.213
+f/2,VI,10:1 Co-incubation,to the fourth,14,229,B,643119024,25.75757576,,30.3030303,0.168
+f/2,VI,10:1 Co-incubation,to the second,14,3847125,B,9999,1.137212854,,1.683075024,0.438
+f/2,VI,10:1 Co-incubation,to the second,14,3871375,B,9999,0.791062607,,1.026766976,0.549
+f/2,VI,10:1 Co-incubation,to the second,14,3618375,B,9999,1.247106781,,0.735827547,0.443
+f/2,VI,10:1 Co-incubation,to the third,14,6292,B,91728196,47.73730684,,60.09933775,0.115
+f/2,VI,10:1 Co-incubation,to the third,14,4740,B,1034144521,46.52014652,,53.77289377,0.104
+f/2,VI,10:1 Co-incubation,to the third,14,97646,B,888318024,25.19735438,,16.96180926,0.097
+f/2,VI,Preinfected,to the fourth,14,370,B,6176982,37,,56,0.16
+f/2,VI,Preinfected,to the fourth,14,441,B,22484582,31.93277311,,59.66386555,0.186
+f/2,VI,Preinfected,to the fourth,14,270,B,92603766,42.46575342,,79.45205479,0.172
+f/2,VI,Preinfected,to the second,14,39393,B,81071365,47.79052275,,71.18277548,0.263
+f/2,VI,Preinfected,to the second,14,64474,B,1094803106,53.33180147,,84.82306985,0.231
+f/2,VI,Preinfected,to the second,14,15915,B,1205422,44.00744706,,80.70747033,0.201
+f/2,VI,Preinfected,to the third,14,1507,B,18418025,48.64864865,,62.40786241,0.108
+f/2,VI,Preinfected,to the third,14,2030,B,107805623,37.95620438,,65.1459854,
+f/2,VI,Preinfected,to the third,14,1970,B,211627957,33.27067669,,70.4887218,0.115
+f/2,VI,Uninfected,to the fourth,14,9115742,B,9999,0.806828315,,1.486262686,0.313
+f/2,VI,Uninfected,to the fourth,14,6264000,B,9999,0.632389898,,1.481069501,0.312
+f/2,VI,Uninfected,to the fourth,14,5959871,B,9999,0.718785858,,1.820779839,0.351
+f/2,VI,Uninfected,to the second,14,2205290,B,9999,2.357966181,,3.569129951,0.277
+f/2,VI,Uninfected,to the second,14,2561419,B,9999,1.803435595,,2.418014206,0.377
+f/2,VI,Uninfected,to the second,14,2594839,B,9999,2.317255097,,2.441571358,0.334
+f/2,VI,Uninfected,to the third,14,4953806,B,9999,0.664200875,,1.59668681,0.334
+f/2,VI,Uninfected,to the third,14,4230968,B,9999,1.055199756,,1.503507167,0.345
+SW,VI,10:1 Co-incubation,to the fourth,14,131,B,108834656,15.78947368,,18.42105263,0.167
+SW,VI,10:1 Co-incubation,to the fourth,14,82,B,5564070,16.66666667,,20.83333333,0.079
+SW,VI,10:1 Co-incubation,to the fourth,14,107,B,4964586,19.35483871,,22.58064516,0.045
+SW,VI,10:1 Co-incubation,to the second,14,1093,B,9999,5.660377358,,3.144654088,0.243
+SW,VI,10:1 Co-incubation,to the second,14,313,B,9999,9.89010989,,5.494505495,0.231
+SW,VI,10:1 Co-incubation,to the second,14,268,B,9999,14.1025641,,6.41025641,0.176
+SW,VI,10:1 Co-incubation,to the third,14,1887,B,9999,12.02185792,,13.1147541,0.198
+SW,VI,10:1 Co-incubation,to the third,14,1601,B,9999,7.081545064,,7.081545064,0.201
+SW,VI,10:1 Co-incubation,to the third,14,2155,B,9999,11.80223285,,9.56937799,0.238
+SW,VI,Preinfected,to the fourth,14,443,B,9999,20.8,,58.4,0.122
+SW,VI,Preinfected,to the fourth,14,468,B,3628538,17.42424242,,62.12121212,0.104
+SW,VI,Preinfected,to the fourth,14,376,B,7190997,24.52830189,,53.77358491,0.126
+SW,VI,Preinfected,to the second,14,135,B,9999,23.68421053,,26.31578947,
+SW,VI,Preinfected,to the second,14,213,B,9999,11.66666667,,18.33333333,0.152
+SW,VI,Preinfected,to the second,14,177,B,9999,18,,20,0.193
+SW,VI,Preinfected,to the third,14,1762,B,9999,6.639839034,,24.34607646,0.241
+SW,VI,Preinfected,to the third,14,1011,B,9999,10.87719298,,25.96491228,0.207
+SW,VI,Preinfected,to the third,14,1170,B,9999,8.787878788,,17.27272727,0.241
+SW,VI,Uninfected,to the fourth,14,320463,B,9999,0,,0,0.478
+SW,VI,Uninfected,to the second,14,4775,B,9999,2.93901543,,14.91550331,0.251
+SW,VI,Uninfected,to the second,14,2512,B,9999,2.793296089,,14.94413408,0.244
+SW,VI,Uninfected,to the third,14,161684,B,9999,0.390625,,2.6171875,0.377
+SW,VI,Uninfected,to the third,14,130484,B,9999,0.354953211,,4.130364634,0.474
+SW,VI,Uninfected,to the third,14,89495,B,9999,0.705716302,,5.363443896,0.289
+f/2,VII,10:1 Co-incubation,to the fifth,2,378591,V,182514535,13.07133998,,,
+f/2,VII,10:1 Co-incubation,to the fifth,2,326908,V,9999,12.69978842,,,
+f/2,VII,10:1 Co-incubation,to the fifth,2,321097,V,164914938,11.35211112,,,
+f/2,VII,10:1 Co-incubation,to the first,2,69,V,9999,8.474576272,,,
+f/2,VII,10:1 Co-incubation,to the first,2,53,V,9999,8.510638298,,,
+f/2,VII,10:1 Co-incubation,to the first,2,44,V,9999,2.5,,,
+f/2,VII,10:1 Co-incubation,to the fourth,2,56750,V,175000,4.723233098,,,
+f/2,VII,10:1 Co-incubation,to the fourth,2,47410,V,9999,6.024519928,,,
+f/2,VII,10:1 Co-incubation,to the fourth,2,52550,V,9999,3.583237735,,,
+f/2,VII,10:1 Co-incubation,to the second,2,448,V,9999,6.249999999,,,
+f/2,VII,10:1 Co-incubation,to the second,2,333,V,9999,3.72881356,,,
+f/2,VII,10:1 Co-incubation,to the second,2,492,V,9999,3.603603604,,,
+f/2,VII,10:1 Co-incubation,to the third,2,4643,V,9999,4.6937751,,,
+f/2,VII,10:1 Co-incubation,to the third,2,4161,V,9999,2.507335291,,,
+f/2,VII,Uninfected,to the fifth,2,460945,V,9999,6.802937724,,,
+f/2,VII,Uninfected,to the fifth,2,457198,V,9999,5.110175159,,,
+f/2,VII,Uninfected,to the fifth,2,607943,V,9999,2.747778721,,,
+f/2,VII,Uninfected,to the first,2,43,V,9999,9.090909093,,,
+f/2,VII,Uninfected,to the first,2,61,V,9999,11.53846154,,,
+f/2,VII,Uninfected,to the first,2,37,V,9999,9.375000002,,,
+f/2,VII,Uninfected,to the fourth,2,45362,V,9999,2.143796137,,,
+f/2,VII,Uninfected,to the fourth,2,40751,V,9999,2.362882008,,,
+f/2,VII,Uninfected,to the fourth,2,52922,V,9999,3.104272713,,,
+f/2,VII,Uninfected,to the second,2,460,V,9999,1.994301994,,,
+f/2,VII,Uninfected,to the second,2,331,V,9999,2.135231317,,,
+f/2,VII,Uninfected,to the second,2,403,V,9999,2.898550726,,,
+f/2,VII,Uninfected,to the third,2,4436,V,9999,2.481902791,,,
+f/2,VII,Uninfected,to the third,2,4014,V,9999,1.938895417,,,
+f/2,VII,Uninfected,to the third,2,4560,V,9999,3.761514841,,,
+f/2,VII,10:1 Co-incubation,to the fifth,3,313020,U,7857982,13.00332121,,,
+f/2,VII,10:1 Co-incubation,to the fifth,3,274202,U,283108386,16.59176306,,,
+f/2,VII,10:1 Co-incubation,to the fifth,3,250829,U,135440146,21.74887041,,,
+f/2,VII,10:1 Co-incubation,to the first,3,155,U,9999,5.555555554,,,
+f/2,VII,10:1 Co-incubation,to the first,3,113,U,9999,8.98876405,,,
+f/2,VII,10:1 Co-incubation,to the first,3,95,U,9999,1.249999999,,,
+f/2,VII,10:1 Co-incubation,to the fourth,3,103699,U,305144,2.423235564,,,
+f/2,VII,10:1 Co-incubation,to the fourth,3,103700,U,9999,2.738736628,,,
+f/2,VII,10:1 Co-incubation,to the fourth,3,89949,U,269531,4.15687271,,,
+f/2,VII,10:1 Co-incubation,to the second,3,1122,U,9999,2.087912087,,,
+f/2,VII,10:1 Co-incubation,to the second,3,1011,U,9999,2.628285357,,,
+f/2,VII,10:1 Co-incubation,to the second,3,1002,U,9999,3.206650832,,,
+f/2,VII,10:1 Co-incubation,to the third,3,11313,U,9999,2.136239781,,,
+f/2,VII,10:1 Co-incubation,to the third,3,9618,U,9999,0,,,
+f/2,VII,Uninfected,to the fifth,3,1252063,U,9999,1.955691148,,,
+f/2,VII,Uninfected,to the fifth,3,1318865,U,9999,1.414675465,,,
+f/2,VII,Uninfected,to the fifth,3,1289710,U,9999,2.23624809,,,
+f/2,VII,Uninfected,to the first,3,91,U,9999,8.641975308,,,
+f/2,VII,Uninfected,to the first,3,121,U,9999,2.803738317,,,
+f/2,VII,Uninfected,to the first,3,102,U,9999,2.298850573,,,
+f/2,VII,Uninfected,to the fourth,3,89497,U,9999,1.828028427,,,
+f/2,VII,Uninfected,to the fourth,3,111523,U,9999,2.612488893,,,
+f/2,VII,Uninfected,to the fourth,3,126084,U,9999,2.668983646,,,
+f/2,VII,Uninfected,to the second,3,1091,U,9999,2.265705458,,,
+f/2,VII,Uninfected,to the second,3,860,U,9999,3.157894737,,,
+f/2,VII,Uninfected,to the second,3,781,U,9999,3.609022556,,,
+f/2,VII,Uninfected,to the third,3,9253,U,9999,3.132969034,,,
+f/2,VII,Uninfected,to the third,3,10371,U,9999,2.661431065,,,
+f/2,VII,Uninfected,to the third,3,11187,U,9999,3.000734445,,,
+f/2,VII,10:1 Co-incubation,to the fifth,4,7971,U,6452256,56.05511239,,,
+f/2,VII,10:1 Co-incubation,to the fifth,4,6285,U,77202344,45.94198653,,,
+f/2,VII,10:1 Co-incubation,to the fifth,4,5251,U,9093227,50.44658807,,,
+f/2,VII,10:1 Co-incubation,to the first,4,808,U,9999,2.384500745,,,
+f/2,VII,10:1 Co-incubation,to the first,4,712,U,9999,3.074433657,,,
+f/2,VII,10:1 Co-incubation,to the first,4,600,U,9999,2.539062499,,,
+f/2,VII,10:1 Co-incubation,to the fourth,4,72719,U,10677405,41.72915397,,,
+f/2,VII,10:1 Co-incubation,to the fourth,4,86853,U,51296874,34.45219567,,,
+f/2,VII,10:1 Co-incubation,to the fourth,4,76071,U,11074330,34.07734425,,,
+f/2,VII,10:1 Co-incubation,to the second,4,6517,U,9999,2.126086153,,,
+f/2,VII,10:1 Co-incubation,to the second,4,6273,U,9999,1.671258035,,,
+f/2,VII,10:1 Co-incubation,to the second,4,4865,U,9999,3.710843374,,,
+f/2,VII,10:1 Co-incubation,to the third,4,59408,U,9999,2.303839056,,,
+f/2,VII,10:1 Co-incubation,to the third,4,58122,U,9999,1.559960357,,,
+f/2,VII,Uninfected,to the fifth,4,4052355,U,9999,1.758659722,,,
+f/2,VII,Uninfected,to the fifth,4,4319095,U,9999,1.107374781,,,
+f/2,VII,Uninfected,to the fifth,4,4323821,U,9999,2.392629185,,,
+f/2,VII,Uninfected,to the first,4,514,U,9999,4.487179488,,,
+f/2,VII,Uninfected,to the first,4,683,U,9999,3.645833333,,,
+f/2,VII,Uninfected,to the first,4,533,U,9999,8.853118712,,,
+f/2,VII,Uninfected,to the fourth,4,682800,U,9999,2.965409136,,,
+f/2,VII,Uninfected,to the fourth,4,758765,U,9999,2.093697981,,,
+f/2,VII,Uninfected,to the fourth,4,698300,U,9999,3.631947894,,,
+f/2,VII,Uninfected,to the second,4,6358,U,9999,5.357760111,,,
+f/2,VII,Uninfected,to the second,4,5771,U,9999,3.802672149,,,
+f/2,VII,Uninfected,to the second,4,3757,U,9999,6.191155493,,,
+f/2,VII,Uninfected,to the third,4,60580,U,9999,4.810622551,,,
+f/2,VII,Uninfected,to the third,4,65658,U,9999,4.019873531,,,
+f/2,VII,Uninfected,to the third,4,49658,U,9999,6.388810946,,,
+f/2,VII,10:1 Co-incubation,to the fifth,5,3723,T,38308807,71.41429284,,,
+f/2,VII,10:1 Co-incubation,to the fifth,5,1791,T,23808194,56.54822336,,,
+f/2,VII,10:1 Co-incubation,to the fifth,5,1636,T,1053249,56.35080645,,,
+f/2,VII,10:1 Co-incubation,to the first,5,1683,T,9999,1.451278507,,,
+f/2,VII,10:1 Co-incubation,to the first,5,1448,T,9999,1.334379906,,,
+f/2,VII,10:1 Co-incubation,to the first,5,1170,T,9999,1.938325991,,,
+f/2,VII,10:1 Co-incubation,to the fourth,5,27691,T,2528635,45.06852997,,,
+f/2,VII,10:1 Co-incubation,to the fourth,5,34195,T,10857215,34.63603977,,,
+f/2,VII,10:1 Co-incubation,to the fourth,5,23629,T,2093694,30.97382199,,,
+f/2,VII,10:1 Co-incubation,to the second,5,8409,T,9999,1.507190265,,,
+f/2,VII,10:1 Co-incubation,to the second,5,12656,T,9999,1.140343001,,,
+f/2,VII,10:1 Co-incubation,to the second,5,10642,T,9999,2.8480093,,,
+f/2,VII,10:1 Co-incubation,to the third,5,100356,T,9999,1.433272309,,,
+f/2,VII,10:1 Co-incubation,to the third,5,118551,T,9999,0.888569374,,,
+f/2,VII,Uninfected,to the fifth,5,6478438,T,9999,4.19935154,,,
+f/2,VII,Uninfected,to the fifth,5,5929402,T,9999,0.923019076,,,
+f/2,VII,Uninfected,to the fifth,5,6681331,T,9999,0.945523545,,,
+f/2,VII,Uninfected,to the first,5,1094,T,9999,6.563706564,,,
+f/2,VII,Uninfected,to the first,5,1845,T,9999,1.11049417,,,
+f/2,VII,Uninfected,to the first,5,1651,T,9999,2.065081352,,,
+f/2,VII,Uninfected,to the fourth,5,1592813,T,9999,4.260057586,,,
+f/2,VII,Uninfected,to the fourth,5,1652779,T,9999,0.523708211,,,
+f/2,VII,Uninfected,to the fourth,5,1701083,T,9999,1.874839066,,,
+f/2,VII,Uninfected,to the second,5,13527,T,9999,4.782717282,,,
+f/2,VII,Uninfected,to the second,5,14862,T,9999,1.224354732,,,
+f/2,VII,Uninfected,to the second,5,13205,T,9999,1.517759349,,,
+f/2,VII,Uninfected,to the third,5,149128,T,9999,5.327126092,,,
+f/2,VII,Uninfected,to the third,5,169139,T,9999,0.639689847,,,
+f/2,VII,Uninfected,to the third,5,164109,T,9999,1.492657575,,,
+f/2,VII,10:1 Co-incubation,to the fifth,6,1266,T,51425277,76.82926832,,,
+f/2,VII,10:1 Co-incubation,to the fifth,6,970,T,66475258,78.94736843,,,
+f/2,VII,10:1 Co-incubation,to the fifth,6,624,T,30086598,73.69439071,,,
+f/2,VII,10:1 Co-incubation,to the first,6,2918,T,9999,1.808557565,,,
+f/2,VII,10:1 Co-incubation,to the first,6,2583,T,9999,2.16091954,,,
+f/2,VII,10:1 Co-incubation,to the first,6,1930,T,9999,2.878598248,,,
+f/2,VII,10:1 Co-incubation,to the fourth,6,4876,T,4803908,64.55529164,,,
+f/2,VII,10:1 Co-incubation,to the fourth,6,5045,T,38599133,52.9896422,,,
+f/2,VII,10:1 Co-incubation,to the fourth,6,3056,T,17469907,58.1027668,,,
+f/2,VII,10:1 Co-incubation,to the second,6,14963,T,9999,2.150352659,,,
+f/2,VII,10:1 Co-incubation,to the second,6,19897,T,9999,2.047394497,,,
+f/2,VII,10:1 Co-incubation,to the second,6,14744,T,9999,9.362712979,,,
+f/2,VII,10:1 Co-incubation,to the third,6,190779,T,9999,6.028940532,,,
+f/2,VII,10:1 Co-incubation,to the third,6,197404,T,9999,1.77000734,,,
+f/2,VII,Uninfected,to the fifth,6,7152573,T,9999,0.928310133,,,
+f/2,VII,Uninfected,to the fifth,6,7871180,T,9999,1.506127417,,,
+f/2,VII,Uninfected,to the fifth,6,7549485,T,9999,1.58426645,,,
+f/2,VII,Uninfected,to the first,6,1560,T,9999,2.576112413,,,
+f/2,VII,Uninfected,to the first,6,2717,T,9999,1.512373969,,,
+f/2,VII,Uninfected,to the first,6,2571,T,9999,3.165467626,,,
+f/2,VII,Uninfected,to the fourth,6,2466845,T,9999,0.954405022,,,
+f/2,VII,Uninfected,to the fourth,6,2824430,T,9999,0.654291308,,,
+f/2,VII,Uninfected,to the fourth,6,3062040,T,9999,0.751456675,,,
+f/2,VII,Uninfected,to the second,6,16476,T,9999,2.035021297,,,
+f/2,VII,Uninfected,to the second,6,19448,T,9999,1.72888519,,,
+f/2,VII,Uninfected,to the second,6,20653,T,9999,2.377996371,,,
+f/2,VII,Uninfected,to the third,6,228058,T,9999,1.858214951,,,
+f/2,VII,Uninfected,to the third,6,323418,T,9999,1.946340141,,,
+f/2,VII,Uninfected,to the third,6,339830,T,9999,2.065655217,,,
+f/2,VII,10:1 Co-incubation,to the fifth,7,406,T,12437671,78.1976744,,,
+f/2,VII,10:1 Co-incubation,to the fifth,7,306,T,9842205,75.95419846,,,
+f/2,VII,10:1 Co-incubation,to the fifth,7,294,T,4591147,69.07630522,,,
+f/2,VII,10:1 Co-incubation,to the first,7,8108,T,9999,0.668993601,,,
+f/2,VII,10:1 Co-incubation,to the first,7,8268,T,9999,1.031510527,,,
+f/2,VII,10:1 Co-incubation,to the first,7,6802,T,9999,1.664355063,,,
+f/2,VII,10:1 Co-incubation,to the fourth,7,198,T,3268659,55.95238096,,,
+f/2,VII,10:1 Co-incubation,to the fourth,7,232,T,6163099,61.80904524,,,
+f/2,VII,10:1 Co-incubation,to the fourth,7,259,T,1883685,50.45454544,,,
+f/2,VII,10:1 Co-incubation,to the second,7,40835,T,9999,0.7450618,,,
+f/2,VII,10:1 Co-incubation,to the second,7,70099,T,9999,0.974918757,,,
+f/2,VII,10:1 Co-incubation,to the second,7,45770,T,9999,5.81763842,,,
+f/2,VII,10:1 Co-incubation,to the third,7,332634,T,110242206,11.13466679,,,
+f/2,VII,10:1 Co-incubation,to the third,7,258794,T,142505389,11.0622585,,,
+f/2,VII,Uninfected,to the fifth,7,10330790,T,9999,1.321583345,,,
+f/2,VII,Uninfected,to the fifth,7,11177431,T,9999,1.683890333,,,
+f/2,VII,Uninfected,to the fifth,7,10267409,T,9999,1.227272526,,,
+f/2,VII,Uninfected,to the first,7,4490,T,9999,3.563474388,,,
+f/2,VII,Uninfected,to the first,7,11771,T,9999,1.132766949,,,
+f/2,VII,Uninfected,to the first,7,12167,T,9999,1.464435146,,,
+f/2,VII,Uninfected,to the fourth,7,6261370,T,9999,0.539498544,,,
+f/2,VII,Uninfected,to the fourth,7,5885559,T,9999,0.993791717,,,
+f/2,VII,Uninfected,to the fourth,7,5619309,T,9999,0.901599032,,,
+f/2,VII,Uninfected,to the second,7,68294,T,9999,1.18897707,,,
+f/2,VII,Uninfected,to the second,7,84196,T,9999,1.534699581,,,
+f/2,VII,Uninfected,to the second,7,71191,T,9999,1.442983016,,,
+f/2,VII,Uninfected,to the third,7,1069770,T,9999,0.737728671,,,
+f/2,VII,Uninfected,to the third,7,1353216,T,9999,1.015011447,,,
+f/2,VII,Uninfected,to the third,7,1226282,T,9999,0.75616609,,,
